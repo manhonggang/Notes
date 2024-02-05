@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "8cc556779f661abe",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7fbc5e59311a255",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55c2a77d292cc9b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "思考整理/战斗节奏及投放节奏.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "483d98c93336339e",
+    "type": "split",
+    "children": [
+      {
+        "id": "00b73f11e84bea97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4daf693b1d52210a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "52b90a8b1f800ec3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "91e5f829b1a894fb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f291d45eebc45c00",
+    "type": "split",
+    "children": [
+      {
+        "id": "98f5c71cb9e8aabf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1e202399a19bc12",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "思考整理/战斗节奏及投放节奏.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b9a64a6ac8c2521d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "思考整理/战斗节奏及投放节奏.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "213164f9fb9b644b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "思考整理/战斗节奏及投放节奏.md"
+              }
+            }
+          },
+          {
+            "id": "46a063369235d987",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "55c2a77d292cc9b6",
+  "lastOpenFiles": [
+    "思考整理/越付费，越好玩.md",
+    "思考整理/战斗节奏及投放节奏.md",
+    "资料及书影音笔记/暗时间.md",
+    "资料及书影音笔记/13+1体系：打造持续健康的组织.md",
+    "思考整理/知识共享原理及实施方案.md",
+    "思考整理/自我训练.md",
+    "思考整理/基于逃脱系统的设计思考.md",
+    "思考整理/把外部系统当成一种玩法.md",
+    "思考整理/怎样构思一个游戏系统【Part2】.md",
+    "思考整理/如何设计游戏数值系统.md"
+  ]
+}
