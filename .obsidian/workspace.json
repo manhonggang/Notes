@@ -13,8 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "见闻资料/卢曼卡片盒笔记法介绍 (Introduction to the Zettelkasten Method) • Zettelkasten Method.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8d60ecead33ec7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "思考整理/战斗节奏及投放节奏.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24201a860cb6b58c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "快速思考/如何做笔记.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -85,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "思考整理/战斗节奏及投放节奏.md",
+                "file": "见闻资料/卢曼卡片盒笔记法介绍 (Introduction to the Zettelkasten Method) • Zettelkasten Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "思考整理/战斗节奏及投放节奏.md",
+                "file": "见闻资料/卢曼卡片盒笔记法介绍 (Introduction to the Zettelkasten Method) • Zettelkasten Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "思考整理/战斗节奏及投放节奏.md"
+                "file": "见闻资料/卢曼卡片盒笔记法介绍 (Introduction to the Zettelkasten Method) • Zettelkasten Method.md"
               }
             }
           },
@@ -125,11 +151,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -149,15 +176,32 @@
   },
   "active": "55c2a77d292cc9b6",
   "lastOpenFiles": [
-    "思考整理/越付费，越好玩.md",
     "思考整理/战斗节奏及投放节奏.md",
-    "资料及书影音笔记/暗时间.md",
-    "资料及书影音笔记/13+1体系：打造持续健康的组织.md",
-    "思考整理/知识共享原理及实施方案.md",
-    "思考整理/自我训练.md",
-    "思考整理/基于逃脱系统的设计思考.md",
-    "思考整理/把外部系统当成一种玩法.md",
-    "思考整理/怎样构思一个游戏系统【Part2】.md",
-    "思考整理/如何设计游戏数值系统.md"
+    "快速思考/如何做笔记.md",
+    "见闻资料/卢曼卡片盒笔记法介绍 (Introduction to the Zettelkasten Method) • Zettelkasten Method.md",
+    "见闻资料/马斯克：你应该永远假设，你是错的，这才是真正的进步.md",
+    "快速思考/塔科夫的吃喝设计可以运用到新项目的设计中去.md",
+    "快速思考/分类可能确实是个坏主意.md",
+    "快速思考/专业领域的山峰.md",
+    "见闻资料/真正的思考技术：来自德国社会学 Niklas Luhmann 的 Zettelkasten 方法.md",
+    "见闻资料/未确认 496221.crdownload",
+    "见闻资料/Jonathan Blow 游戏设计的真如 Truth in Game Design (2011) - 知乎.md",
+    "见闻资料/从卡片链接到大脑联想，基于 Obsidian 的卡片盒笔记法实践 - 少数派.md",
+    "快速思考/设计师必须艰苦的思考.md",
+    "快速思考/必须接受竞争，竞争是一切进步的基础.md",
+    "快速思考/无知之幕对游戏设计有帮助.md",
+    "快速思考/事业的门徒.md",
+    "见闻资料/涨粉的逻辑和邓巴数.md",
+    "见闻资料/纳西姆·塔勒布的遍历性_时间.md",
+    "见闻资料/在斯坦福对话段永平：Stop Doing List.md",
+    "见闻资料/马斯克称金钱只是一种信息：并不拥有权力.md",
+    "见闻资料/大家都这样.md",
+    "见闻资料/巴图分类的辩驳.md",
+    "见闻资料/人是台神奇的模式匹配机器.md",
+    "见闻资料/任天堂总部的外国设计师：在日本，我们这样做游戏.md",
+    "见闻资料/人生艰难，如何才能过得好一点呢.md",
+    "见闻资料/Jonathan Blow 关于《电子游戏和教育的未来》的演讲.md",
+    "见闻资料/译介丨Jonathan Blow：电子游戏和教育的未来  机核 GCORES.md",
+    "见闻资料/开发者应挖掘游戏无限玩法而非短暂体验.md"
   ]
 }

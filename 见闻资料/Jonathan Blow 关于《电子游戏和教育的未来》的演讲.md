@@ -1,3 +1,7 @@
+---
+tags:
+  - "#Jonathan_Blow"
+---
 
 原创 TrioDuckk三重鸭 indienova _2023-05-17 08:01_ _发表于北京_
 
@@ -103,3 +107,5 @@ Jonathan Blow 紧接着演示了他自己做的一款探索性游戏的 Demo，�
   
 
 _* 本文为用户投稿，不代表 indienova 观点。_
+
+[[译介丨Jonathan Blow：电子游戏和教育的未来  机核 GCORES]]
