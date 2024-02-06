@@ -1,11 +1,3 @@
----
-created: 2024-02-05T22:06:59 (UTC +08:00)
-tags: []
-source: https://zettelkasten.de/introduction/zh/
-author: sascha
----
-
-# 卢曼卡片盒笔记法介绍 (Introduction to the Zettelkasten Method) • Zettelkasten Method
 
 > ## Excerpt
 > (Chinese Translation) Learn how the Zettelkasten works as a system, what a Zettel is made of, and how to grow an organic web of knowledge.
@@ -120,7 +112,7 @@ ___
 
 现在，卢曼有了一个可以冲浪的超文本。但是，他还需要一个类似于搜索引擎的东西，来进入由超文本组成的笔记网络。“从哪里开始？”是卢曼需要回答的问题。他把笔记索引表(register)作为开始的地方，即入口。
 
-卢曼的笔记索引表常被误认为是标签系统(tag system)，但卢曼的笔记都没有标签，他也没用标签系统来组织卡片盒笔记系统。
+卢曼的笔记索引表常被误认为是标签系统(tag system)，但卢曼的笔记都没有标签，他也没用标签系统来组织卡片盒笔记系统。 ^30b920
 
 卢曼 卡片盒笔记系统中的第一个笔记索引表
 
