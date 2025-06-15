@@ -8,16 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9fafbdd4f6eb38ee",
+            "id": "96a6dbefcf46d8f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "快速思考/塔科夫的吃喝设计可以运用到新项目的设计中去.md",
+                "file": "快速思考/未命名.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
-              }
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           }
         ]
@@ -39,8 +50,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
-              }
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -55,7 +69,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -63,7 +79,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -86,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "快速思考/塔科夫的吃喝设计可以运用到新项目的设计中去.md",
+                "file": "思考整理/把外部系统当成一种玩法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +112,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "把外部系统当成一种玩法 的反向链接列表"
             }
           },
           {
@@ -103,10 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "快速思考/塔科夫的吃喝设计可以运用到新项目的设计中去.md",
+                "file": "思考整理/把外部系统当成一种玩法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "把外部系统当成一种玩法 的出链列表"
             }
           },
           {
@@ -115,8 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "快速思考/塔科夫的吃喝设计可以运用到新项目的设计中去.md"
-              }
+                "file": "思考整理/把外部系统当成一种玩法.md"
+              },
+              "icon": "lucide-list",
+              "title": "把外部系统当成一种玩法 的大纲"
             }
           },
           {
@@ -127,7 +151,9 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -139,15 +165,18 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,36 +189,43 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "9fafbdd4f6eb38ee",
+  "active": "96a6dbefcf46d8f2",
   "lastOpenFiles": [
-    "快速思考/关于李安的想法.md",
-    "快速思考/对话式的方式是一种思考方式.md",
-    "快速思考/如何做笔记.md",
-    "快速思考/整理笔记随想.md",
-    "快速思考/卡片笔记也好，脑图也好都只是一种组织方式.md",
-    "快速思考/分类可能确实是个坏主意.md",
-    "快速思考/思考逻辑的编码系统.md",
-    "快速思考/真正的AI笔记插件应该是对话式的.md",
-    "快速思考/塔科夫的吃喝设计可以运用到新项目的设计中去.md",
-    "见闻资料/Zettelkasten — How One German Scholar Was So Freakishly Productive.md",
-    "见闻资料/未确认 657516.crdownload",
-    "202402062113.md",
-    "日常/非对称风险.md",
-    "见闻资料/未确认 589365.crdownload",
-    "资料及书影音笔记/金字塔原理.md",
-    "整理资料/MDA.md",
-    "资料及书影音笔记/金线.md",
-    "资料及书影音笔记/智识分子.md",
-    "见闻资料/卢曼卡片盒笔记法介绍 (Introduction to the Zettelkasten Method) • Zettelkasten Method.md",
-    "资料及书影音笔记/临渊而立.md",
-    "资料及书影音笔记/未来简史.md",
+    "快速思考/Web3 游戏.md",
+    "快速思考/未命名.md",
+    "资料及书影音笔记/论中国.md",
+    "资料及书影音笔记/奇点临近.md",
+    "快速思考/事业的门徒.md",
+    "资料及书影音笔记/爆漫王.md",
+    "资料及书影音笔记/巨人的方法.md",
+    "资料及书影音笔记/伟大作品的隐秘结构.md",
+    "炒股票/炒股避坑（短线）.md",
+    "炒股票/杂记.md",
+    "资料及书影音笔记/雪球特别版：段永平投资问答录（商业逻辑篇）（雪球专刊）.md",
+    "见闻资料/在斯坦福对话段永平：Stop Doing List.md",
+    "见闻资料/段永平简介.md",
+    "见闻资料/段永平和他的门徒们.md",
+    "资料及书影音笔记/Facebook：一个商业帝国的崛起与逆转.md",
     "资料及书影音笔记/繁花.md",
-    "见闻资料/王慧文的产品管理课.md",
-    "资料及书影音笔记/暗时间.md",
-    "资料及书影音笔记/蛤蟆的油.md",
-    "资料及书影音笔记/鹤唳华亭.md",
-    "资料及书影音笔记/降临.md",
-    "资料及书影音笔记/绝对坦率：一种新的管理哲学.md",
-    "见闻资料/未确认 496221.crdownload"
+    "思考整理/把外部系统当成一种玩法.md",
+    "见闻资料/桜井政博 Masahiro Sakurai：产生和提高游戏的乐趣的规律是？（2017.md",
+    "见闻资料/知识体系（一）：游戏是什么.md",
+    "见闻资料/好玩的基础——核心机制.md",
+    "见闻资料/未确认 260034.crdownload",
+    "思考整理/商业化才是玩法的护城河.md",
+    "资料及书影音笔记/张一鸣管理日志.md",
+    "快速思考/尽量增加有效玩法的时间，减少无效时间.md",
+    "快速思考/游戏就是进行有意义的选择.md",
+    "见闻资料/游戏策略设计框架.md",
+    "见闻资料/LoL Design Values In-Depth with Meaningful Choices.md",
+    "见闻资料/未确认 39785.crdownload",
+    "见闻资料/未确认 872812.crdownload",
+    "见闻资料/未确认 875330.crdownload",
+    "见闻资料/未确认 102577.crdownload",
+    "见闻资料/未确认 870114.crdownload",
+    "见闻资料/未确认 599447.crdownload",
+    "见闻资料/未确认 262618.crdownload",
+    "见闻资料/未确认 298931.crdownload",
+    "见闻资料/未确认 182776.crdownload"
   ]
 }
