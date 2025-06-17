@@ -14,6 +14,31 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "思考整理/游戏的节奏.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "游戏的节奏"
+            },
+            "group": "f0220ebb316aa2ac"
+          },
+          {
+            "id": "c315dba6031d5c3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "思考整理/长期事业的核心是什么？.md",
                 "mode": "source",
                 "source": false,
@@ -30,31 +55,6 @@
               },
               "icon": "lucide-file",
               "title": "长期事业的核心是什么？"
-            },
-            "group": "f0220ebb316aa2ac"
-          },
-          {
-            "id": "c315dba6031d5c3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "资料及书影音笔记/活法.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "活法"
             }
           },
           {
@@ -94,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "思考整理/长期事业的核心是什么？.md",
+                "file": "思考整理/游戏的节奏.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -122,7 +122,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "长期事业的核心是什么？ 的关系图"
+              "title": "游戏的节奏 的关系图"
             },
             "group": "f0220ebb316aa2ac"
           }
@@ -286,32 +286,32 @@
   },
   "active": "96a6dbefcf46d8f2",
   "lastOpenFiles": [
+    "思考整理/长期事业的核心是什么？.md",
+    "见闻资料/Battle Circle AI Let Your Player Feel Like They're Fighting Lots of Enemies.md",
+    "见闻资料/GDC 2012 Sid Meier on how to see games as sets of interesting decisions.md",
+    "见闻资料/GDC2019：设计师谈《死亡细胞》的设计 - 知乎.md",
+    "见闻资料/《见机：完美时机的科学秘密》（When The Scientific Secrets of Perfect Timing）.md",
+    "快速思考/底层逻辑正确，才是慢就是快的前提.md",
+    "见闻资料/张潇雨：制定人生规划的三个层次.md",
+    "思考整理/游戏的节奏.md",
+    "快速思考/力量型和技巧型.md",
+    "见闻资料/力量型数学家.md",
+    "见闻资料/光环的玩法.md",
+    "见闻资料/为什么如今的即时制游戏大多采用“积累眩晕 处决”的战斗机制 - 知乎.md",
+    "资料及书影音笔记/活法.md",
+    "见闻资料/互联网产品起名指南v2.0.md",
+    "见闻资料/《蔚蓝》核心机制简析.md",
+    "思考整理/魔灵召唤和暗黑套装的体系设计.md",
+    "思考整理/我自己的一些原则.md",
+    "见闻资料/Design better games.md",
+    "见闻资料/为什么我比身边的很多人都优秀，但是却依然很自卑？ - 知乎.md",
+    "见闻资料/Archives The City is Not a Tree.md",
+    "见闻资料/Dev Blog The Design Values of League of Legends.md",
     "见闻资料/12000字解读元气森林：套利与降维的游戏.md",
     "快速思考/Alpha Idea和Beta Idea.md",
     "见闻资料/Alex Jaeger的采访.md",
     "见闻资料/Climbing The Wrong Hill.md",
     "见闻资料/A Detailed Cross-Examination of Yesterday and Today's Best-Selling Platform Games.md",
-    "见闻资料/CrazyWall.md",
-    "见闻资料/Fall from heaven,天堂陨落.md",
-    "见闻资料/一个伟大的想法和一个伟大的产品之间，有大量的工艺.md",
-    "见闻资料/Alpha收益和Beta收益.md",
-    "见闻资料/「访谈-Ivan Zhao」Notion 的历程、理念与未来 - 知乎.md",
-    "思考整理/长期事业的核心是什么？.md",
-    "资料及书影音笔记/活法.md",
-    "见闻资料/Notion的思想来源和投资人_slack.md",
-    "日常/如何规划日常.md",
-    "日常/敏捷日报回复.md",
-    "整理资料/具身法（embodiment approach）.md",
-    "思考整理/游戏的节奏.md",
-    "资料及书影音笔记/知识与权力：信息如何影响决策及财富创造.md",
-    "见闻资料/环境的力量（艾伦·凯） - 知乎.md",
-    "见闻资料/艾伦·凯（Alan Kay）的深刻见解.md",
-    "快速思考/谷歌的工作方式.md",
-    "快速思考/人长期来看是理性的.md",
-    "快速思考/设计者才是未来.md",
-    "快速思考/带入消耗，是一个好的体验逻辑但是不是一个好的付费逻辑.md",
-    "快速思考/创业的基础逻辑.md",
-    "快速思考/魔灵召唤的装备体系好在哪里？.md",
     "见闻资料/未确认 472644.crdownload",
     "见闻资料/未确认 852162.crdownload",
     "见闻资料/未确认 260034.crdownload",
