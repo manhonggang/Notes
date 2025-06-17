@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "思考整理/知识共享原理及实施方案.md",
+                "file": "快速思考/塔科夫的撤离点也是一种波动设计.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "知识共享原理及实施方案"
+              "title": "塔科夫的撤离点也是一种波动设计"
             },
             "group": "f0220ebb316aa2ac"
           }
@@ -46,7 +46,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "思考整理/知识共享原理及实施方案.md",
+                "file": "快速思考/塔科夫的撤离点也是一种波动设计.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -74,7 +74,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 知识共享原理及实施方案"
+              "title": "塔科夫的撤离点也是一种波动设计 的关系图"
             },
             "group": "f0220ebb316aa2ac"
           }
@@ -101,7 +101,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -118,7 +118,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "搜索"
             }
           },
           {
@@ -227,43 +227,44 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false
     }
   },
   "active": "96a6dbefcf46d8f2",
   "lastOpenFiles": [
-    "思考整理/策划手册.md",
-    "思考整理/魔灵召唤和暗黑套装的体系设计.md",
-    "思考整理/把外部系统当成一种玩法.md",
-    "快速思考/赛马娘.md",
-    "快速思考/过程哲学，王德峰螃蟹性寒.md",
-    "快速思考/魔兽世界的问题在于一开始就没有以十年作为思考底线.md",
-    "快速思考/魔兽世界10.0.md",
-    "快速思考/随着年纪增长对内容的评价会越来越高.md",
-    "快速思考/陈天桥和达里奥都进行了大量的脑部研究.md",
-    "快速思考/阻碍也应该集中式设计.md",
     "快速思考/链接不同的人群的方法.md",
-    "快速思考/鼓励进攻的本质是波动性.md",
-    "快速思考/人长期来看是理性的.md",
-    "快速思考/塔科夫总结.md",
-    "快速思考/战局带入带出-是否可以出售 逻辑.md",
-    "快速思考/创业的基础逻辑.md",
-    "快速思考/魔灵召唤的装备体系好在哪里？.md",
-    "快速思考/浪漫就是猜谜语，王家卫就是谜语人大师.md",
-    "快速思考/独特的艺术表现形式.md",
+    "快速思考/塔科夫的撤离点也是一种波动设计.md",
+    "快速思考/如何定义一个游戏系统的宽度和深度.md",
+    "快速思考/Roguelike游戏的选择方式.md",
+    "见闻资料/六个半的设计哲学 from Alex.md",
+    "快速思考/设计有时候在于缩小范围，而不是扩大范围.md",
+    "快速思考/设计冗余.md",
+    "快速思考/构建基本要素的方法.md",
+    "快速思考/递进式设计.md",
+    "快速思考/赛博气功：头脑风暴，GTD，番茄工作法这些都是一样的.md",
+    "快速思考/负空间的概念在文学作品里就是类似于反逻辑.md",
+    "快速思考/赌博的本质是打破规律.md",
     "快速思考/带入消耗，是一个好的体验逻辑但是不是一个好的付费逻辑.md",
-    "思考整理/塔科夫和赛马娘才是RPG的未来.md",
-    "思考整理/题材，玩法，商业化.md",
-    "快速思考/设计者才是未来.md",
-    "思考整理/商业化才是玩法的护城河.md",
-    "思考整理/越付费，越好玩.md",
-    "思考整理/我的文化观.md",
+    "快速思考/陈天桥和达里奥都进行了大量的脑部研究.md",
+    "快速思考/魔兽世界10.0.md",
+    "快速思考/赛马娘.md",
+    "见闻资料/长文分析：游戏并不公平，神奇的是它让你觉得公平 - 游戏开发技术论坛 - Powered by Discuz!.md",
+    "见闻资料/艾伦·凯：预测未来（Predicting The Future）.md",
+    "见闻资料/香农的信息论究竟牛在哪里？.md",
+    "见闻资料/达芬奇画树.md",
+    "见闻资料/马斯克：你应该永远假设，你是错的，这才是真正的进步.md",
+    "见闻资料/重译与润色诗篇四十六的秘密  机核 GCORES.md",
+    "见闻资料/重返昔日废土：辐射新维加斯（Fallout New Vegas）.md",
+    "见闻资料/贝特朗悖论详解 - 知乎.md",
+    "见闻资料/设计万智牌20年总结的20条经验.md",
+    "见闻资料/环境的力量（艾伦·凯） - 知乎.md",
+    "见闻资料/未确认 852162.crdownload",
     "见闻资料/未确认 260034.crdownload",
     "见闻资料/未确认 39785.crdownload",
     "见闻资料/未确认 872812.crdownload",
@@ -272,7 +273,6 @@
     "见闻资料/未确认 870114.crdownload",
     "见闻资料/未确认 599447.crdownload",
     "见闻资料/未确认 262618.crdownload",
-    "见闻资料/未确认 298931.crdownload",
-    "见闻资料/未确认 182776.crdownload"
+    "见闻资料/未确认 298931.crdownload"
   ]
 }
