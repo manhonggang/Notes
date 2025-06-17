@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "快速思考/塔科夫的撤离点也是一种波动设计.md",
+                "file": "思考整理/长期事业的核心是什么？.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,9 +29,57 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "塔科夫的撤离点也是一种波动设计"
+              "title": "长期事业的核心是什么？"
             },
             "group": "f0220ebb316aa2ac"
+          },
+          {
+            "id": "c315dba6031d5c3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "资料及书影音笔记/活法.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "活法"
+            }
+          },
+          {
+            "id": "368850daec4dff1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "见闻资料/Notion的思想来源和投资人_slack.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Notion的思想来源和投资人_slack"
+            }
           }
         ]
       },
@@ -46,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "快速思考/塔科夫的撤离点也是一种波动设计.md",
+                "file": "思考整理/长期事业的核心是什么？.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -74,7 +122,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "塔科夫的撤离点也是一种波动设计 的关系图"
+              "title": "长期事业的核心是什么？ 的关系图"
             },
             "group": "f0220ebb316aa2ac"
           }
@@ -238,32 +286,33 @@
   },
   "active": "96a6dbefcf46d8f2",
   "lastOpenFiles": [
-    "快速思考/链接不同的人群的方法.md",
-    "快速思考/塔科夫的撤离点也是一种波动设计.md",
-    "快速思考/如何定义一个游戏系统的宽度和深度.md",
-    "快速思考/Roguelike游戏的选择方式.md",
-    "见闻资料/六个半的设计哲学 from Alex.md",
-    "快速思考/设计有时候在于缩小范围，而不是扩大范围.md",
-    "快速思考/设计冗余.md",
-    "快速思考/构建基本要素的方法.md",
-    "快速思考/递进式设计.md",
-    "快速思考/赛博气功：头脑风暴，GTD，番茄工作法这些都是一样的.md",
-    "快速思考/负空间的概念在文学作品里就是类似于反逻辑.md",
-    "快速思考/赌博的本质是打破规律.md",
-    "快速思考/带入消耗，是一个好的体验逻辑但是不是一个好的付费逻辑.md",
-    "快速思考/陈天桥和达里奥都进行了大量的脑部研究.md",
-    "快速思考/魔兽世界10.0.md",
-    "快速思考/赛马娘.md",
-    "见闻资料/长文分析：游戏并不公平，神奇的是它让你觉得公平 - 游戏开发技术论坛 - Powered by Discuz!.md",
-    "见闻资料/艾伦·凯：预测未来（Predicting The Future）.md",
-    "见闻资料/香农的信息论究竟牛在哪里？.md",
-    "见闻资料/达芬奇画树.md",
-    "见闻资料/马斯克：你应该永远假设，你是错的，这才是真正的进步.md",
-    "见闻资料/重译与润色诗篇四十六的秘密  机核 GCORES.md",
-    "见闻资料/重返昔日废土：辐射新维加斯（Fallout New Vegas）.md",
-    "见闻资料/贝特朗悖论详解 - 知乎.md",
-    "见闻资料/设计万智牌20年总结的20条经验.md",
+    "见闻资料/12000字解读元气森林：套利与降维的游戏.md",
+    "快速思考/Alpha Idea和Beta Idea.md",
+    "见闻资料/Alex Jaeger的采访.md",
+    "见闻资料/Climbing The Wrong Hill.md",
+    "见闻资料/A Detailed Cross-Examination of Yesterday and Today's Best-Selling Platform Games.md",
+    "见闻资料/CrazyWall.md",
+    "见闻资料/Fall from heaven,天堂陨落.md",
+    "见闻资料/一个伟大的想法和一个伟大的产品之间，有大量的工艺.md",
+    "见闻资料/Alpha收益和Beta收益.md",
+    "见闻资料/「访谈-Ivan Zhao」Notion 的历程、理念与未来 - 知乎.md",
+    "思考整理/长期事业的核心是什么？.md",
+    "资料及书影音笔记/活法.md",
+    "见闻资料/Notion的思想来源和投资人_slack.md",
+    "日常/如何规划日常.md",
+    "日常/敏捷日报回复.md",
+    "整理资料/具身法（embodiment approach）.md",
+    "思考整理/游戏的节奏.md",
+    "资料及书影音笔记/知识与权力：信息如何影响决策及财富创造.md",
     "见闻资料/环境的力量（艾伦·凯） - 知乎.md",
+    "见闻资料/艾伦·凯（Alan Kay）的深刻见解.md",
+    "快速思考/谷歌的工作方式.md",
+    "快速思考/人长期来看是理性的.md",
+    "快速思考/设计者才是未来.md",
+    "快速思考/带入消耗，是一个好的体验逻辑但是不是一个好的付费逻辑.md",
+    "快速思考/创业的基础逻辑.md",
+    "快速思考/魔灵召唤的装备体系好在哪里？.md",
+    "见闻资料/未确认 472644.crdownload",
     "见闻资料/未确认 852162.crdownload",
     "见闻资料/未确认 260034.crdownload",
     "见闻资料/未确认 39785.crdownload",
@@ -272,7 +321,6 @@
     "见闻资料/未确认 102577.crdownload",
     "见闻资料/未确认 870114.crdownload",
     "见闻资料/未确认 599447.crdownload",
-    "见闻资料/未确认 262618.crdownload",
-    "见闻资料/未确认 298931.crdownload"
+    "见闻资料/未确认 262618.crdownload"
   ]
 }
