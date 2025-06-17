@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "思考整理/战斗节奏及投放节奏.md",
+                "file": "思考整理/知识共享原理及实施方案.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "战斗节奏及投放节奏"
+              "title": "知识共享原理及实施方案"
             },
             "group": "f0220ebb316aa2ac"
           }
@@ -46,7 +46,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "思考整理/战斗节奏及投放节奏.md",
+                "file": "思考整理/知识共享原理及实施方案.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -74,7 +74,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "战斗节奏及投放节奏 的关系图"
+              "title": "Graph of 知识共享原理及实施方案"
             },
             "group": "f0220ebb316aa2ac"
           }
@@ -101,7 +101,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -118,7 +118,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜索"
+              "title": "Search"
             }
           },
           {
@@ -227,43 +227,43 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c4f39a7ec58608e5",
+  "active": "96a6dbefcf46d8f2",
   "lastOpenFiles": [
-    "思考整理/商业化才是玩法的护城河.md",
-    "思考整理/横纵商业化思考.md",
-    "整理资料/双曲贴现.md",
-    "思考整理/基于逃脱系统的设计思考.md",
-    "思考整理/战斗节奏及投放节奏.md",
+    "思考整理/策划手册.md",
+    "思考整理/魔灵召唤和暗黑套装的体系设计.md",
+    "思考整理/把外部系统当成一种玩法.md",
+    "快速思考/赛马娘.md",
+    "快速思考/过程哲学，王德峰螃蟹性寒.md",
+    "快速思考/魔兽世界的问题在于一开始就没有以十年作为思考底线.md",
+    "快速思考/魔兽世界10.0.md",
+    "快速思考/随着年纪增长对内容的评价会越来越高.md",
+    "快速思考/陈天桥和达里奥都进行了大量的脑部研究.md",
+    "快速思考/阻碍也应该集中式设计.md",
+    "快速思考/链接不同的人群的方法.md",
+    "快速思考/鼓励进攻的本质是波动性.md",
+    "快速思考/人长期来看是理性的.md",
+    "快速思考/塔科夫总结.md",
+    "快速思考/战局带入带出-是否可以出售 逻辑.md",
+    "快速思考/创业的基础逻辑.md",
+    "快速思考/魔灵召唤的装备体系好在哪里？.md",
+    "快速思考/浪漫就是猜谜语，王家卫就是谜语人大师.md",
+    "快速思考/独特的艺术表现形式.md",
     "快速思考/带入消耗，是一个好的体验逻辑但是不是一个好的付费逻辑.md",
     "思考整理/塔科夫和赛马娘才是RPG的未来.md",
-    "思考整理/游戏的节奏.md",
+    "思考整理/题材，玩法，商业化.md",
+    "快速思考/设计者才是未来.md",
+    "思考整理/商业化才是玩法的护城河.md",
     "思考整理/越付费，越好玩.md",
-    "思考整理/魔灵召唤和暗黑套装的体系设计.md",
-    "思考整理/如何决策，如何做事.md",
-    "思考整理/为什么要Think Big.md",
-    "思考整理/如何设计游戏数值系统.md",
     "思考整理/我的文化观.md",
-    "思考整理/怎样构思一个游戏系统【Part1】.md",
-    "思考整理/怎样构思一个游戏系统【Part2】.md",
-    "思考整理/陀螺复盘.md",
-    "快速思考/塔科夫总结.md",
-    "资料及书影音笔记/巨人的方法.md",
-    "资料及书影音笔记/论中国.md",
-    "快速思考/未命名.md",
-    "快速思考/Web3 游戏.md",
-    "资料及书影音笔记/奇点临近.md",
-    "快速思考/事业的门徒.md",
-    "资料及书影音笔记/爆漫王.md",
-    "资料及书影音笔记/伟大作品的隐秘结构.md",
     "见闻资料/未确认 260034.crdownload",
     "见闻资料/未确认 39785.crdownload",
     "见闻资料/未确认 872812.crdownload",
