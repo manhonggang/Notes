@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "思考整理/游戏的节奏.md",
+                "file": "思考整理/长期事业的核心是什么？.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "游戏的节奏"
+              "title": "长期事业的核心是什么？"
             },
             "group": "f0220ebb316aa2ac"
           },
@@ -94,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "思考整理/游戏的节奏.md",
+                "file": "思考整理/长期事业的核心是什么？.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -122,7 +122,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "游戏的节奏 的关系图"
+              "title": "长期事业的核心是什么？ 的关系图"
             },
             "group": "f0220ebb316aa2ac"
           }
@@ -286,6 +286,9 @@
   },
   "active": "96a6dbefcf46d8f2",
   "lastOpenFiles": [
+    "思考整理/怎样构思一个游戏系统【Part2】.md",
+    "思考整理/我自己的一些原则.md",
+    "思考整理/游戏的节奏.md",
     "思考整理/长期事业的核心是什么？.md",
     "见闻资料/Battle Circle AI Let Your Player Feel Like They're Fighting Lots of Enemies.md",
     "见闻资料/GDC 2012 Sid Meier on how to see games as sets of interesting decisions.md",
@@ -293,7 +296,6 @@
     "见闻资料/《见机：完美时机的科学秘密》（When The Scientific Secrets of Perfect Timing）.md",
     "快速思考/底层逻辑正确，才是慢就是快的前提.md",
     "见闻资料/张潇雨：制定人生规划的三个层次.md",
-    "思考整理/游戏的节奏.md",
     "快速思考/力量型和技巧型.md",
     "见闻资料/力量型数学家.md",
     "见闻资料/光环的玩法.md",
@@ -302,7 +304,6 @@
     "见闻资料/互联网产品起名指南v2.0.md",
     "见闻资料/《蔚蓝》核心机制简析.md",
     "思考整理/魔灵召唤和暗黑套装的体系设计.md",
-    "思考整理/我自己的一些原则.md",
     "见闻资料/Design better games.md",
     "见闻资料/为什么我比身边的很多人都优秀，但是却依然很自卑？ - 知乎.md",
     "见闻资料/Archives The City is Not a Tree.md",
@@ -311,7 +312,6 @@
     "快速思考/Alpha Idea和Beta Idea.md",
     "见闻资料/Alex Jaeger的采访.md",
     "见闻资料/Climbing The Wrong Hill.md",
-    "见闻资料/A Detailed Cross-Examination of Yesterday and Today's Best-Selling Platform Games.md",
     "见闻资料/未确认 472644.crdownload",
     "见闻资料/未确认 852162.crdownload",
     "见闻资料/未确认 260034.crdownload",
