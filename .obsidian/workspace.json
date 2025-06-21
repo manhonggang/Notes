@@ -9,61 +9,12 @@
         "dimension": 76.9404332129964,
         "children": [
           {
-            "id": "96a6dbefcf46d8f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "思考整理/长期事业的核心是什么？.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "长期事业的核心是什么？"
-            },
-            "group": "f0220ebb316aa2ac"
-          },
-          {
-            "id": "c315dba6031d5c3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "思考整理/长期事业的核心是什么？.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "长期事业的核心是什么？"
-            }
-          },
-          {
             "id": "368850daec4dff1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "见闻资料/Notion的思想来源和投资人_slack.md",
+                "file": "快速思考/像僵尸开炮.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Notion的思想来源和投资人_slack"
+              "title": "像僵尸开炮"
             }
           }
         ]
@@ -94,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "思考整理/长期事业的核心是什么？.md",
+                "file": "快速思考/像僵尸开炮.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -122,9 +73,8 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "长期事业的核心是什么？ 的关系图"
-            },
-            "group": "f0220ebb316aa2ac"
+              "title": "像僵尸开炮 的关系图"
+            }
           }
         ]
       }
@@ -284,34 +234,34 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "96a6dbefcf46d8f2",
+  "active": "368850daec4dff1b",
   "lastOpenFiles": [
-    "思考整理/怎样构思一个游戏系统【Part2】.md",
-    "思考整理/我自己的一些原则.md",
-    "思考整理/游戏的节奏.md",
+    "快速思考/弓箭传说2.md",
+    "快速思考/像僵尸开炮.md",
+    "快速思考/要让一件事情强壮，最好的办法是没事就试试他的强度.md",
+    "快速思考/构建基本要素的方法.md",
+    "快速思考/如何定义一个游戏系统的宽度和深度.md",
+    "快速思考/塔科夫的撤离点也是一种波动设计.md",
+    "快速思考/赛马娘.md",
+    "资料及书影音笔记/零售的哲学.md",
     "思考整理/长期事业的核心是什么？.md",
-    "见闻资料/Battle Circle AI Let Your Player Feel Like They're Fighting Lots of Enemies.md",
-    "见闻资料/GDC 2012 Sid Meier on how to see games as sets of interesting decisions.md",
-    "见闻资料/GDC2019：设计师谈《死亡细胞》的设计 - 知乎.md",
-    "见闻资料/《见机：完美时机的科学秘密》（When The Scientific Secrets of Perfect Timing）.md",
-    "快速思考/底层逻辑正确，才是慢就是快的前提.md",
-    "见闻资料/张潇雨：制定人生规划的三个层次.md",
-    "快速思考/力量型和技巧型.md",
-    "见闻资料/力量型数学家.md",
-    "见闻资料/光环的玩法.md",
-    "见闻资料/为什么如今的即时制游戏大多采用“积累眩晕 处决”的战斗机制 - 知乎.md",
-    "资料及书影音笔记/活法.md",
-    "见闻资料/互联网产品起名指南v2.0.md",
-    "见闻资料/《蔚蓝》核心机制简析.md",
-    "思考整理/魔灵召唤和暗黑套装的体系设计.md",
-    "见闻资料/Design better games.md",
-    "见闻资料/为什么我比身边的很多人都优秀，但是却依然很自卑？ - 知乎.md",
-    "见闻资料/Archives The City is Not a Tree.md",
-    "见闻资料/Dev Blog The Design Values of League of Legends.md",
-    "见闻资料/12000字解读元气森林：套利与降维的游戏.md",
-    "快速思考/Alpha Idea和Beta Idea.md",
-    "见闻资料/Alex Jaeger的采访.md",
-    "见闻资料/Climbing The Wrong Hill.md",
+    "快速思考/革命家.md",
+    "快速思考/重复且变异的行为是产生复杂的基础.md",
+    "快速思考/过程哲学，王德峰螃蟹性寒.md",
+    "快速思考/过于追求本质了可能也不好.md",
+    "快速思考/人长期来看是理性的.md",
+    "快速思考/塔科夫总结.md",
+    "快速思考/魔兽世界的问题在于一开始就没有以十年作为思考底线.md",
+    "快速思考/设计者才是未来.md",
+    "快速思考/带入消耗，是一个好的体验逻辑但是不是一个好的付费逻辑.md",
+    "快速思考/创业的基础逻辑.md",
+    "快速思考/魔灵召唤的装备体系好在哪里？.md",
+    "快速思考/浪漫就是猜谜语，王家卫就是谜语人大师.md",
+    "快速思考/独特的艺术表现形式.md",
+    "快速思考/塔科夫-战局带入带出-是否可以出售 逻辑.md",
+    "快速思考/鼓励进攻的本质是波动性.md",
+    "快速思考/链接不同的人群的方法.md",
+    "快速思考/阻碍也应该集中式设计.md",
     "见闻资料/未确认 472644.crdownload",
     "见闻资料/未确认 852162.crdownload",
     "见闻资料/未确认 260034.crdownload",
