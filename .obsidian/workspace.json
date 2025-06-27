@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "快速思考/游戏商业化的基本逻辑.md",
+                "file": "思考整理/把外部系统当成一种玩法.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,10 +29,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "游戏商业化的基本逻辑"
+              "title": "把外部系统当成一种玩法"
+            }
+          },
+          {
+            "id": "a6fdde7f25544149",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "整理资料/消防站效应.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "消防站效应"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "682f743b1614e350",
@@ -45,7 +70,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "快速思考/游戏商业化的基本逻辑.md",
+                "file": "整理资料/消防站效应.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -73,7 +98,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "游戏商业化的基本逻辑 的关系图"
+              "title": "消防站效应 的关系图"
             }
           }
         ]
@@ -108,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "双曲贴现",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -234,34 +259,34 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "368850daec4dff1b",
+  "active": "a6fdde7f25544149",
   "lastOpenFiles": [
-    "快速思考/弓箭传说2.md",
-    "快速思考/游戏商业化的基本逻辑.md",
-    "快速思考/弹壳特工队.md",
-    "快速思考/像僵尸开炮.md",
-    "思考整理/怎样构思一个游戏系统【Part2】.md",
-    "见闻资料/《暗黑破坏神4》中的系统设计.md",
-    "快速思考/要让一件事情强壮，最好的办法是没事就试试他的强度.md",
-    "快速思考/构建基本要素的方法.md",
-    "快速思考/如何定义一个游戏系统的宽度和深度.md",
-    "快速思考/塔科夫的撤离点也是一种波动设计.md",
-    "快速思考/赛马娘.md",
-    "资料及书影音笔记/零售的哲学.md",
+    "整理资料/本福特定律.md",
+    "整理资料/No Evidence of Harm和Evidence of No Harm.md",
+    "整理资料/道奈曼–皮尔逊（Neyman-Pearson ）检定法.md",
+    "整理资料/达克效应.md",
+    "整理资料/病感失认症（Anosognosic）.md",
+    "整理资料/具身法（embodiment approach）.md",
+    "整理资料/双曲贴现.md",
+    "整理资料/规划谬误.md",
+    "思考整理/把外部系统当成一种玩法.md",
+    "思考整理/各种成长曲线和心理层面的关系.md",
+    "见闻资料/用知识体系拆解《剑与远征》的成功逻辑.md",
+    "资料及书影音笔记/思考，快与慢.md",
+    "思考整理/游戏商业化的基本逻辑.md",
+    "资料及书影音笔记/知识与权力：信息如何影响决策及财富创造.md",
+    "见闻资料/来自ohayoo的分享.md",
     "思考整理/长期事业的核心是什么？.md",
-    "快速思考/革命家.md",
-    "快速思考/重复且变异的行为是产生复杂的基础.md",
-    "快速思考/过程哲学，王德峰螃蟹性寒.md",
-    "快速思考/过于追求本质了可能也不好.md",
-    "快速思考/人长期来看是理性的.md",
-    "快速思考/塔科夫总结.md",
-    "快速思考/魔兽世界的问题在于一开始就没有以十年作为思考底线.md",
-    "快速思考/设计者才是未来.md",
-    "快速思考/带入消耗，是一个好的体验逻辑但是不是一个好的付费逻辑.md",
-    "快速思考/创业的基础逻辑.md",
-    "快速思考/魔灵召唤的装备体系好在哪里？.md",
-    "快速思考/浪漫就是猜谜语，王家卫就是谜语人大师.md",
-    "快速思考/独特的艺术表现形式.md",
+    "思考整理/塔科夫和赛马娘才是RPG的未来.md",
+    "思考整理/横纵商业化思考.md",
+    "思考整理/魔灵召唤和暗黑套装的体系设计.md",
+    "思考整理/怎样构思一个游戏系统【Part2】.md",
+    "日常/Death Loop.md",
+    "日常/【自己】对思想的考究（为什么那么喜欢王小波）.md",
+    "日常/【自己】如一日.md",
+    "日常/【自己】天才和妄人.md",
+    "日常/【自己】历事时多，读书时少的反向.md",
+    "日常/【自己】万能灵药.md",
     "见闻资料/未确认 472644.crdownload",
     "见闻资料/未确认 852162.crdownload",
     "见闻资料/未确认 260034.crdownload",
