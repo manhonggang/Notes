@@ -9,36 +9,12 @@
         "dimension": 76.9404332129964,
         "children": [
           {
-            "id": "368850daec4dff1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "思考整理/游戏性和一般性.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "游戏性和一般性"
-            }
-          },
-          {
             "id": "10a1b2889f8d3dba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "思考整理/横纵商业化思考.md",
+                "file": "思考整理/游戏的节奏.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,11 +29,34 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "横纵商业化思考"
+              "title": "游戏的节奏"
+            }
+          },
+          {
+            "id": "960b306ea74d0eae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "见闻资料/如何打造一款月收入过亿卡牌游戏？《Marvel Snap》制作人分享.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "如何打造一款月收入过亿卡牌游戏？《Marvel Snap》制作人分享"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "682f743b1614e350",
@@ -70,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "思考整理/横纵商业化思考.md",
+                "file": "思考整理/游戏的节奏.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -98,7 +97,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "横纵商业化思考 的关系图"
+              "title": "游戏的节奏 的关系图"
             }
           }
         ]
@@ -261,32 +260,32 @@
   },
   "active": "10a1b2889f8d3dba",
   "lastOpenFiles": [
-    "思考整理/游戏是什么Koster和樱井政博.md",
+    "思考整理/题材，玩法，商业化.md",
+    "资料及书影音笔记/创新者的窘境.md",
+    "资料及书影音笔记/万达哲学：王健林首次自述经营之道.md",
+    "资料及书影音笔记/伟大作品的隐秘结构.md",
+    "资料及书影音笔记/鞋狗：耐克创始人菲尔·奈特亲笔自传.md",
+    "资料及书影音笔记/重新定义团队：谷歌如何工作.md",
+    "资料及书影音笔记/高效能人士的七个习惯（30周年纪念版）（全新增订版）.md",
+    "资料及书影音笔记/张一鸣管理日志.md",
+    "快速思考/人生追求的，可能是一种情绪的波动.md",
+    "见闻资料/如何打造一款月收入过亿卡牌游戏？《Marvel Snap》制作人分享.md",
     "思考整理/游戏性和一般性.md",
-    "快速思考/纸板以撒.md",
-    "快速思考/红猪和李寻欢是一类人.md",
-    "快速思考/谷歌的工作方式.md",
-    "快速思考/任天堂的游戏是不是就是一般性比较高？.md",
-    "见闻资料/桜井政博 Masahiro Sakurai：产生和提高游戏的乐趣的规律是？（2017.md",
-    "见闻资料/人是台神奇的模式匹配机器.md",
-    "资料及书影音笔记/发现的乐趣.md",
-    "快速思考/当我们在思考时，脑子里是图还是字？.md",
-    "见闻资料/Alpha收益和Beta收益.md",
-    "见闻资料/「访谈-Ivan Zhao」Notion 的历程、理念与未来 - 知乎.md",
-    "见闻资料/一个伟大的想法和一个伟大的产品之间，有大量的工艺.md",
-    "见闻资料/为什么我比身边的很多人都优秀，但是却依然很自卑？ - 知乎.md",
-    "见闻资料/张潇雨：制定人生规划的三个层次.md",
-    "见闻资料/环境的力量（艾伦·凯） - 知乎.md",
-    "见闻资料/来自ohayoo的分享.md",
-    "资料及书影音笔记/科学究竟是什么.md",
-    "资料及书影音笔记/雪球特别版：段永平投资问答录（商业逻辑篇）（雪球专刊）.md",
-    "资料及书影音笔记/一句顶一万句.md",
-    "资料及书影音笔记/OKR：源于英特尔和谷歌的目标管理利器.md",
-    "资料及书影音笔记/告别圆舞曲.md",
-    "资料及书影音笔记/看见.md",
-    "资料及书影音笔记/创业维艰.md",
-    "见闻资料/通俗理解启发式算法.md",
-    "资料及书影音笔记/反脆弱 从不确定性中获益.md",
+    "快速思考/没有为了硬核而硬核，只有为了新而硬核.md",
+    "快速思考/设计师必须艰苦的思考.md",
+    "快速思考/无知之幕对游戏设计有帮助.md",
+    "快速思考/塔科夫的吃喝设计可以运用到新项目的设计中去.md",
+    "快速思考/关于李安的想法.md",
+    "快速思考/事业的门徒.md",
+    "快速思考/如何做笔记.md",
+    "快速思考/思考逻辑的编码系统.md",
+    "快速思考/分类可能确实是个坏主意.md",
+    "快速思考/卡片笔记也好，脑图也好都只是一种组织方式.md",
+    "快速思考/整理笔记随想.md",
+    "快速思考/对话式的方式是一种思考方式.md",
+    "快速思考/真正的AI笔记插件应该是对话式的.md",
+    "快速思考/塔科夫的撤离点也是一种波动设计.md",
+    "快速思考/陈天桥和达里奥都进行了大量的脑部研究.md",
     "见闻资料/未确认 472644.crdownload",
     "见闻资料/未确认 852162.crdownload",
     "见闻资料/未确认 260034.crdownload",
