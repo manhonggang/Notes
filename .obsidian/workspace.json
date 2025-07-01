@@ -6,15 +6,15 @@
       {
         "id": "4a4ae814e669c306",
         "type": "tabs",
-        "dimension": 81.76895306859205,
+        "dimension": 68.25117370892019,
         "children": [
           {
-            "id": "483863cb13d9fec2",
+            "id": "10a1b2889f8d3dba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "资料及书影音笔记/李光耀论中国与世界.md",
+                "file": "思考整理/游戏中传递信息的艺术.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,16 +29,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "李光耀论中国与世界"
+              "title": "游戏中传递信息的艺术"
             }
           },
           {
-            "id": "988dca623ef6f0d6",
+            "id": "589341a35c65d23f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "资料及书影音笔记/如何阅读一本小说.md",
+                "file": "见闻资料/桜井政博 Masahiro Sakurai：产生和提高游戏的乐趣的规律是？（2017.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,40 +53,15 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "如何阅读一本小说"
-            }
-          },
-          {
-            "id": "960b306ea74d0eae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "见闻资料/如何打造一款月收入过亿卡牌游戏？《Marvel Snap》制作人分享.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "如何打造一款月收入过亿卡牌游戏？《Marvel Snap》制作人分享"
+              "title": "桜井政博 Masahiro Sakurai：产生和提高游戏的乐趣的规律是？（2017"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "682f743b1614e350",
         "type": "tabs",
-        "dimension": 18.231046931407942,
+        "dimension": 31.748826291079812,
         "children": [
           {
             "id": "c4f39a7ec58608e5",
@@ -94,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "资料及书影音笔记/如何阅读一本小说.md",
+                "file": "思考整理/游戏中传递信息的艺术.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -122,7 +97,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "如何阅读一本小说 的关系图"
+              "title": "游戏中传递信息的艺术 的关系图"
             }
           }
         ]
@@ -283,34 +258,34 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "988dca623ef6f0d6",
+  "active": "10a1b2889f8d3dba",
   "lastOpenFiles": [
-    "资料及书影音笔记/伟大作品的隐秘结构.md",
-    "资料及书影音笔记/鞋狗：耐克创始人菲尔·奈特亲笔自传.md",
-    "资料及书影音笔记/重新定义团队：谷歌如何工作.md",
-    "资料及书影音笔记/高效能人士的七个习惯（30周年纪念版）（全新增订版）.md",
-    "资料及书影音笔记/张一鸣管理日志.md",
-    "资料及书影音笔记/奈飞文化手册.md",
-    "快速思考/正式化决策流程.md",
-    "快速思考/思想不仅可以在书本中读到.md",
+    "思考整理/游戏节奏.md",
+    "思考整理/游戏中传递信息的艺术.md",
+    "思考整理/魔灵召唤和暗黑套装的体系设计.md",
+    "思考整理/陀螺复盘.md",
+    "思考整理/新时代的侠客精神.md",
+    "思考整理/自我训练.md",
+    "思考整理/收集到的一些原则.md",
+    "思考整理/塔科夫和赛马娘才是RPG的未来.md",
+    "见闻资料/桜井政博 Masahiro Sakurai：产生和提高游戏的乐趣的规律是？（2017.md",
+    "思考整理/战斗节奏及投放节奏.md",
+    "思考整理/基于逃脱系统的设计思考.md",
+    "见闻资料/如何打造一款月收入过亿卡牌游戏？《Marvel Snap》制作人分享.md",
+    "快速思考/塔科夫总结.md",
+    "快速思考/塔科夫-战局带入带出-是否可以出售 逻辑.md",
     "快速思考/价值网络于游戏的应用.md",
-    "整理资料/价值网络.md",
     "资料及书影音笔记/创新者的窘境.md",
-    "快速思考/没有为了硬核而硬核，只有为了新而硬核.md",
-    "资料及书影音笔记/李光耀论中国与世界.md",
+    "整理资料/价值网络.md",
+    "见闻资料/艾伦·凯（Alan Kay）的深刻见解.md",
+    "见闻资料/艾伦·凯：预测未来（Predicting The Future）.md",
     "资料及书影音笔记/OKR：源于英特尔和谷歌的目标管理利器.md",
-    "资料及书影音笔记/一个投机者的智慧.md",
-    "资料及书影音笔记/销售脑：如何按下消费者大脑中的“购买按钮”.md",
-    "资料及书影音笔记/搞定GTD.md",
-    "资料及书影音笔记/混乱.md",
-    "资料及书影音笔记/超能侦探.md",
-    "资料及书影音笔记/许三观卖血记电影版.md",
-    "资料及书影音笔记/超市里的原始人.md",
-    "资料及书影音笔记/Facebook：一个商业帝国的崛起与逆转.md",
-    "资料及书影音笔记/奇点临近.md",
-    "资料及书影音笔记/金线.md",
-    "资料及书影音笔记/一生的旅程：迪士尼CEO自述.md",
-    "快速思考/事业的门徒.md",
+    "快速思考/思想不仅可以在书本中读到.md",
+    "资料及书影音笔记/告别圆舞曲.md",
+    "资料及书影音笔记/卡片笔记写作法：如何实现从阅读到写作.md",
+    "资料及书影音笔记/降临.md",
+    "资料及书影音笔记/科学革命的结构.md",
+    "资料及书影音笔记/张一鸣管理日志.md",
     "见闻资料/未确认 152801.crdownload",
     "见闻资料/未确认 472644.crdownload",
     "见闻资料/未确认 852162.crdownload",
