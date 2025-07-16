@@ -6,7 +6,7 @@
       {
         "id": "4a4ae814e669c306",
         "type": "tabs",
-        "dimension": 68.25117370892019,
+        "dimension": 79.46009389671362,
         "children": [
           {
             "id": "10a1b2889f8d3dba",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "思考整理/游戏中传递信息的艺术.md",
+                "file": "资料及书影音笔记/好战略，坏战略（畅销版）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,31 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "游戏中传递信息的艺术"
-            }
-          },
-          {
-            "id": "589341a35c65d23f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "见闻资料/桜井政博 Masahiro Sakurai：产生和提高游戏的乐趣的规律是？（2017.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "桜井政博 Masahiro Sakurai：产生和提高游戏的乐趣的规律是？（2017"
+              "title": "好战略，坏战略（畅销版）"
             }
           }
         ]
@@ -61,7 +37,7 @@
       {
         "id": "682f743b1614e350",
         "type": "tabs",
-        "dimension": 31.748826291079812,
+        "dimension": 20.539906103286384,
         "children": [
           {
             "id": "c4f39a7ec58608e5",
@@ -69,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "思考整理/游戏中传递信息的艺术.md",
+                "file": "资料及书影音笔记/好战略，坏战略（畅销版）.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -97,7 +73,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "游戏中传递信息的艺术 的关系图"
+              "title": "好战略，坏战略（畅销版） 的关系图"
             }
           }
         ]
@@ -132,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "科斯定律",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -260,32 +236,33 @@
   },
   "active": "10a1b2889f8d3dba",
   "lastOpenFiles": [
-    "思考整理/游戏节奏.md",
-    "思考整理/游戏中传递信息的艺术.md",
-    "思考整理/魔灵召唤和暗黑套装的体系设计.md",
-    "思考整理/陀螺复盘.md",
-    "思考整理/新时代的侠客精神.md",
-    "思考整理/自我训练.md",
-    "思考整理/收集到的一些原则.md",
-    "思考整理/塔科夫和赛马娘才是RPG的未来.md",
-    "见闻资料/桜井政博 Masahiro Sakurai：产生和提高游戏的乐趣的规律是？（2017.md",
-    "思考整理/战斗节奏及投放节奏.md",
-    "思考整理/基于逃脱系统的设计思考.md",
-    "见闻资料/如何打造一款月收入过亿卡牌游戏？《Marvel Snap》制作人分享.md",
-    "快速思考/塔科夫总结.md",
-    "快速思考/塔科夫-战局带入带出-是否可以出售 逻辑.md",
-    "快速思考/价值网络于游戏的应用.md",
-    "资料及书影音笔记/创新者的窘境.md",
-    "整理资料/价值网络.md",
-    "见闻资料/艾伦·凯（Alan Kay）的深刻见解.md",
-    "见闻资料/艾伦·凯：预测未来（Predicting The Future）.md",
-    "资料及书影音笔记/OKR：源于英特尔和谷歌的目标管理利器.md",
-    "快速思考/思想不仅可以在书本中读到.md",
-    "资料及书影音笔记/告别圆舞曲.md",
+    "整理资料/科斯定律.md",
+    "整理资料/本福特定律.md",
+    "资料及书影音笔记/李诞脱口秀工作手册.md",
     "资料及书影音笔记/卡片笔记写作法：如何实现从阅读到写作.md",
-    "资料及书影音笔记/降临.md",
-    "资料及书影音笔记/科学革命的结构.md",
-    "资料及书影音笔记/张一鸣管理日志.md",
+    "整理资料/价值网络.md",
+    "整理资料/No Evidence of Harm和Evidence of No Harm.md",
+    "见闻资料/哪些经济学理论，在你了解真实世界运转后，才理解了其惊人的解释力？ - 知乎.md",
+    "见闻资料/未确认 400557.crdownload",
+    "快速思考/谷歌的工作方式.md",
+    "见闻资料/Inside the Box The Borderlands 2 Loot System - Gearbox Software.md",
+    "快速思考/弓箭传说2.md",
+    "快速思考/思想不仅可以在书本中读到.md",
+    "快速思考/价值网络于游戏的应用.md",
+    "快速思考/汉家江湖.md",
+    "快速思考/求道于术，于势无补.md",
+    "见闻资料/人生艰难，如何才能过得好一点呢.md",
+    "见闻资料/毕飞宇北大演讲：施耐庵依仗逻辑，曹雪芹依仗反逻辑.md",
+    "资料及书影音笔记/好战略，坏战略（畅销版）.md",
+    "见闻资料/『只读经典』思考的技术与艺术（原“学会思考”）.md",
+    "见闻资料/《决断》(Decisive) 如何在工作生活中做出更好的决策.md",
+    "见闻资料/《见机：完美时机的科学秘密》（When The Scientific Secrets of Perfect Timing）.md",
+    "资料及书影音笔记/如何阅读一本书.md",
+    "资料及书影音笔记/OKR：源于英特尔和谷歌的目标管理利器.md",
+    "资料及书影音笔记/创新者的窘境.md",
+    "见闻资料/notion小传.md",
+    "思考整理/为什么反对思维导图.md",
+    "思考整理/不拘一格.md",
     "见闻资料/未确认 152801.crdownload",
     "见闻资料/未确认 472644.crdownload",
     "见闻资料/未确认 852162.crdownload",
@@ -294,7 +271,6 @@
     "见闻资料/未确认 872812.crdownload",
     "见闻资料/未确认 875330.crdownload",
     "见闻资料/未确认 102577.crdownload",
-    "见闻资料/未确认 870114.crdownload",
-    "见闻资料/未确认 599447.crdownload"
+    "见闻资料/未确认 870114.crdownload"
   ]
 }
