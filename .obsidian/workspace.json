@@ -6,15 +6,14 @@
       {
         "id": "4a4ae814e669c306",
         "type": "tabs",
-        "dimension": 79.46009389671362,
         "children": [
           {
-            "id": "10a1b2889f8d3dba",
+            "id": "4b259870f57fe15c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "整理资料/海因里希定律.md",
+                "file": "炒股票/炒股避坑（短线）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,51 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "海因里希定律"
-            }
-          }
-        ]
-      },
-      {
-        "id": "682f743b1614e350",
-        "type": "tabs",
-        "dimension": 20.539906103286384,
-        "children": [
-          {
-            "id": "c4f39a7ec58608e5",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "整理资料/海因里希定律.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "海因里希定律 的关系图"
+              "title": "炒股避坑（短线）"
             }
           }
         ]
@@ -108,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "科斯定律",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,10 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "思考整理/把外部系统当成一种玩法.md"
+                "file": "资料及书影音笔记/一生的旅程：迪士尼CEO自述.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "把外部系统当成一种玩法 的大纲"
+              "title": "一生的旅程：迪士尼CEO自述 的大纲"
             }
           },
           {
@@ -216,12 +174,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 478.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,35 +191,36 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "10a1b2889f8d3dba",
+  "active": "4b259870f57fe15c",
   "lastOpenFiles": [
-    "整理资料/MDA.md",
+    "炒股票/心态问题.md",
+    "炒股票/杂记.md",
+    "炒股票/关于周期.md",
+    "整理资料/迪士尼金库（Disney Vault）.md",
     "整理资料/海因里希定律.md",
-    "整理资料/Amara's Law.md",
-    "整理资料/多元无知.md",
-    "整理资料/晕轮效应.md",
-    "整理资料/病感失认症（Anosognosic）.md",
-    "整理资料/规划谬误.md",
-    "资料及书影音笔记/非对称风险.md",
-    "资料及书影音笔记/好战略，坏战略（畅销版）.md",
-    "整理资料/科斯定律.md",
-    "整理资料/本福特定律.md",
-    "资料及书影音笔记/李诞脱口秀工作手册.md",
-    "资料及书影音笔记/卡片笔记写作法：如何实现从阅读到写作.md",
-    "整理资料/价值网络.md",
-    "整理资料/No Evidence of Harm和Evidence of No Harm.md",
-    "见闻资料/哪些经济学理论，在你了解真实世界运转后，才理解了其惊人的解释力？ - 知乎.md",
-    "见闻资料/未确认 400557.crdownload",
-    "快速思考/谷歌的工作方式.md",
-    "见闻资料/Inside the Box The Borderlands 2 Loot System - Gearbox Software.md",
-    "快速思考/弓箭传说2.md",
-    "快速思考/思想不仅可以在书本中读到.md",
-    "快速思考/价值网络于游戏的应用.md",
-    "快速思考/汉家江湖.md",
-    "快速思考/求道于术，于势无补.md",
+    "资料及书影音笔记/一生的旅程：迪士尼CEO自述.md",
+    "资料及书影音笔记/简化.md",
+    "资料及书影音笔记/黑客与画家（10万册纪念版）.md",
+    "资料及书影音笔记/雪球特别版：段永平投资问答录（商业逻辑篇）（雪球专刊）.md",
+    "资料及书影音笔记/超市里的原始人.md",
     "见闻资料/人生艰难，如何才能过得好一点呢.md",
-    "见闻资料/毕飞宇北大演讲：施耐庵依仗逻辑，曹雪芹依仗反逻辑.md",
-    "见闻资料/『只读经典』思考的技术与艺术（原“学会思考”）.md",
+    "资料及书影音笔记/活法.md",
+    "见闻资料/如何评价网易的手游《率土之滨》 - 知乎.md",
+    "资料及书影音笔记/欲罢不能：刷屏时代如何摆脱行为上瘾.md",
+    "思考整理/游戏是什么Koster和樱井政博.md",
+    "思考整理/不得贪胜.md",
+    "思考整理/不拘一格.md",
+    "资料及书影音笔记/李诞脱口秀工作手册.md",
+    "思考整理/为什么反对思维导图.md",
+    "快速思考/正交.md",
+    "快速思考/求道于术，于势无补.md",
+    "快速思考/谷歌的工作方式.md",
+    "资料及书影音笔记/非对称风险.md",
+    "快速思考/好东西就是穿越时空.md",
+    "copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot-custom-prompts/Translate to Chinese.md",
+    "copilot-custom-prompts",
+    "见闻资料/未确认 400557.crdownload",
     "见闻资料/未确认 152801.crdownload",
     "见闻资料/未确认 472644.crdownload",
     "见闻资料/未确认 852162.crdownload",
@@ -270,7 +228,6 @@
     "见闻资料/未确认 39785.crdownload",
     "见闻资料/未确认 872812.crdownload",
     "见闻资料/未确认 875330.crdownload",
-    "见闻资料/未确认 102577.crdownload",
-    "见闻资料/未确认 870114.crdownload"
+    "见闻资料/未确认 102577.crdownload"
   ]
 }
