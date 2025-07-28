@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4a4ae814e669c306",
+        "id": "16b578efae8f4777",
         "type": "tabs",
         "children": [
           {
-            "id": "4b259870f57fe15c",
+            "id": "54a34d903dacc1eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "整理资料/激励相容.md",
+                "file": "资料及书影音笔记/穷查理宝典：查理·芒格智慧箴言录（全新增订本）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "激励相容"
+              "title": "穷查理宝典：查理·芒格智慧箴言录（全新增订本）"
             }
           }
         ]
@@ -93,92 +93,10 @@
   "right": {
     "id": "f291d45eebc45c00",
     "type": "split",
-    "children": [
-      {
-        "id": "98f5c71cb9e8aabf",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b1e202399a19bc12",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "思考整理/把外部系统当成一种玩法.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "把外部系统当成一种玩法 的反向链接列表"
-            }
-          },
-          {
-            "id": "b9a64a6ac8c2521d",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "思考整理/把外部系统当成一种玩法.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "把外部系统当成一种玩法 的出链列表"
-            }
-          },
-          {
-            "id": "213164f9fb9b644b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "资料及书影音笔记/一生的旅程：迪士尼CEO自述.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "一生的旅程：迪士尼CEO自述 的大纲"
-            }
-          },
-          {
-            "id": "46a063369235d987",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "alphabetical",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "标签"
-            }
-          },
-          {
-            "id": "8d4864b07f741b7c",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "添加笔记属性"
-            }
-          }
-        ],
-        "currentTab": 4
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
-    "width": 478.5
+    "width": 478.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,10 +109,13 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "4b259870f57fe15c",
+  "active": "54a34d903dacc1eb",
   "lastOpenFiles": [
-    "整理资料/迪士尼金库（Disney Vault）.md",
+    "2025-07-28.md",
+    "资料及书影音笔记/穷查理宝典：查理·芒格智慧箴言录（全新增订本）.md",
+    "见闻资料/重大事件本身有自己的意志.md",
     "整理资料/激励相容.md",
+    "整理资料/迪士尼金库（Disney Vault）.md",
     "资料及书影音笔记/第二曲线：跨越“S型曲线”的二次增长.md",
     "资料及书影音笔记/管理自己.md",
     "资料及书影音笔记/李诞脱口秀工作手册.md",
@@ -216,9 +137,6 @@
     "炒股票/杂记.md",
     "炒股票/关于周期.md",
     "整理资料/海因里希定律.md",
-    "见闻资料/人生艰难，如何才能过得好一点呢.md",
-    "资料及书影音笔记/活法.md",
-    "见闻资料/如何评价网易的手游《率土之滨》 - 知乎.md",
     "copilot-custom-prompts",
     "见闻资料/未确认 400557.crdownload",
     "见闻资料/未确认 152801.crdownload",
