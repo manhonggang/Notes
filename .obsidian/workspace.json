@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "资料及书影音笔记/穷查理宝典：查理·芒格智慧箴言录（全新增订本）.md",
+                "file": "资料及书影音笔记/科恩兄弟的电影.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "穷查理宝典：查理·芒格智慧箴言录（全新增订本）"
+              "title": "科恩兄弟的电影"
             }
           }
         ]
@@ -93,7 +93,91 @@
   "right": {
     "id": "f291d45eebc45c00",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "11c4108ea39265ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81d2afaba61018ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "资料及书影音笔记/科恩兄弟的电影.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "科恩兄弟的电影 的反向链接列表"
+            }
+          },
+          {
+            "id": "774a3c73e9b92801",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "资料及书影音笔记/科恩兄弟的电影.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "科恩兄弟的电影 的出链列表"
+            }
+          },
+          {
+            "id": "98816dd1efaa020d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "4e95205dc4f0146f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "b79225b9f1e6fd70",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "资料及书影音笔记/科恩兄弟的电影.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "科恩兄弟的电影 的大纲"
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 478.5,
     "collapsed": true
@@ -111,8 +195,12 @@
   },
   "active": "54a34d903dacc1eb",
   "lastOpenFiles": [
-    "2025-07-28.md",
+    "资料及书影音笔记/科学革命的结构.md",
+    "资料及书影音笔记/黄仁勋英伟达之芯.md",
     "资料及书影音笔记/穷查理宝典：查理·芒格智慧箴言录（全新增订本）.md",
+    "资料及书影音笔记/百年酒馆.md",
+    "见闻资料/「访谈-Ivan Zhao」Notion 的历程、理念与未来 - 知乎.md",
+    "2025-07-28.md",
     "见闻资料/重大事件本身有自己的意志.md",
     "整理资料/激励相容.md",
     "整理资料/迪士尼金库（Disney Vault）.md",
@@ -124,9 +212,7 @@
     "资料及书影音笔记/欲罢不能：刷屏时代如何摆脱行为上瘾.md",
     "资料及书影音笔记/科恩兄弟的电影.md",
     "资料及书影音笔记/科学究竟是什么.md",
-    "资料及书影音笔记/百年酒馆.md",
     "资料及书影音笔记/科学迷宫里的顽童与大师：赫伯特·西蒙自传.md",
-    "资料及书影音笔记/科学革命的结构.md",
     "见闻资料/【笔记法】卡片盒笔记法.md",
     "资料及书影音笔记/一生的旅程：迪士尼CEO自述.md",
     "资料及书影音笔记/简化.md",
@@ -135,8 +221,6 @@
     "炒股票/炒股避坑（短线）.md",
     "炒股票/心态问题.md",
     "炒股票/杂记.md",
-    "炒股票/关于周期.md",
-    "整理资料/海因里希定律.md",
     "copilot-custom-prompts",
     "见闻资料/未确认 400557.crdownload",
     "见闻资料/未确认 152801.crdownload",
