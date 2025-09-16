@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "见闻资料/纳瓦尔认为的品味.md",
+                "file": "整理资料/No Evidence of Harm和Evidence of No Harm.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "纳瓦尔认为的品味"
+              "title": "No Evidence of Harm和Evidence of No Harm"
+            }
+          },
+          {
+            "id": "3d2df791e1cf4ea7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "资料及书影音笔记/黑客与画家（10万册纪念版）.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "黑客与画家（10万册纪念版）"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,35 +219,35 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "a6e547ccb4b0a445",
+  "active": "3d2df791e1cf4ea7",
   "lastOpenFiles": [
+    "资料及书影音笔记/谁动了我的奶酪.md",
+    "资料及书影音笔记/奇点临近.md",
+    "资料及书影音笔记/伟大作品的隐秘结构.md",
+    "资料及书影音笔记/黑天鹅.md",
+    "整理资料/具身法（embodiment approach）.md",
+    "整理资料/本福特定律.md",
+    "整理资料/MDA.md",
+    "整理资料/海因里希定律.md",
+    "整理资料/二律背反.md",
+    "整理资料/No Evidence of Harm和Evidence of No Harm.md",
+    "见闻资料/为什么知乎上不反对转基因的人占多数.md",
+    "整理资料/多元无知.md",
+    "整理资料/迪士尼金库（Disney Vault）.md",
+    "整理资料/激励相容.md",
+    "日常/策略是什么.md",
+    "日常/【自己】对思想的考究（为什么那么喜欢王小波）.md",
+    "日常/Death Loop.md",
+    "日常/Rework.md",
+    "资料及书影音笔记/黑客与画家（10万册纪念版）.md",
+    "快速思考/不怕从头再来.md",
+    "快速思考/没有为了硬核而硬核，只有为了新而硬核.md",
+    "思考整理/未命名.md",
+    "见闻资料/纳瓦尔认为的品味.md",
     "见闻资料/当我们制作空洞骑士.md",
     "见闻资料/乔布斯谈品味.md",
-    "见闻资料/纳瓦尔认为的品味.md",
-    "快速思考/未命名.md",
-    "思考整理/未命名.md",
-    "资料及书影音笔记/黑客与画家（10万册纪念版）.md",
     "好问题/谁来救我.md",
-    "炒股票/炒股避坑（短线）.md",
-    "见闻资料/高能动性.md",
-    "见闻资料/余华的写作老师都有谁.md",
-    "日常/Rework.md",
-    "思考整理/模仿和投射.md",
-    "快速思考/循环和激励相容有一定的相似性.md",
     "好问题",
-    "快速思考/人性.md",
-    "整理资料/激励相容.md",
-    "快速思考/没有为了硬核而硬核，只有为了新而硬核.md",
-    "快速思考/价值网络于游戏的应用.md",
-    "快速思考/任天堂的游戏是不是就是一般性比较高？.md",
-    "快速思考/正式化决策流程.md",
-    "快速思考/武侠的一些想法.md",
-    "快速思考/汉家江湖.md",
-    "快速思考/求道于术，于势无补.md",
-    "快速思考/思想不仅可以在书本中读到.md",
-    "快速思考/谷歌的工作方式.md",
-    "快速思考/好东西就是穿越时空.md",
-    "见闻资料/Ludonarrative Dissonance in Bioshock - Click Nothing.md",
     "copilot-custom-prompts",
     "见闻资料/未确认 400557.crdownload",
     "见闻资料/未确认 152801.crdownload",
