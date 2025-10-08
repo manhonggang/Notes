@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "整理资料/No Evidence of Harm和Evidence of No Harm.md",
+                "file": "资料及书影音笔记/史蒂夫·乔布斯传.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "No Evidence of Harm和Evidence of No Harm"
+              "title": "史蒂夫·乔布斯传"
             }
           }
         ]
@@ -194,8 +194,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "4daf693b1d52210a",
+  "active": "a6e547ccb4b0a445",
   "lastOpenFiles": [
+    "整理资料/No Evidence of Harm和Evidence of No Harm.md",
+    "资料及书影音笔记/史蒂夫·乔布斯传.md",
     "思考整理/怎样构思一个游戏系统【Part1】.md",
     "思考整理/战斗节奏及投放节奏.md",
     "思考整理/越付费，越好玩.md",
@@ -220,8 +222,6 @@
     "见闻资料/纳瓦尔认为的品味.md",
     "见闻资料/乔布斯谈品味.md",
     "见闻资料/当我们制作空洞骑士.md",
-    "见闻资料/《率土之滨》经验分享：拒绝VIP 4个“坚持”将游戏做到极致.md",
-    "见闻资料/六个半的设计哲学 from Alex.md",
     "好问题",
     "copilot-custom-prompts",
     "见闻资料/未确认 400557.crdownload",
