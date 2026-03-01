@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "2025年度总结"
             }
-          },
-          {
-            "id": "3a62306c288e1a6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "资料及书影音笔记/奥马哈之雾.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "奥马哈之雾"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +54,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -209,20 +184,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
-      "bases:Create new base": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "bases:新建数据库": false
     }
   },
-  "active": "3a62306c288e1a6b",
+  "active": "3f67df3f5b609c61",
   "lastOpenFiles": [
-    "思考整理/塔科夫和赛马娘才是RPG的未来.md",
+    "资料及书影音笔记/蛤蟆先生去看心理医生.md",
+    "资料及书影音笔记/越读者.md",
+    "资料及书影音笔记/黑天鹅.md",
+    "资料及书影音笔记/黑客与画家（10万册纪念版）.md",
     "资料及书影音笔记/奥马哈之雾.md",
+    "思考整理/PVE和PVP战斗的设计区别.md",
+    "思考整理/自我训练.md",
+    "思考整理/游戏是什么Koster和樱井政博.md",
+    "思考整理/塔科夫和赛马娘才是RPG的未来.md",
+    "思考整理/知识共享原理及实施方案.md",
+    "快速思考/喵喵的结合.md",
+    "快速思考/魔兽世界的问题在于一开始就没有以十年作为思考底线.md",
     "整理资料/2025年度总结.md",
     "见闻资料/有一类有钱人是天生的，我们根本学不来.md",
     "好问题/谁来救我.md",
@@ -237,16 +222,6 @@
     "思考整理/战斗节奏及投放节奏.md",
     "思考整理/越付费，越好玩.md",
     "思考整理/我的文化观.md",
-    "思考整理/管理的第一性原理.md",
-    "思考整理/把外部系统当成一种玩法.md",
-    "思考整理/题材，玩法，商业化.md",
-    "思考整理/策划手册.md",
-    "思考整理/知识共享原理及实施方案.md",
-    "思考整理/怎样构思一个游戏系统【Part2】.md",
-    "思考整理/游戏的节奏.md",
-    "思考整理/收集到的一些原则.md",
-    "思考整理/生命重要的是专注（注意力）.md",
-    "思考整理/我自己的一些原则.md",
     "好问题",
     "copilot-custom-prompts",
     "见闻资料/未确认 400557.crdownload",
