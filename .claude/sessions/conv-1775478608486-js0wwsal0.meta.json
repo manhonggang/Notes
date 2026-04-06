@@ -1,0 +1,20 @@
+{
+  "id": "conv-1775478608486-js0wwsal0",
+  "title": "Remove unnecessary empty lines from a file",
+  "titleGenerationStatus": "success",
+  "createdAt": 1775478608492,
+  "updatedAt": 1775478759017,
+  "lastResponseAt": 1775478759017,
+  "sessionId": "07ecc295-97e2-45d2-88e2-4a74fd5f0631",
+  "sdkSessionId": "07ecc295-97e2-45d2-88e2-4a74fd5f0631",
+  "currentNote": "资料及书影音笔记/论中国.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 26259,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 26259,
+    "percentage": 13
+  }
+}
