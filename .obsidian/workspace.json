@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7e7ee061ca3728a3",
+            "id": "3f67df3f5b609c61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "思考整理/AI对结构并不敏感.md",
+                "file": "思考整理/最小阻力原则和结构的关系.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AI对结构并不敏感"
-            }
-          },
-          {
-            "id": "fba33968ea426d9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "见闻资料/六个半的设计哲学 from Alex.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "六个半的设计哲学 from Alex"
-            }
-          },
-          {
-            "id": "5134b61b851559b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "思考整理/横向和纵向.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "横向和纵向"
+              "title": "最小阻力原则和结构的关系"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "思考整理/横向和纵向.md",
+                "file": "资料及书影音笔记/科恩兄弟的电影.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "横向和纵向 的反向链接列表"
+              "title": "科恩兄弟的电影 的反向链接列表"
             }
           },
           {
@@ -215,17 +166,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "思考整理/横向和纵向.md",
+                "file": "资料及书影音笔记/科恩兄弟的电影.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "横向和纵向 的大纲"
+              "title": "科恩兄弟的电影 的大纲"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -244,43 +194,43 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "5134b61b851559b9",
+  "active": "3f67df3f5b609c61",
   "lastOpenFiles": [
-    "思考整理/提取式Roguelike.md",
-    "思考整理/横向和纵向.md",
-    "思考整理/魔灵召唤和暗黑套装的体系设计.md",
-    "思考整理/AI对结构并不敏感.md",
-    "思考整理/塔科夫和赛马娘才是RPG的未来.md",
-    "思考整理/未命名.md",
-    "资料及书影音笔记/奥马哈之雾.md",
-    "未命名.base",
-    "未命名 1.base",
-    "思考整理/PVE和PVP战斗的设计区别.md",
-    "思考整理/怎样构思一个游戏系统【Part1】.md",
-    "思考整理/为什么要Think Big.md",
-    "思考整理/人心的进展是缓慢的.md",
-    "思考整理/游戏中传递信息的艺术.md",
-    "思考整理/我自己的一些原则.md",
-    "思考整理/长期事业的核心是什么？.md",
-    "见闻资料/有一类有钱人是天生的，我们根本学不来.md",
-    "整理资料/2025年度总结.md",
-    "见闻资料/高能动性.md",
+    "思考整理/性感和十倍.md",
+    "日常/Rework.md",
     "见闻资料/六个半的设计哲学 from Alex.md",
+    "思考整理/为什么要Think Big.md",
+    "思考整理/最小阻力原则和结构的关系.md",
+    "思考整理/游戏中传递信息的艺术.md",
     "思考整理/对于结构的敏感.md",
-    "思考整理/横纵商业化思考.md",
-    "快速思考/喵喵的结合.md",
+    "思考整理/题材，玩法，商业化.md",
+    "思考整理/商业化才是玩法的护城河.md",
+    "思考整理/AI对结构并不敏感.md",
+    "思考整理/横向和纵向.md",
+    "快速思考/塔勒布和索罗斯.md",
+    "思考整理/提取式Roguelike.md",
     "好问题/谁来救我.md",
-    "见闻资料/硅谷面试集合.md",
-    "见闻资料/得意忘形的面试.md",
-    "见闻资料/段永平简介.md",
+    "快速思考/带入消耗，是一个好的体验逻辑但是不是一个好的付费逻辑.md",
     "整理资料/Steam, Steel, and Infinite Minds.md",
-    "整理资料/未确认 636723.crdownload",
+    "资料及书影音笔记/反脆弱 从不确定性中获益.md",
+    "思考整理/下重注.md",
+    "思考整理/把外部系统当成一种玩法.md",
+    "思考整理/魔灵召唤和暗黑套装的体系设计.md",
+    "思考整理/魔灵召唤和暗黑套装的体系设计 1.md",
+    "见闻资料/余华的写作老师都有谁.md",
+    "见闻资料/纳瓦尔认为的品味.md",
+    "整理资料/二律背反.md",
+    "整理资料/No Evidence of Harm和Evidence of No Harm.md",
+    "整理资料/2025年度总结.md",
     "好问题",
     "copilot-custom-prompts",
     "见闻资料/未确认 400557.crdownload",
     "见闻资料/未确认 152801.crdownload",
     "见闻资料/未确认 472644.crdownload",
     "见闻资料/未确认 852162.crdownload",
-    "见闻资料/未确认 260034.crdownload"
+    "见闻资料/未确认 260034.crdownload",
+    "见闻资料/未确认 39785.crdownload",
+    "见闻资料/未确认 872812.crdownload",
+    "见闻资料/未确认 875330.crdownload"
   ]
 }
