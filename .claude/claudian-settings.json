@@ -42,7 +42,7 @@
   "permissionMode": "yolo",
   "model": "haiku",
   "thinkingBudget": "off",
-  "effortLevel": "low",
+  "effortLevel": "high",
   "enableAutoTitleGeneration": true,
   "titleGenerationModel": "",
   "enableChrome": false,

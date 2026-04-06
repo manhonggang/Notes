@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "资料及书影音笔记/伟大作品的隐秘结构.md",
+                "file": "思考整理/PVE和PVP战斗的设计区别.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "伟大作品的隐秘结构"
+              "title": "PVE和PVP战斗的设计区别"
             }
           }
         ]
@@ -190,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 478.5
+    "width": 547.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,41 +207,41 @@
   },
   "active": "01d2e7b91e751d86",
   "lastOpenFiles": [
-    "资料及书影音笔记/论中国.md",
-    "资料及书影音笔记/论中国_clean.md",
-    "资料及书影音笔记/论中国.md.bak",
+    "思考整理/塔科夫和赛马娘才是RPG的未来.md",
+    "思考整理/越付费，越好玩.md",
+    "决策/四月的测试.md",
+    "决策/Formalize decision-making process.md",
+    "资料及书影音笔记/张一鸣管理日志.md",
+    "决策",
+    "资料及书影音笔记/奈飞文化手册.md",
+    "思考整理/最小阻力原则和结构的关系.md",
+    "快速思考/塔勒布和索罗斯.md",
+    "快速思考/像僵尸开炮.md",
+    "快速思考/塔科夫-战局带入带出-是否可以出售 逻辑.md",
+    "快速思考/创业的基础逻辑.md",
+    "思考整理/性感和十倍.md",
+    "思考整理/我的文化观.md",
+    "思考整理/怎样构思一个游戏系统【Part2】.md",
+    "资料及书影音笔记/奥马哈之雾.md",
     "资料及书影音笔记/伟大作品的隐秘结构.md",
-    "资料及书影音笔记/论中国_cleaned.md",
+    "资料及书影音笔记/论中国.md",
+    "见闻资料/7年同花顺.md",
+    "见闻资料/桜井政博 Masahiro Sakurai：产生和提高游戏的乐趣的规律是？（2017.md",
+    "见闻资料/Ludonarrative Dissonance in Bioshock - Click Nothing.md",
+    "见闻资料/余华的写作老师都有谁.md",
+    "见闻资料/一根筋型和算计型.md",
+    "见闻资料/重大事件本身有自己的意志.md",
+    "见闻资料/来自ohayoo的分享.md",
+    "好问题/谁来救我.md",
+    "见闻资料/高能动性.md",
+    "资料及书影音笔记/论中国.md.bak",
     "clean_exact.py",
     "clean_final.sh",
     "clean_notes.ps1",
     "clean_notes.py",
-    "资料及书影音笔记/奈飞文化手册.md",
-    "资料及书影音笔记/奥马哈之雾.md",
-    "快速思考/创业的基础逻辑.md",
-    "快速思考/塔科夫-战局带入带出-是否可以出售 逻辑.md",
-    "快速思考/像僵尸开炮.md",
-    "思考整理/最小阻力原则和结构的关系.md",
-    "整理资料/Steam, Steel, and Infinite Minds.md",
-    "见闻资料/来自ohayoo的分享.md",
-    "见闻资料/纳瓦尔认为的品味.md",
-    "快速思考/塔勒布和索罗斯.md",
-    "思考整理/下重注.md",
-    "资料及书影音笔记/史蒂夫·乔布斯传.md",
-    "资料及书影音笔记/曙光集.md",
-    "思考整理/把外部系统当成一种玩法.md",
-    "思考整理/魔灵召唤和暗黑套装的体系设计.md",
-    "思考整理/对于结构的敏感.md",
-    "思考整理/AI对结构并不敏感.md",
-    "思考整理/为什么要Think Big.md",
-    "思考整理/性感和十倍.md",
     "未命名.base",
-    "日常/Rework.md",
-    "见闻资料/六个半的设计哲学 from Alex.md",
-    "思考整理/游戏中传递信息的艺术.md",
     "好问题",
     "copilot-custom-prompts",
-    "见闻资料/未确认 400557.crdownload",
-    "见闻资料/未确认 152801.crdownload"
+    "见闻资料/未确认 400557.crdownload"
   ]
 }

@@ -1,0 +1,20 @@
+{
+  "id": "conv-1775491748951-teherqnzk",
+  "title": "Explain formal decision-making process origin, ...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1775491748951,
+  "updatedAt": 1775493004897,
+  "lastResponseAt": 1775491913921,
+  "sessionId": "0eb0e61f-e81e-46d7-b3ca-29ab96c5ba6b",
+  "sdkSessionId": "0eb0e61f-e81e-46d7-b3ca-29ab96c5ba6b",
+  "currentNote": "资料及书影音笔记/张一鸣管理日志.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 26505,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 26505,
+    "percentage": 13
+  }
+}
