@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01d2e7b91e751d86",
+            "id": "eb907b1f27d0c0a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "思考整理/PVE和PVP战斗的设计区别.md",
+                "file": "快速思考/明确乐观主义和不明确乐观主义.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PVE和PVP战斗的设计区别"
+              "title": "明确乐观主义和不明确乐观主义"
             }
           }
         ]
@@ -190,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 547.5
+    "width": 547.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,35 +206,35 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "01d2e7b91e751d86",
+  "active": "4daf693b1d52210a",
   "lastOpenFiles": [
-    "思考整理/塔科夫和赛马娘才是RPG的未来.md",
-    "思考整理/越付费，越好玩.md",
     "决策/四月的测试.md",
     "决策/Formalize decision-making process.md",
+    "整理资料/道奈曼–皮尔逊（Neyman-Pearson ）检定法.md",
+    "快速思考/赛马娘.md",
+    "整理资料/No Evidence of Harm和Evidence of No Harm.md",
+    "整理资料/二律背反.md",
+    "整理资料/2025年度总结.md",
+    "整理资料/Steam, Steel, and Infinite Minds.md",
     "资料及书影音笔记/张一鸣管理日志.md",
-    "决策",
-    "资料及书影音笔记/奈飞文化手册.md",
-    "思考整理/最小阻力原则和结构的关系.md",
-    "快速思考/塔勒布和索罗斯.md",
-    "快速思考/像僵尸开炮.md",
-    "快速思考/塔科夫-战局带入带出-是否可以出售 逻辑.md",
-    "快速思考/创业的基础逻辑.md",
-    "思考整理/性感和十倍.md",
-    "思考整理/我的文化观.md",
-    "思考整理/怎样构思一个游戏系统【Part2】.md",
-    "资料及书影音笔记/奥马哈之雾.md",
-    "资料及书影音笔记/伟大作品的隐秘结构.md",
+    "整理资料/斯托克代尔悖论.md",
+    "资料及书影音笔记/逆转.md",
+    "资料及书影音笔记/黑客与画家（10万册纪念版）.md",
+    "资料及书影音笔记/谁动了我的奶酪.md",
+    "资料及书影音笔记/从0到1.md",
     "资料及书影音笔记/论中国.md",
-    "见闻资料/7年同花顺.md",
-    "见闻资料/桜井政博 Masahiro Sakurai：产生和提高游戏的乐趣的规律是？（2017.md",
-    "见闻资料/Ludonarrative Dissonance in Bioshock - Click Nothing.md",
-    "见闻资料/余华的写作老师都有谁.md",
-    "见闻资料/一根筋型和算计型.md",
-    "见闻资料/重大事件本身有自己的意志.md",
-    "见闻资料/来自ohayoo的分享.md",
-    "好问题/谁来救我.md",
-    "见闻资料/高能动性.md",
+    "资料及书影音笔记/学习之道：美国公认经典学习书.md",
+    "快速思考/明确乐观主义和不明确乐观主义.md",
+    "快速思考/谷歌的工作方式.md",
+    "快速思考/重复且变异的行为是产生复杂的基础.md",
+    "快速思考/要让一件事情强壮，最好的办法是没事就试试他的强度.md",
+    "快速思考/力量型和技巧型.md",
+    "快速思考/塔勒布和索罗斯.md",
+    "快速思考/10 倍速的影响.md",
+    "快速思考/喵喵的结合.md",
+    "资料及书影音笔记/雪球特别版：段永平投资问答录（商业逻辑篇）（雪球专刊）.md",
+    "资料及书影音笔记/简化.md",
+    "决策",
     "资料及书影音笔记/论中国.md.bak",
     "clean_exact.py",
     "clean_final.sh",
