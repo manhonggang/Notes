@@ -1,0 +1,19 @@
+{
+  "id": "conv-1775566163962-upm9hjm3m",
+  "title": "Determine the currently active AI model in use",
+  "titleGenerationStatus": "success",
+  "createdAt": 1775566163962,
+  "updatedAt": 1775573169423,
+  "lastResponseAt": 1775573169423,
+  "sessionId": "b5707acc-094f-412c-b2fc-6dfc20c77f85",
+  "sdkSessionId": "b5707acc-094f-412c-b2fc-6dfc20c77f85",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 79925,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 79925,
+    "percentage": 40
+  }
+}
