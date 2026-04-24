@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eb907b1f27d0c0a2",
+            "id": "61ebfe72fc1752d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "快速思考/反馈是长期的核心.md",
+                "file": "思考整理/商业化才是玩法的护城河.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "反馈是长期的核心"
+              "title": "商业化才是玩法的护城河"
+            }
+          },
+          {
+            "id": "669166b1f869a0da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "思考整理/体验定价权.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "体验定价权"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "资料及书影音笔记/科恩兄弟的电影.md",
+                "file": "快速思考/现在的规则和未来的规则.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "科恩兄弟的电影 的反向链接列表"
+              "title": "现在的规则和未来的规则 的反向链接列表"
             }
           },
           {
@@ -123,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "资料及书影音笔记/科恩兄弟的电影.md",
+                "file": "快速思考/现在的规则和未来的规则.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "科恩兄弟的电影 的出链列表"
+              "title": "现在的规则和未来的规则 的出链列表"
             }
           },
           {
@@ -205,34 +230,35 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "eb907b1f27d0c0a2",
+  "active": "669166b1f869a0da",
   "lastOpenFiles": [
-    "思考整理/PVE和PVP战斗的设计区别.md",
+    "快速思考/力量型和技巧型.md",
+    "思考整理/体验定价权.md",
+    "快速思考/现在的规则和未来的规则.md",
     "快速思考/反馈是长期的核心.md",
-    "思考整理/长期事业的核心是什么？.md",
+    "快速思考/不怕从头再来.md",
+    "决策记录/正式化决策流程.md",
+    "快速思考/任天堂的游戏是不是就是一般性比较高？.md",
+    "快速思考/带入消耗，是一个好的体验逻辑但是不是一个好的付费逻辑.md",
+    "快速思考/塔勒布和索罗斯.md",
+    "快速思考/像僵尸开炮.md",
+    "决策记录/创业的基础逻辑.md",
+    "快速思考/明确乐观主义和不明确乐观主义.md",
+    "快速思考/关于付费的一些反思.md",
+    "快速思考/弹壳特工队.md",
+    "快速思考/现在的规则和未来的规则.md.tmp.34972.1777038725470",
+    "资料及书影音笔记/奈飞文化手册.md",
+    "思考整理/我自己的一些原则.md",
+    "思考整理/PVE和PVP战斗的设计区别.md",
+    "思考整理/为什么要Think Big.md",
     "思考整理/性感和十倍.md",
-    "资料及书影音笔记/黑客与画家（10万册纪念版）.md",
-    "资料及书影音笔记/驱动力：在奖励与惩罚已全然失效的当下，如何焕发人的热情.md",
-    "资料及书影音笔记/学习之道：美国公认经典学习书.md",
-    "资料及书影音笔记/一生的旅程：迪士尼CEO自述.md",
-    "资料及书影音笔记/百年酒馆.md",
-    "资料及书影音笔记/黄仁勋英伟达之芯.md",
-    "资料及书影音笔记/谁动了我的奶酪.md",
-    "资料及书影音笔记/逆转.md",
-    "资料及书影音笔记/曙光集.md",
+    "思考整理/商业化才是玩法的护城河.md",
+    "思考整理/题材，玩法，商业化.md",
+    "思考整理/最小阻力原则和结构的关系.md",
+    "资料及书影音笔记/黑天鹅.md",
     "资料及书影音笔记/史蒂夫·乔布斯传.md",
-    "见闻资料/有一类有钱人是天生的，我们根本学不来.md",
-    "见闻资料/7年同花顺.md",
-    "见闻资料/来自ohayoo的分享.md",
-    "见闻资料/乔布斯谈品味.md",
-    "见闻资料/The it factor.md",
-    "见闻资料/《率土之滨》经验分享：拒绝VIP 4个“坚持”将游戏做到极致.md",
-    "见闻资料/高能动性.md",
-    "见闻资料/王川 论信息与整合.md",
-    "见闻资料/【推荐】GDC2005任天堂岩田聪演讲全文：玩者之心  雷军的博客.md",
-    "见闻资料/王川语录.md",
-    "见闻资料/王川 论情绪记忆 (一）.md",
-    "见闻资料/纳瓦尔认为的品味.md",
+    "资料及书影音笔记/曙光集.md",
+    "AI流程处理技巧/文档空行处理流程.md",
     "见闻资料/王川 论信息与整合.md.crdownload",
     "见闻资料/王川 论情绪记忆 (一）.md.crdownload",
     "AI流程处理技巧",
@@ -241,7 +267,6 @@
     "资料及书影音笔记/史蒂夫·乔布斯传.new",
     "资料及书影音笔记/史蒂夫·乔布斯传.tmp",
     "资料及书影音笔记/史蒂夫·乔布斯传.md.backup",
-    "决策记录",
-    "资料及书影音笔记/论中国.md.bak"
+    "决策记录"
   ]
 }
