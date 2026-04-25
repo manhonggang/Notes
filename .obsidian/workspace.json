@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "思考整理/商业化才是玩法的护城河.md",
+                "file": "AI流程处理技巧/视频字幕整理优化Skill.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "商业化才是玩法的护城河"
+              "title": "视频字幕整理优化Skill"
             }
           },
           {
-            "id": "669166b1f869a0da",
+            "id": "b9695a35b7200b9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "思考整理/体验定价权.md",
+                "file": "资料及书影音笔记/AI极简经济学.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "体验定价权"
+              "title": "AI极简经济学"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 323.5
   },
   "right": {
     "id": "f291d45eebc45c00",
@@ -230,43 +229,43 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "669166b1f869a0da",
+  "active": "61ebfe72fc1752d4",
   "lastOpenFiles": [
-    "快速思考/力量型和技巧型.md",
+    "视频字幕整理Skill使用指南.md",
+    "AI流程处理技巧/视频字幕整理优化Skill.md",
+    "见闻资料/Among Friends - An Uncharted 2 Among Thieves Post-Mortem（通顺整理版）.md",
+    "视频字幕整理Skill使用指南.md.tmp.15208.1777087599822",
+    "整理资料/WOW Moment.md",
+    "clean_subtitle_simple.py",
+    "clean_subtitle_simple.py.tmp.15208.1777087505366",
     "思考整理/体验定价权.md",
-    "快速思考/现在的规则和未来的规则.md",
-    "快速思考/反馈是长期的核心.md",
-    "快速思考/不怕从头再来.md",
+    "思考整理/平权问题.md",
+    "整理资料/价格歧视.md",
     "决策记录/正式化决策流程.md",
-    "快速思考/任天堂的游戏是不是就是一般性比较高？.md",
-    "快速思考/带入消耗，是一个好的体验逻辑但是不是一个好的付费逻辑.md",
-    "快速思考/塔勒布和索罗斯.md",
-    "快速思考/像僵尸开炮.md",
     "决策记录/创业的基础逻辑.md",
-    "快速思考/明确乐观主义和不明确乐观主义.md",
-    "快速思考/关于付费的一些反思.md",
-    "快速思考/弹壳特工队.md",
-    "快速思考/现在的规则和未来的规则.md.tmp.34972.1777038725470",
-    "资料及书影音笔记/奈飞文化手册.md",
-    "思考整理/我自己的一些原则.md",
-    "思考整理/PVE和PVP战斗的设计区别.md",
-    "思考整理/为什么要Think Big.md",
-    "思考整理/性感和十倍.md",
-    "思考整理/商业化才是玩法的护城河.md",
-    "思考整理/题材，玩法，商业化.md",
-    "思考整理/最小阻力原则和结构的关系.md",
-    "资料及书影音笔记/黑天鹅.md",
-    "资料及书影音笔记/史蒂夫·乔布斯传.md",
-    "资料及书影音笔记/曙光集.md",
+    "决策记录/Formalize decision-making process.md",
+    "决策记录/四月的测试.md",
     "AI流程处理技巧/文档空行处理流程.md",
-    "见闻资料/王川 论信息与整合.md.crdownload",
-    "见闻资料/王川 论情绪记忆 (一）.md.crdownload",
-    "AI流程处理技巧",
-    "资料及书影音笔记/曙光集.new",
-    "资料及书影音笔记/曙光集.md.backup",
-    "资料及书影音笔记/史蒂夫·乔布斯传.new",
-    "资料及书影音笔记/史蒂夫·乔布斯传.tmp",
-    "资料及书影音笔记/史蒂夫·乔布斯传.md.backup",
-    "决策记录"
+    "Clippings/视频字幕整理优化Skill.md.tmp.15208.1777086504733",
+    "见闻资料/关于平权的Greater Good.md",
+    "快速思考/打赏是价格歧视.md",
+    "快速思考/塔勒布的选择模式其实也是横井军平的选择模式.md",
+    "整理资料/享乐跑步机.md",
+    "思考整理/商业化才是玩法的护城河.md",
+    "资料及书影音笔记/AI极简经济学.md",
+    "资料及书影音笔记/黑客与画家（10万册纪念版）.md",
+    "思考整理/AI对结构并不敏感.md",
+    "资料及书影音笔记/Bioshock Story.md",
+    "Clippings/Among Friends - An Uncharted 2 Among Thieves Post-Mortem（清理版）.md",
+    "Clippings/Among Friends - An Uncharted 2 Among Thieves Post-Mortem（无时间戳）.md",
+    "Clippings/Among Friends - An Uncharted 2 Among Thieves Post-Mortem（无时间戳处理）.md",
+    "Clippings/Among Friends - An Uncharted 2 Among Thieves Post-Mortem（通顺版）.md",
+    "Clippings/Clippings/Among Friends - An Uncharted 2 Among Thieves Post-Mortem（通顺整理版）.md.tmp.15208.1777079742694",
+    "Clippings/Clippings/Among Friends - An Uncharted 2 Among Thieves Post-Mortem（通顺整理版）.md.tmp.15208.1777079520324",
+    "Clippings/Clippings",
+    "Clippings/Among Friends - An Uncharted 2 Among Thieves Post-Mortem（中文整理）.md",
+    "Clippings/Among Friends - An Uncharted 2 Among Thieves Post-Mortem（无时间戳）.md.backup",
+    "Clippings/Among Friends - An Uncharted 2 Among Thieves Post-Mortem（完整中文翻译）.md.tmp.15208.1777078832308",
+    "Clippings/Among Friends - An Uncharted 2 Among Thieves Post-Mortem（完整中文翻译）.md.tmp.15208.1777078309638"
   ]
 }
