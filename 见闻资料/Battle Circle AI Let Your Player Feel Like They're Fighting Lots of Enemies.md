@@ -1,3 +1,5 @@
+中文翻译：[[战斗圈AI：让你的玩家感觉他们正在与大量敌人作战]]
+
 Difficulty:IntermediateLength:ShortLanguages:
 
 Melee fighting is a favorite pastime in videogameland, the core of countless series both well-known and obscure, and a tense and gripping experience when done right. Many a game developer has taken a game of two beings biffing it out until one can biff no more and thought, "this would be so much better if there were _tons_ of baddies!" Sometimes this is true, but often the sum is greater than its parts, and fighting lots of "baddies" at once isn't as exciting, deep, or nuanced as fighting one at a time.
