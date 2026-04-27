@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "61ebfe72fc1752d4",
+            "id": "7911e96b554eb5d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "快速思考/牛顿迭代法.md",
+                "file": "快速思考/过程哲学，王德峰螃蟹性寒.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "牛顿迭代法"
-            }
-          },
-          {
-            "id": "b9695a35b7200b9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "快速思考/浪漫就是猜谜语，王家卫就是谜语人大师.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "浪漫就是猜谜语，王家卫就是谜语人大师"
-            }
-          },
-          {
-            "id": "97d9deca7233817c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "资料及书影音笔记/女神异闻录5 的心之怪盗.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "女神异闻录5 的心之怪盗"
+              "title": "过程哲学，王德峰螃蟹性寒"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,34 +205,36 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "97d9deca7233817c",
+  "active": "7911e96b554eb5d0",
   "lastOpenFiles": [
-    "资料及书影音笔记/倒错的折角.md",
-    "资料及书影音笔记/雪球特别版：段永平投资问答录（商业逻辑篇）（雪球专刊）.md",
-    "资料及书影音笔记/沉默的螺旋.md",
-    "资料及书影音笔记/销售脑：如何按下消费者大脑中的“购买按钮”.md",
-    "资料及书影音笔记/我的职业是小说家.md",
-    "资料及书影音笔记/眨眼之间.md",
-    "资料及书影音笔记/成龙的特技.md",
-    "资料及书影音笔记/科恩兄弟的电影.md",
-    "资料及书影音笔记/科学究竟是什么.md",
-    "资料及书影音笔记/杀戮之病.md",
-    "资料及书影音笔记/断背山.md",
-    "资料及书影音笔记/贾樟柯在《天注定》第一次主创会议上的讲话.md",
-    "资料及书影音笔记/简化.md",
-    "资料及书影音笔记/斯隆女士.md",
-    "资料及书影音笔记/完美关系的秘密.md",
-    "资料及书影音笔记/贝叶斯理论收集.md",
-    "资料及书影音笔记/混乱.md",
-    "资料及书影音笔记/管理自己.md",
-    "资料及书影音笔记/百年酒馆.md",
-    "资料及书影音笔记/热夜之梦.md",
-    "资料及书影音笔记/蛤蟆的油.md",
-    "资料及书影音笔记/鹤唳华亭.md",
-    "资料及书影音笔记/绝对坦率：一种新的管理哲学.md",
-    "资料及书影音笔记/暗时间.md",
-    "资料及书影音笔记/金线.md",
-    "资料及书影音笔记/卡片笔记写作法：如何实现从阅读到写作.md",
+    "快速思考/塔勒布和索罗斯.md",
+    "快速思考/新产品的认知.md",
+    "快速思考/人性.md",
+    "快速思考/南海十三郎就是典型的对话思考者.md",
+    "快速思考/过程哲学，王德峰螃蟹性寒.md",
+    "快速思考/递进式设计.md",
+    "快速思考/起心动念的方法论.md",
+    "快速思考/魔灵召唤的装备体系好在哪里？.md",
+    "思考整理/平权问题.md",
+    "整理资料/斯托克代尔悖论.md",
+    "整理资料/No Evidence of Harm和Evidence of No Harm.md",
+    "资料及书影音笔记/女神异闻录5 的心之怪盗.md",
+    "资料及书影音笔记/AI极简经济学.md",
+    "见闻资料/元气森林唐彬森：十万块就能爆发团队创造力.md",
+    "见闻资料/Pmarchive · The only thing that matters 中文.md",
+    "见闻资料/Pmarchive · The Moby Dick theory of big companies 中文.md",
+    "见闻资料/Battle Circle AI Let Your Player Feel Like They're Fighting Lots of Enemies.md",
+    "见闻资料/Rules of Play（玩乐之道）-第14章：从涌现系统看游戏 - 知乎.md",
+    "快速思考/人长期来看是理性的.md",
+    "快速思考/阻碍也应该集中式设计.md",
+    "快速思考/意识形态.md",
+    "快速思考/设计者应该像骗子学习.md",
+    "快速思考/西蒙的观点主要就是围绕“块”（Chunk）.md",
+    "快速思考/塔科夫总结.md",
+    "快速思考/魔兽世界的问题在于一开始就没有以十年作为思考底线.md",
+    "快速思考/设计师必须艰苦的思考.md",
+    "见闻资料/Pmarchive · The Moby Dick theory of big companies.md.crdownload",
+    "见闻资料/Pmarchive · The only thing that matters.md.crdownload",
     "见闻资料/马克安德森博客导读.md.tmp.28868.1777191194295",
     "见闻资料/马克安德森博客导读.md.tmp.28868.1777190738226",
     "见闻资料/王慧文的产品管理课.md.tmp.28868.1777190439325",
@@ -289,8 +242,6 @@
     "见闻资料/战斗圈AI：让你的玩家感觉他们正在与大量敌人作战.md.tmp.5564.1777189739928",
     "思考整理/游戏的节奏——傅里叶框架.md.tmp.16264.1777189165473",
     "思考整理/游戏的节奏——傅里叶框架.md.tmp.16264.1777188556996",
-    "思考整理/游戏的节奏——傅里叶框架.md.tmp.16264.1777188500987",
-    "思考整理/游戏的节奏——傅里叶框架.md.tmp.16264.1777188400899",
-    "思考整理/游戏的节奏——傅里叶框架.md.tmp.16264.1777188361461"
+    "思考整理/游戏的节奏——傅里叶框架.md.tmp.16264.1777188500987"
   ]
 }
