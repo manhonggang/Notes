@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "快速思考/过程哲学，王德峰螃蟹性寒.md",
+                "file": "整理资料/WOW Moment.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "过程哲学，王德峰螃蟹性寒"
+              "title": "WOW Moment"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "教父",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -190,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 597.5
+    "width": 455.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,34 +206,34 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "7911e96b554eb5d0",
+  "active": "52b90a8b1f800ec3",
   "lastOpenFiles": [
-    "快速思考/塔勒布和索罗斯.md",
-    "快速思考/新产品的认知.md",
-    "快速思考/人性.md",
-    "快速思考/南海十三郎就是典型的对话思考者.md",
-    "快速思考/过程哲学，王德峰螃蟹性寒.md",
-    "快速思考/递进式设计.md",
-    "快速思考/起心动念的方法论.md",
-    "快速思考/魔灵召唤的装备体系好在哪里？.md",
-    "思考整理/平权问题.md",
-    "整理资料/斯托克代尔悖论.md",
     "整理资料/No Evidence of Harm和Evidence of No Harm.md",
+    "整理资料/理由效应.md",
+    "思考整理/PVE和PVP战斗的设计区别.md",
+    "资料及书影音笔记/史蒂夫·乔布斯传.md",
+    "资料及书影音笔记/驱动力：在奖励与惩罚已全然失效的当下，如何焕发人的热情.md",
+    "资料及书影音笔记/Bioshock Story.md",
     "资料及书影音笔记/女神异闻录5 的心之怪盗.md",
     "资料及书影音笔记/AI极简经济学.md",
-    "见闻资料/元气森林唐彬森：十万块就能爆发团队创造力.md",
-    "见闻资料/Pmarchive · The only thing that matters 中文.md",
-    "见闻资料/Pmarchive · The Moby Dick theory of big companies 中文.md",
-    "见闻资料/Battle Circle AI Let Your Player Feel Like They're Fighting Lots of Enemies.md",
-    "见闻资料/Rules of Play（玩乐之道）-第14章：从涌现系统看游戏 - 知乎.md",
-    "快速思考/人长期来看是理性的.md",
-    "快速思考/阻碍也应该集中式设计.md",
-    "快速思考/意识形态.md",
-    "快速思考/设计者应该像骗子学习.md",
-    "快速思考/西蒙的观点主要就是围绕“块”（Chunk）.md",
-    "快速思考/塔科夫总结.md",
-    "快速思考/魔兽世界的问题在于一开始就没有以十年作为思考底线.md",
-    "快速思考/设计师必须艰苦的思考.md",
+    "资料及书影音笔记/销售脑：如何按下消费者大脑中的“购买按钮”.md",
+    "资料及书影音笔记/钓愚：操纵与欺骗的经济学.md",
+    "资料及书影音笔记/设计心理学1：日常的设计（增订版）.md",
+    "思考整理/游戏的节奏——傅里叶框架.md",
+    "思考整理/AI对结构并不敏感.md",
+    "思考整理/平权问题.md",
+    "思考整理/最小阻力原则和结构的关系.md",
+    "快速思考/售卖东西是否存在理由效应？.md",
+    "资料及书影音笔记/拉新.md",
+    "资料及书影音笔记/越读者.md",
+    "资料及书影音笔记/降临.md",
+    "资料及书影音笔记/赖声川的创意学.md",
+    "快速思考/过程哲学，王德峰螃蟹性寒.md",
+    "资料及书影音笔记/超能侦探.md",
+    "资料及书影音笔记/金字塔原理.md",
+    "快速思考/反馈是长期的核心.md",
+    "快速思考/构建基本要素来产生涌现性和节奏.md",
+    "快速思考/塔勒布和索罗斯.md",
     "见闻资料/Pmarchive · The Moby Dick theory of big companies.md.crdownload",
     "见闻资料/Pmarchive · The only thing that matters.md.crdownload",
     "见闻资料/马克安德森博客导读.md.tmp.28868.1777191194295",
