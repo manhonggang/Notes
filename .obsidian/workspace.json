@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "整理资料/WOW Moment.md",
+                "file": "思考整理/选择力学统一框架.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "WOW Moment"
+              "title": "选择力学统一框架"
+            }
+          },
+          {
+            "id": "dfe10bfed91f0d14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "思考整理/付费颗粒度与体验闭环.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "付费颗粒度与体验闭环"
             }
           }
         ]
@@ -84,12 +108,11 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 200
   },
   "right": {
     "id": "f291d45eebc45c00",
@@ -167,17 +190,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "资料及书影音笔记/女神异闻录5 的心之怪盗.md",
+                "file": "思考整理/题材，玩法，商业化.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "女神异闻录5 的心之怪盗 的大纲"
+              "title": "题材，玩法，商业化 的大纲"
             }
           },
           {
-            "id": "82d6a5ac81e6aa9e",
+            "id": "3b17265a2fc4d451",
             "type": "leaf",
             "state": {
               "type": "claudian-view",
@@ -191,7 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 455.5
+    "width": 213.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,43 +229,42 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "52b90a8b1f800ec3",
+  "active": "7911e96b554eb5d0",
   "lastOpenFiles": [
-    "整理资料/No Evidence of Harm和Evidence of No Harm.md",
-    "整理资料/理由效应.md",
-    "思考整理/PVE和PVP战斗的设计区别.md",
-    "资料及书影音笔记/史蒂夫·乔布斯传.md",
-    "资料及书影音笔记/驱动力：在奖励与惩罚已全然失效的当下，如何焕发人的热情.md",
-    "资料及书影音笔记/Bioshock Story.md",
-    "资料及书影音笔记/女神异闻录5 的心之怪盗.md",
-    "资料及书影音笔记/AI极简经济学.md",
-    "资料及书影音笔记/销售脑：如何按下消费者大脑中的“购买按钮”.md",
-    "资料及书影音笔记/钓愚：操纵与欺骗的经济学.md",
-    "资料及书影音笔记/设计心理学1：日常的设计（增订版）.md",
-    "思考整理/游戏的节奏——傅里叶框架.md",
-    "思考整理/AI对结构并不敏感.md",
-    "思考整理/平权问题.md",
-    "思考整理/最小阻力原则和结构的关系.md",
-    "快速思考/售卖东西是否存在理由效应？.md",
-    "资料及书影音笔记/拉新.md",
-    "资料及书影音笔记/越读者.md",
-    "资料及书影音笔记/降临.md",
-    "资料及书影音笔记/赖声川的创意学.md",
-    "快速思考/过程哲学，王德峰螃蟹性寒.md",
-    "资料及书影音笔记/超能侦探.md",
-    "资料及书影音笔记/金字塔原理.md",
-    "快速思考/反馈是长期的核心.md",
-    "快速思考/构建基本要素来产生涌现性和节奏.md",
-    "快速思考/塔勒布和索罗斯.md",
-    "见闻资料/Pmarchive · The Moby Dick theory of big companies.md.crdownload",
-    "见闻资料/Pmarchive · The only thing that matters.md.crdownload",
-    "见闻资料/马克安德森博客导读.md.tmp.28868.1777191194295",
-    "见闻资料/马克安德森博客导读.md.tmp.28868.1777190738226",
-    "见闻资料/王慧文的产品管理课.md.tmp.28868.1777190439325",
-    "见闻资料/Battle Circle AI Let Your Player Feel Like They're Fighting Lots of Enemies.md.tmp.5564.1777189751590",
-    "见闻资料/战斗圈AI：让你的玩家感觉他们正在与大量敌人作战.md.tmp.5564.1777189739928",
-    "思考整理/游戏的节奏——傅里叶框架.md.tmp.16264.1777189165473",
-    "思考整理/游戏的节奏——傅里叶框架.md.tmp.16264.1777188556996",
-    "思考整理/游戏的节奏——傅里叶框架.md.tmp.16264.1777188500987"
+    "思考整理/付费颗粒度与体验闭环.md",
+    "思考整理/选择力学统一框架.md",
+    "思考整理/选择力学统一框架.md.tmp.11268.1778040994651",
+    "快速思考/三选一和合成.md.tmp.11268.1778040741363",
+    "思考整理/选择力学统一框架.md.tmp.11268.1778040717545",
+    "思考整理/The Bazaar（大巴扎）分析.md",
+    "思考整理/选择力学统一框架.md.tmp.11268.1778039757082",
+    "思考整理/The Bazaar（大巴扎）分析.md.tmp.11268.1778039681137",
+    "思考整理/选择力学统一框架.md.tmp.11268.1778035199358",
+    "背包乱斗.md",
+    "快速思考/三选一和合成.md",
+    "快速思考/三选一和合成.md.tmp.11268.1778032115461",
+    "思考整理/选择力学统一框架.md.tmp.11268.1778032060440",
+    "思考整理/横纵商业化思考.md",
+    "快速思考/递进式设计.md",
+    "快速思考/魔灵召唤的装备体系好在哪里？.md",
+    "炒股票/规则很重要.md",
+    "炒股票/杂记.md",
+    "炒股票/炒股避坑（短线）.md",
+    "见闻资料/Pmarchive · The Moby Dick theory of big companies 中文.md",
+    "见闻资料/7年同花顺.md",
+    "见闻资料/Battle Circle AI Let Your Player Feel Like They're Fighting Lots of Enemies.md",
+    "见闻资料/Among Friends - An Uncharted 2 Among Thieves Post-Mortem（通顺整理版）.md",
+    "见闻资料/Rules of Play（玩乐之道）-第14章：从涌现系统看游戏 - 知乎.md",
+    "见闻资料/Pmarchive · The only thing that matters 中文.md",
+    "见闻资料/马克安德森博客导读.md",
+    "见闻资料/王慧文的产品管理课.md",
+    "见闻资料/王川语录.md",
+    "AI流程处理技巧/文档空行处理流程.md",
+    "资料及书影音笔记/论中国.md",
+    "思考整理/性感和十倍.md",
+    "思考整理/题材，玩法，商业化.md",
+    "思考整理/魔灵召唤和暗黑套装的体系设计.md",
+    "思考整理/题材，玩法，商业化.md.tmp.13444.1777897988909",
+    "思考整理/题材，玩法，商业化.md.tmp.13444.1777897667022"
   ]
 }
