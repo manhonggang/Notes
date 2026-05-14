@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778747676418-efn2owipx",
+  "providerId": "claude",
+  "title": "Process document blank lines per specified hand...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778747676419,
+  "updatedAt": 1778748884271,
+  "lastResponseAt": 1778748082846,
+  "sessionId": "c83d9255-ee31-4ae9-900d-ea1493572cbe",
+  "providerState": {
+    "providerSessionId": "c83d9255-ee31-4ae9-900d-ea1493572cbe"
+  },
+  "currentNote": "资料及书影音笔记/你好，我是费曼.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 27686,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 256,
+    "contextWindow": 200000,
+    "contextTokens": 27942,
+    "percentage": 14,
+    "contextWindowIsAuthoritative": true
+  }
+}

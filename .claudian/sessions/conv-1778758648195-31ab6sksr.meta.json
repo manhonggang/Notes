@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778758648195-31ab6sksr",
+  "providerId": "claude",
+  "title": "Initiate translation service workflow",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778758648195,
+  "updatedAt": 1778760300134,
+  "lastResponseAt": 1778759638825,
+  "sessionId": "0a5d852a-dec3-4108-be17-c43b34fab3ee",
+  "providerState": {
+    "providerSessionId": "0a5d852a-dec3-4108-be17-c43b34fab3ee"
+  },
+  "currentNote": "见闻资料/howard rheingold's  tools for thought.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 771,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 44352,
+    "contextWindow": 200000,
+    "contextTokens": 45123,
+    "percentage": 23,
+    "contextWindowIsAuthoritative": true
+  }
+}

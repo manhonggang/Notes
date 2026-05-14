@@ -1,0 +1,20 @@
+{
+  "id": "conv-1777262734543-ax2u6lrjk",
+  "title": "Explore and analyze article with supplementary ...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777262734543,
+  "updatedAt": 1777273032107,
+  "lastResponseAt": 1777271133714,
+  "sessionId": "3c5b047d-8a1f-4122-84f2-0db6675a8544",
+  "sdkSessionId": "3c5b047d-8a1f-4122-84f2-0db6675a8544",
+  "currentNote": "快速思考/构建基本要素来产生涌现性和节奏.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 5390,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 96320,
+    "contextWindow": 200000,
+    "contextTokens": 101710,
+    "percentage": 51
+  }
+}

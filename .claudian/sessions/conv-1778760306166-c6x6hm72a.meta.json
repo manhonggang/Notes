@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778760306166-c6x6hm72a",
+  "providerId": "claude",
+  "title": "Process translation request",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778760306166,
+  "updatedAt": 1778760725993,
+  "lastResponseAt": 1778760500209,
+  "sessionId": "81896c23-600e-42a7-8719-bb5c4e9094ce",
+  "providerState": {
+    "providerSessionId": "81896c23-600e-42a7-8719-bb5c4e9094ce"
+  },
+  "currentNote": "见闻资料/Tuning RPG Content.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 3367,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 29120,
+    "contextWindow": 200000,
+    "contextTokens": 32487,
+    "percentage": 16,
+    "contextWindowIsAuthoritative": true
+  }
+}

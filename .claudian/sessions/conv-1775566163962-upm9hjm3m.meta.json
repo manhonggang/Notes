@@ -1,12 +1,13 @@
 {
   "id": "conv-1775566163962-upm9hjm3m",
-  "title": "Determine the currently active AI model in use",
+  "title": "Translate article word for word and organize in...",
   "titleGenerationStatus": "success",
   "createdAt": 1775566163962,
-  "updatedAt": 1775573169423,
-  "lastResponseAt": 1775573169423,
+  "updatedAt": 1777253986604,
+  "lastResponseAt": 1777253980315,
   "sessionId": "b5707acc-094f-412c-b2fc-6dfc20c77f85",
   "sdkSessionId": "b5707acc-094f-412c-b2fc-6dfc20c77f85",
+  "currentNote": "见闻资料/Pmarchive · The only thing that matters.md",
   "usage": {
     "model": "haiku",
     "inputTokens": 79925,

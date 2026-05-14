@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778749945800-yc2r3msp6",
+  "providerId": "claude",
+  "title": "Create skill from processing workflow delete do...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778749945800,
+  "updatedAt": 1778750356793,
+  "lastResponseAt": 1778750200508,
+  "sessionId": "a81ff9e1-c0bc-4148-819b-86fafedd5025",
+  "providerState": {
+    "providerSessionId": "a81ff9e1-c0bc-4148-819b-86fafedd5025"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1037,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 30016,
+    "contextWindow": 200000,
+    "contextTokens": 31053,
+    "percentage": 16,
+    "contextWindowIsAuthoritative": true
+  }
+}

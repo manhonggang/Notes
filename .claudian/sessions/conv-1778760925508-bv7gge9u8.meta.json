@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778760925508-bv7gge9u8",
+  "providerId": "claude",
+  "title": "挖掘笔记中Jensen不等式相关内容并解析生活意义",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778760925509,
+  "updatedAt": 1778763026856,
+  "lastResponseAt": 1778763026856,
+  "sessionId": "77ae5ce4-5103-45ea-abc2-4853e2588194",
+  "providerState": {
+    "providerSessionId": "77ae5ce4-5103-45ea-abc2-4853e2588194"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 988,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 66944,
+    "contextWindow": 200000,
+    "contextTokens": 67932,
+    "percentage": 34,
+    "contextWindowIsAuthoritative": true
+  }
+}

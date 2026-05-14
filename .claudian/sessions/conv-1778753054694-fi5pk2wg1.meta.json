@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778753054694-fi5pk2wg1",
+  "providerId": "claude",
+  "title": "Initiate a translation task",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778753054694,
+  "updatedAt": 1778758301234,
+  "lastResponseAt": 1778758269326,
+  "sessionId": "99442359-6469-4507-98dd-1b311c06c614",
+  "providerState": {
+    "providerSessionId": "99442359-6469-4507-98dd-1b311c06c614"
+  },
+  "currentNote": "见闻资料/The Median Isn't the Message.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

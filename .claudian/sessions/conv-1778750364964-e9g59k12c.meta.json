@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778750364964-e9g59k12c",
+  "providerId": "claude",
+  "title": "Initiate translation process",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778750364964,
+  "updatedAt": 1778750854438,
+  "lastResponseAt": 1778750709957,
+  "sessionId": "8168f238-1ac3-4a9a-91b2-ba3e5f346485",
+  "providerState": {
+    "providerSessionId": "8168f238-1ac3-4a9a-91b2-ba3e5f346485"
+  },
+  "currentNote": "见闻资料/Giant SparrowIan Dallas (What Remains of Edith Finch) - official AMA!  rPS4.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 304,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 43392,
+    "contextWindow": 200000,
+    "contextTokens": 43696,
+    "percentage": 22,
+    "contextWindowIsAuthoritative": true
+  }
+}

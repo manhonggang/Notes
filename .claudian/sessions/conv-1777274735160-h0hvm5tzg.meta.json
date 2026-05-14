@@ -1,0 +1,20 @@
+{
+  "id": "conv-1777274735160-h0hvm5tzg",
+  "title": "Find relevant notes content for the document an...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777274735160,
+  "updatedAt": 1777289346726,
+  "lastResponseAt": 1777274897440,
+  "sessionId": "1a3bbe89-5112-49de-9da4-5784630af9b5",
+  "sdkSessionId": "1a3bbe89-5112-49de-9da4-5784630af9b5",
+  "currentNote": "快速思考/设计冗余.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1395,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 27328,
+    "contextWindow": 200000,
+    "contextTokens": 28723,
+    "percentage": 14
+  }
+}

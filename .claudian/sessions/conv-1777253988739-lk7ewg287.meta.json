@@ -1,0 +1,20 @@
+{
+  "id": "conv-1777253988739-lk7ewg287",
+  "title": "Translate and refine article into chinese",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777253988739,
+  "updatedAt": 1777259481206,
+  "lastResponseAt": 1777254147668,
+  "sessionId": "0c2b6927-be7c-4d05-9c97-14bb91742359",
+  "sdkSessionId": "0c2b6927-be7c-4d05-9c97-14bb91742359",
+  "currentNote": "见闻资料/Pmarchive · The only thing that matters.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 28371,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 28371,
+    "percentage": 14
+  }
+}

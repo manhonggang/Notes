@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778748979456-1wcfm70ey",
+  "providerId": "claude",
+  "title": "Create EnZh translation with polished linked notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778748979456,
+  "updatedAt": 1778749902533,
+  "lastResponseAt": 1778749306782,
+  "sessionId": "0f9dc806-22bc-48a3-b202-7d32f6e5d466",
+  "providerState": {
+    "providerSessionId": "0f9dc806-22bc-48a3-b202-7d32f6e5d466"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 270,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 35264,
+    "contextWindow": 200000,
+    "contextTokens": 35534,
+    "percentage": 18,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "conv-1777259497022-gn3b172hz",
+  "title": "Translate provided document verbatim to Chinese...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777259497023,
+  "updatedAt": 1777262364954,
+  "lastResponseAt": 1777260150468,
+  "sessionId": "a9567964-2b31-4fd7-9cfc-1d8a9facbf45",
+  "sdkSessionId": "a9567964-2b31-4fd7-9cfc-1d8a9facbf45",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 46436,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 46436,
+    "percentage": 23
+  }
+}

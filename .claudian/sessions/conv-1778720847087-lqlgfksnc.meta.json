@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778720847087-lqlgfksnc",
+  "providerId": "claude",
+  "title": "Analyze note for common vs insightful elements",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778720847087,
+  "updatedAt": 1778747657686,
+  "lastResponseAt": 1778747013981,
+  "sessionId": "09868225-f8d8-45a1-924e-df90da556c40",
+  "providerState": {
+    "providerSessionId": "09868225-f8d8-45a1-924e-df90da556c40"
+  },
+  "currentNote": "思考整理/游戏设计原则体系.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 73,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 107136,
+    "contextWindow": 200000,
+    "contextTokens": 107209,
+    "percentage": 54
+  }
+}

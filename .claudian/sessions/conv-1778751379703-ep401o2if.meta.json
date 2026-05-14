@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778751379703-ep401o2if",
+  "providerId": "claude",
+  "title": "Rearrange poorly formatted Reddit-sourced note ...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778751379703,
+  "updatedAt": 1778753048118,
+  "lastResponseAt": 1778751774724,
+  "sessionId": "ca914776-adbd-493f-aadb-93eafada3f81",
+  "providerState": {
+    "providerSessionId": "ca914776-adbd-493f-aadb-93eafada3f81"
+  },
+  "currentNote": "见闻资料/Giant Sparrow Ian Dallas (艾迪芬奇的记忆) 官方 AMA！  rPS4.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 185,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 32576,
+    "contextWindow": 200000,
+    "contextTokens": 32761,
+    "percentage": 16,
+    "contextWindowIsAuthoritative": true
+  }
+}

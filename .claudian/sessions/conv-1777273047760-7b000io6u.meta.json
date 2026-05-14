@@ -1,0 +1,20 @@
+{
+  "id": "conv-1777273047760-7b000io6u",
+  "title": "Review logic of the provided document",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777273047760,
+  "updatedAt": 1777274697074,
+  "lastResponseAt": 1777273084793,
+  "sessionId": "a4ec1041-9451-4165-ad97-90c30738d5d4",
+  "sdkSessionId": "a4ec1041-9451-4165-ad97-90c30738d5d4",
+  "currentNote": "快速思考/鼓励进攻的本质是波动性.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 259,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 20608,
+    "contextWindow": 200000,
+    "contextTokens": 20867,
+    "percentage": 10
+  }
+}
