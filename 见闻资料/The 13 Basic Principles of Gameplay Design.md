@@ -3,9 +3,12 @@ created: 2022-05-25T23:34:15 (UTC +08:00)
 tags: []
 source: https://www.gamedeveloper.com/design/the-13-basic-principles-of-gameplay-design
 author: Matt Allmer
+modified: 2026-05-14T12:52:09+08:00
 ---
 
 # The 13 Basic Principles of Gameplay Design
+
+中文翻译：[[见闻资料/游戏玩法设计的13条基本法则]]
 
 > ## Excerpt
 > In an intriguing design feature, EA and Page 44 veteran Allmer re-imagines the famous '12 Principles Of Animation' for games - adding a principle along the way!
@@ -48,39 +51,39 @@ The first three principles have to do with leading and directing the player's ex
 Do not underestimate the importance of artistic direction. Just as a painting leads the eye, a book leads the imagery, a film leads the narrative, so too must a game lead the interactivity.
 
 > **1\. Focal Point**
-> 
+>
 > Never allow the player to guess what they should focus on. At the same time, always allow secondary subject matter, but it is the designer's job to clearly provide the primary focus at all times. This applies to both visual and visceral aspects of gameplay.
 
-_Level design example_  
+_Level design example_
 Creating clear, apparent lines of sight.
 
-_System design example_  
+_System design example_
 Clearly defined plot points and objectives during game progression/user experience.
 
 > **2\. Anticipation**
-> 
+>
 > Time is needed to inform the player that something is about to happen. Always factor in Anticipation when designing and implementing events and behaviors.
 
-     _Level design example_  
+     _Level design example_
 A train sound effect occurs before player sees train.
 
-_System design example_  
+_System design example_
 An energy charge builds before the lightning attack occurs.
 
 > **3\. Announce Change**
-> 
+>
 > Communicate all changes to the player. This short step occurs between Anticipation and the event itself.
-> 
+>
 > The important part to remember is maintaining a hierarchy of notable changes.
-> 
+>
 > A good rule of thumb is degree of rarity. If a change occurs a hundred times in an hour, the announcement may not be required. However, if the change occurs five times throughout the entire game experience, a number of visual cues could be needed.
-> 
+>
 > This principle is so obvious, it can be taken for granted and sometimes overlooked. Be diligent in knowing what changes the player should be aware of at the correct time and on the correct event.
 
-_Level design example_  
+_Level design example_
 "Cast-off" animations trigger for NPCs when the player's character boards the ship.
 
-_System design example_  
+_System design example_
 An on-screen notification occurs when quest criteria have been completed (i.e. "Slay 10 goblins for Farmer Bob")
 
 ### Behavior
@@ -88,65 +91,65 @@ An on-screen notification occurs when quest criteria have been completed (i.e. "
 These next four principles address the very important aspect of behavior. This tackles the player's expectations, both conscious and unconscious. This is where common design theories are addressed such as player choice, reward and payoff, etc. These principles are also broader, so they can be applied to additional types of design like UI and story...
 
 > **4\. Believable Events and Behavior**
-> 
+>
 > Every event or behavior must occur according to the logic and expectations of the player. Every action, reaction, results, emotion and conveyance must satisfy the players' subconscious acceptance test.
 
-_Level design example_  
+_Level design example_
 Place destructible objects near an explosive object. This way, the explosion looks more believable.
 
-_System design example_  
+_System design example_
 Weaker enemies run away when the advantage shifts in the player's favor.
 
-_UI example_  
+_UI example_
 HUD elements are affected when player's mech is near death.
 
-_Story example_  
+_Story example_
 Villagers are more upbeat and react positively after the player has slain the dragon.
 
 ___
 
 > **5\. Overlapping Events and Behavior**
-> 
+>
 > Dynamic is lost if only one change occurs at a time. Discover the right amount of events to occur at any given moment of time.
 
-_Level design example_  
+_Level design example_
 Providing the player the ability to build from an appropriate list of structures.
 
-_System design example_  
+_System design example_
 The linebacker points to direct fellow players, the defensive end shifts over, the quarterback points and calls out football jargon and the crowd cheers louder because it's third down. All this occurs before the snap.
 
-_UI example_  
+_UI example_
 Points accumulate in the score while each kill is individually tallied on screen.
 
-_Story Example_  
+_Story Example_
 Multiple plot points are at the forefront of the narrative experience. Example: the king is on his deathbed while his war is being waged and he has yet to announce an heir -- all while an unknown saboteur orchestrates a military coup.
 
 > **6\. Physics**
-> 
+>
 > The player's primary logic operates within the known possibilities of physics. Keep in mind gravity, weight, mass, density, force, buoyancy, elasticity, etc. Use this as the starting point, but do not be limited by it.
 
-_Level design example_  
+_Level design example_
 Ensuring a hole in the floor is the correct size for the correct purpose. Whether it is part of the path of level progression, or simply for visual aesthetics.
 
-_System design example_  
+_System design example_
 A spark particle effect occurs when the player's vehicle scrapes the side of the concrete wall.
 
-_UI example_  
+_UI example_
 The GUI's theme references scrapbook elements. In which case, animated transitions, highlights, etc. follow the physical characteristics of paper.
 
 > **7\. Sound**
-> 
+>
 > Ask yourself, "What sound does it make when \_\_\_\_\_\_\_\_ happens?" "Is the sound appropriate?" "Is the sound necessary?" "Does it benefit the experience or hinder it?" If players close their eyes, the sound alone should still achieve the desired affect.
 
 It's debatable whether this principle should be included since Sound Design can be considered separate from Gameplay Design. I've included it because sound is crucial and can easily be neglected. The more it is considered, the better the experience is for the player.
 
-_Level design example_  
+_Level design example_
 Flies in swamp level make a sound when close to the camera.
 
-_System design example_  
+_System design example_
 A proximity system where sound effects volume fluctuates depending on distance of game assets.
 
-_UI example_  
+_UI example_
 Only visually prominent graphics have sound effects attached to them, so as not to muffle the auditory experience.
 
 The next three principles individually touch on other major design components.
@@ -154,27 +157,25 @@ The next three principles individually touch on other major design components.
 ### Progression
 
 > **8\. Pacing**
-> 
+>
 > Keep in mind the desired sense of urgency, the rate in which events occur, the level of concentration required and how often events are being repeated. Spread out the moments of high concentration, mix up the sense of urgency, and change things wherever possible to achieve the proper affect.
 
-_Level design example_  
+_Level design example_
 Create areas for the player to admire the expansive view, versus areas where the player feels claustrophobic.
 
-    
-
-_System design example_  
+_System design example_
 Create long, powerful attacks versus short, light attacks.
 
 ### Environment
 
 > **9\. Spacing**
-> 
+>
 > Understand how much space is available both on-screen and in-world, recognize the spatial relationship between elements and take into account the effects of modifying those spaces.
 
-_Level design example_  
+_Level design example_
 Lay out the appropriate amount of space for the appropriate number of enemies to maneuver correctly.
 
-_System design example_  
+_System design example_
 When an AI character moves through a bottleneck area, walk loops switch to standing idle when the AI character is not moving forward, to show that the character is "waiting" to move through the narrowed space.
 
 ___
@@ -182,19 +183,19 @@ ___
 ### Method
 
 > **10\. Linear Design versus Component Breakdown**
-> 
+>
 > Linear Design involves solving challenges as they come. All solutions and possibilities hold the same institutional value. Focus can be lost with this method, but it provides creative and spontaneous solutions.
-> 
+>
 > Component Breakdown involves systemic categorization and forming a logical hierarchy of all solutions. This method can restrict innovation but preserves clarity of primary design objectives.
 
 This principle does not mean designers must choose one or the other. There are times during development where one method is more appropriate than the other.
 
 For instance, pre-production provides plenty of time for breaking down a sequence of events. However, when the publisher drops a "must have" change after pre-production, linear design can provide an acceptable solution quickly.
 
-_Level design example_  
+_Level design example_
 Typical blocking of level geometry in an early stage of development, versus adjusting a small area of the same level to implement an idea that wasn't thought of until later.
 
-_System design example_  
+_System design example_
 Identifying all major systems (combat, AI, input, etc), and progressively filling in various levels of detail versus conceiving the first couple of levels and extracting possible systems based on a linear player experience.
 
 ### Foundation
@@ -202,36 +203,36 @@ Identifying all major systems (combat, AI, input, etc), and progressively fillin
 The final three principles mark the foundation of gameplay design, which are listed in reverse order of importance. These should be a surprise to no one.
 
 > **11\. Player**
-> 
+>
 > How does the player factor into this? How does the player interact with everything that has been designed? More than just device input, address how the player contributes to the experience. If it's a good idea and you're able to convey it correctly but the player is not into it, change it or scrap it!
 
-_Level design example_  
+_Level design example_
 Setting up the player in hopes of making them jump out of their seat.
 
-_System design example_  
+_System design example_
 Orchestrating progression so that the player feels empowered, determined, anxious, etc.
 
 > **12\. Communication**
-> 
+>
 > Is the appropriate team member correctly aware of the objective? Are the appropriate developers clear on the solution? If it's a good idea but you can't communicate it correctly, it might as well be a bad idea because it's very likely to be received as such.
 
-_Level design example_  
+_Level design example_
 Using the elements of the environment so the player is compelled to travel in the correct direction.
 
-_System design example_  
+_System design example_
 Using visual cues so the player learns when to punch rather than kick, jump rather than strafe, etc.
 
 > **13\. Appeal**
-> 
+>
 > When addressing anyone, ask yourself, "Does this draw the audience in?" This applies to (but is not limited to) the player, the spectator, your fellow developers, the publisher, and their marketing team. If it's not a good idea, there's no need to continue until it becomes a good idea or is replaced by something better.
 
-_Level design example_  
+_Level design example_
 Running down the street is not fun, but running down the street while being pursued by government secret agents is.
 
-_System design example_  
+_System design example_
 Punching can be fun but when the camera shakes on impact, it's even more fun.
 
-### Conclusion  
+### Conclusion
 
 So, there you have it. These principles have noticeably improved my designs and forced me to think of components from all angles. I thoroughly believe they will give you an edge on all those impatient carts. So, stick that in your horse and race it!
 

@@ -3,6 +3,7 @@ created: 2022-05-25T23:30:45 (UTC +08:00)
 tags: []
 source: http://www.designersnotebook.com/Design_Resources/No_Twinkie_Database/no_twinkie_database.htm
 author: Ernest W. Adams
+modified: 2026-05-14T13:14:50+08:00
 ---
 
 # The No Twinkie Database!

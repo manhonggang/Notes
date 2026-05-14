@@ -8,22 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7911e96b554eb5d0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          },
-          {
-            "id": "1c264e2b7906e802",
+            "id": "4d60c52aa5f29475",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "见闻资料/《伊迪丝芬奇的记忆》和站在它背后的那个人.md",
+                "file": "见闻资料/The Median Isn't the Message.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,26 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "《伊迪丝芬奇的记忆》和站在它背后的那个人"
+              "title": "The Median Isn't the Message"
             }
           },
           {
-            "id": "ecb422fabedaf3a3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          },
-          {
-            "id": "41cff6f854890bdf",
+            "id": "d99844658510b6b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "整理资料/经济学 MOC.md",
+                "file": "见闻资料/Jensen 不等式的生活意义.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -72,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "经济学 MOC"
+              "title": "Jensen 不等式的生活意义"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 471.5
+    "width": 261.5
   },
   "right": {
     "id": "f291d45eebc45c00",
@@ -235,7 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 769.5
+    "width": 729.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,43 +229,44 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "41cff6f854890bdf",
+  "active": "4d60c52aa5f29475",
   "lastOpenFiles": [
-    "整理资料/经济学 MOC.md",
-    "整理资料/经济学 MOC.md.tmp.30540.1778688970403",
-    "见闻资料/Giant SparrowIan Dallas (What Remains of Edith Finch) - official AMA!  rPS4.md",
-    "见闻资料/《伊迪丝芬奇的记忆》和站在它背后的那个人.md",
-    "整理资料/认知偏差 MOC.md",
-    "见闻资料/Design better games.md",
-    "见闻资料/哪些经济学理论，在你了解真实世界运转后，才理解了其惊人的解释力？ - 知乎.md",
-    "见闻资料/Design better games.md.tmp.28904.1778688489950",
-    "日常/策略是什么.md",
-    "资料及书影音笔记/蛤蟆先生去看心理医生.md",
-    "快速思考/对人的分类是愚蠢的，分类是有效的.md",
-    "资料及书影音笔记/美国大城市的死与生：纪念版.md",
-    "见闻资料/游戏任务设计.md",
-    "见闻资料/Design better games.md.tmp.28904.1778688156965",
-    "见闻资料/如何评价网易的手游《率土之滨》 - 知乎.md",
-    "快速思考/整理笔记随想.md",
-    "见闻资料/开发者应挖掘游戏无限玩法而非短暂体验.md",
-    "快速思考/整体思考胜于局部思考，必须先从框架上思考.md",
+    "见闻资料/Jensen 不等式的生活意义.md",
+    "见闻资料/美团张川：做了8年平台，我总结了平台的5道坎 【经纬低调分享】.md",
+    "思考整理/游戏设计原则体系.md",
+    "思考整理/商业化才是玩法的护城河.md",
+    "见闻资料/The Median Isn't the Message.md",
+    "见闻资料/jesson不等式的生活意义.md",
+    "见闻资料/纳西姆·塔勒布的遍历性_时间.md",
+    "见闻资料/From MDA to DDE.md",
+    "见闻资料/矛盾论.md",
+    "见闻资料/真正的思考技术：来自德国社会学 Niklas Luhmann 的 Zettelkasten 方法.md",
+    "见闻资料/白金工作室制作人稻叶敦志：如何制作畅销全球的动作游戏？.md",
     "见闻资料/Why Left 4 Dead Works.md",
-    "见闻资料/The Big List Of Game Design.md",
-    "快速思考/重复且变异的行为是产生复杂的基础.md",
-    "见闻资料/内群体偏袒效应和外群体同质化认知偏差.md",
+    "见闻资料/The Quiet Revolution of Animal Crossing.md",
+    "见闻资料/Roam Research – A note taking tool for networked thought..md",
+    "见闻资料/Incremental_games - Linear, Polynomial, Exponential (and more) growth explained.md",
+    "日常/史玉柱的内容整理.md",
+    "见闻资料/调优RPG内容.md",
+    "决策记录/四月的测试.md",
+    "见闻资料/GDC 2012 Sid Meier on how to see games as sets of interesting decisions.md",
+    "思考整理/把外部系统当成一种玩法.md",
+    "思考整理/塔科夫和赛马娘才是RPG的未来.md",
+    "思考整理/提取式Roguelike.md",
+    "见闻资料/Tuning RPG Content.md",
+    "见闻资料/思维工具 — 知识工程与专家系统.md",
+    "思考整理/选择力学统一框架.md",
+    "思考整理/结构是认知引擎.md",
+    "见闻资料/mesothelioma-distribution.png",
+    "资料及书影音笔记/你好，我是费曼.new",
+    "资料及书影音笔记/你好，我是费曼.md.backup",
+    "见闻资料/The 13 Basic Principles of Gameplay Design.md.tmp.24872.ff5eeb66e534",
+    "思考整理/游戏设计原则体系.md.tmp.23368.79de5364f693",
+    "思考整理/游戏设计原则体系.md.tmp.23368.1ad209e329a4",
+    "整理资料/经济学 MOC.md.tmp.30540.1778688970403",
+    "见闻资料/Design better games.md.tmp.28904.1778688489950",
+    "见闻资料/Design better games.md.tmp.28904.1778688156965",
     "认知偏差 MOC.md.tmp.28600.1778687600673",
-    "思考整理/付费颗粒度与体验闭环.md",
-    "资料及书影音笔记/非对称风险.md",
-    "见闻资料/马克安德森博客导读.md",
-    "整理资料/海因里希定律.md",
-    "整理资料/理由效应.md",
-    "整理资料/No Evidence of Harm和Evidence of No Harm.md",
-    "思考整理/生命重要的是专注（注意力）.md",
-    "见闻资料/agency 心理学.md.tmp.25040.1778685723331",
-    "快速思考/半格结构更适合战略游戏的地格设计.md.tmp.25776.1778684701014",
-    "快速思考/半格结构更适合战略游戏的地格设计.md.tmp.25776.1778684466864",
-    "思考整理/游戏设计原则体系.md.tmp.25776.1778682862343",
-    "思考整理/游戏设计原则体系.md.tmp.25776.1778682846005",
-    "思考整理/游戏设计原则体系.md.tmp.25776.1778682830261"
+    "见闻资料/agency 心理学.md.tmp.25040.1778685723331"
   ]
 }

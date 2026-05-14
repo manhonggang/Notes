@@ -1,3 +1,5 @@
+> 译文：[[调优RPG内容]]
+
 _This article primarily focuses on PvE combat in RPGs, though its methods can be applied to PvP or other types of games. It was originally posted on [AltDevBlogADay](http://altdevblogaday.com/2012/02/17/the-craft-of-game-systems-tuning-rpg-content/) on February 17, 2012._
 
 Role playing games have a tremendous amount of content, each piece with multiple parameters that define what they do in combat. Damage dealt by a sword, bonus granted by a skill, total health of a level 23 bandit, etc. It’s not too hard to tune content when you look at a single game zone or a fixed character level – you can playtest that area and tweak values until the game feels right. However, trying to tune values for a giant world with 100 levels of content and multiple classes is much more complicated. **How do you choose values for RPG content without playtesting and brute force tuning every type of character at every level?**

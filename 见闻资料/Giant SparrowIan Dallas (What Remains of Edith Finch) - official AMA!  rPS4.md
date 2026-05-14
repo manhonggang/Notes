@@ -2,6 +2,8 @@
 
 Giant Sparrow/Ian Dallas (What Remains of Edith Finch) - official AMA!
 
+> 译文：[[Giant Sparrow Ian Dallas (艾迪芬奇的记忆) 官方 AMA！  rPS4]]
+
 Hey folks! Posting this thread for [u/GiantSparrow](https://www.reddit.com/user/GiantSparrow/), the dev team behind the very, very recently released [What Remains of Edith Finch](https://store.playstation.com/#!/cid=UP2470-CUSA06886_00-EFINCHPS4GAME001?smcid=pdc:us-en:pdc-games-detail-what-remains-of-edith-finch-ps4:leadproductinfo-buy-download:what-remains-of-edith-finch:up2470-cusa06886_00-efinchps4game001:emcid_null) and [The Unfinished Swan](https://store.playstation.com/#!/en-us/games/the-unfinished-swan/cid=UP9000-CUSA00695_00-UNFINISHEDSWANP4?smcid=pdc:us-en:pdc-games-detail-what-remains-of-edith-finch-ps4:leadproductinfo-buy-download:what-remains-of-edith-finch:up2470-cusa06886_00-efinchps4game001:emcid_null).
 
 Ian Dallas, Giant Sparrow's creative director, will be answering questions. I'll also be helping here and there - I'm Jeff Legaspi, part of the publishing team at Annapurna Interactive.

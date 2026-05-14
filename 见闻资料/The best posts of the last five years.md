@@ -2,7 +2,8 @@
 created: 2022-05-22T23:50:46 (UTC +08:00)
 tags: []
 source: https://www.raphkoster.com/2017/06/23/the-best-posts-of-the-last-five-years/
-author: 
+author:
+modified: 2026-05-14T16:53:35+08:00
 ---
 
 # The best posts of the last five years – Raph's Website

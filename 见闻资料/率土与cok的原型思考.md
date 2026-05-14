@@ -1,8 +1,12 @@
 ---
 created: 2021-11-21T18:13:28 (UTC +08:00)
-tags: [游戏,率土之滨,策略游戏]
+tags:
+  - 游戏
+  - 率土之滨
+  - 策略游戏
 source: https://zhuanlan.zhihu.com/p/378059650
 author: Tong(becoming) a game designer关注他
+modified: 2026-05-14T09:05:33+08:00
 ---
 
 # 率土与cok的原型思考 - 知乎
@@ -32,3 +36,6 @@ cok的原型是2002年的OGame，或是2004年的travian（有人说travian的�
 ![](https://pic1.zhimg.com/v2-834236cfb7834ef54b4fb8f475a4e404_b.jpg)
 
 ![](https://pic4.zhimg.com/v2-bdf46193c5fe329783262d3a6919d047_b.jpg)
+
+[[《率土之滨》经验分享：拒绝VIP 4个“坚持”将游戏做到极致]]
+[[如何评价网易的手游《率土之滨》 - 知乎]]

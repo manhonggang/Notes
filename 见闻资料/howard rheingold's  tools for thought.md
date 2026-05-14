@@ -7,6 +7,8 @@ author:
 
 # howard rheingold's | tools for thought
 
+> 译文：[[思维工具 — 知识工程与专家系统]]
+
  ## Excerpt
  To me, Barr's specialty seems to be rooted in the same ides that goes back to Licklider and Bush — the inevitability of a
       human-computer symbiosis. But to many other people, the idea of artificial intelligence seems to be

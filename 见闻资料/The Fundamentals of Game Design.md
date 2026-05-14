@@ -2,10 +2,13 @@
 created: 2022-05-22T23:33:54 (UTC +08:00)
 tags: []
 source: https://www.raphkoster.com/2010/10/12/the-fundamentals-of-game-design/
-author: 
+author:
+modified: 2026-05-14T17:02:15+08:00
 ---
 
 # The Fundamentals of Game Design – Raph's Website
+
+> 译文：[[游戏设计基础]]
 
 > ## Excerpt
 > I got a request via Twitter for this old essay which had fallen off the Internet, so I am posting it here. This was originally written for Metaplace users… there is nothing here new to anyone…

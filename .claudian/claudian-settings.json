@@ -47,7 +47,8 @@
       "environmentVariables": "",
       "environmentHash": "",
       "installationMethodsByHost": {
-        "manhonggang": "native-windows"
+        "manhonggang": "native-windows",
+        "DESKTOP-NTRMANG": "native-windows"
       },
       "wslDistroOverridesByHost": {}
     }
