@@ -7,6 +7,8 @@ author:
 
 # Gamasutra - Why Left 4 Dead Works
 
+> 译文：[[为什么求生之路如此成功]]
+
 > ## Excerpt
 > 
 

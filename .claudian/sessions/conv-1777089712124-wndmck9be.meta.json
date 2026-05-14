@@ -1,0 +1,20 @@
+{
+  "id": "conv-1777089712124-wndmck9be",
+  "title": "查找与海因里希定律相关的笔记",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777089712124,
+  "updatedAt": 1777121946638,
+  "lastResponseAt": 1777089939703,
+  "sessionId": "20aca379-f2ca-4254-a53d-b522d7e840cd",
+  "sdkSessionId": "20aca379-f2ca-4254-a53d-b522d7e840cd",
+  "currentNote": "整理资料/海因里希定律.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 33455,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 33455,
+    "percentage": 17
+  }
+}

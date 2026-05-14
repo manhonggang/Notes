@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4d60c52aa5f29475",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "见闻资料/The Median Isn't the Message.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Median Isn't the Message"
-            }
-          },
-          {
             "id": "d99844658510b6b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "见闻资料/Jensen 不等式的生活意义.md",
+                "file": "快速思考/斗蛐蛐之所以快乐，是因为提供了一种穿越阶级的办法.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +28,131 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Jensen 不等式的生活意义"
+              "title": "斗蛐蛐之所以快乐，是因为提供了一种穿越阶级的办法"
+            }
+          },
+          {
+            "id": "971949db0e17a213",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "见闻资料/Luck and the Entrepreneur The four kinds of luck.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Luck and the Entrepreneur The four kinds of luck"
+            }
+          },
+          {
+            "id": "5170e554b6d27be4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "快速思考/短视未尝不是一种保护.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "短视未尝不是一种保护"
+            }
+          },
+          {
+            "id": "5bed43848c0e8e1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "快速思考/关于付费的一些反思.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "关于付费的一些反思"
+            }
+          },
+          {
+            "id": "090d935bd1b8caa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "思考整理/玩法靠什么防守.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "玩法靠什么防守"
+            }
+          },
+          {
+            "id": "325ac50f2ace1fa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "思考整理/付费颗粒度与体验闭环.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "付费颗粒度与体验闭环"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -112,7 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 417.5
   },
   "right": {
     "id": "f291d45eebc45c00",
@@ -214,7 +311,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 729.5
+    "width": 722.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,44 +326,44 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "4d60c52aa5f29475",
+  "active": "090d935bd1b8caa6",
   "lastOpenFiles": [
-    "见闻资料/Jensen 不等式的生活意义.md",
-    "见闻资料/美团张川：做了8年平台，我总结了平台的5道坎 【经纬低调分享】.md",
-    "思考整理/游戏设计原则体系.md",
+    "思考整理/付费颗粒度与体验闭环.md",
+    "思考整理/玩法靠什么防守.md",
+    "思考整理/付费颗粒度与体验闭环.md.tmp.29160.1778772684366",
+    "思考整理/The Bazaar（大巴扎）分析.md.tmp.29160.1778772681443",
+    "资料及书影音笔记/你好，我是费曼.md",
     "思考整理/商业化才是玩法的护城河.md",
-    "见闻资料/The Median Isn't the Message.md",
-    "见闻资料/jesson不等式的生活意义.md",
-    "见闻资料/纳西姆·塔勒布的遍历性_时间.md",
-    "见闻资料/From MDA to DDE.md",
-    "见闻资料/矛盾论.md",
-    "见闻资料/真正的思考技术：来自德国社会学 Niklas Luhmann 的 Zettelkasten 方法.md",
-    "见闻资料/白金工作室制作人稻叶敦志：如何制作畅销全球的动作游戏？.md",
-    "见闻资料/Why Left 4 Dead Works.md",
-    "见闻资料/The Quiet Revolution of Animal Crossing.md",
-    "见闻资料/Roam Research – A note taking tool for networked thought..md",
-    "见闻资料/Incremental_games - Linear, Polynomial, Exponential (and more) growth explained.md",
-    "日常/史玉柱的内容整理.md",
-    "见闻资料/调优RPG内容.md",
-    "决策记录/四月的测试.md",
-    "见闻资料/GDC 2012 Sid Meier on how to see games as sets of interesting decisions.md",
-    "思考整理/把外部系统当成一种玩法.md",
-    "思考整理/塔科夫和赛马娘才是RPG的未来.md",
-    "思考整理/提取式Roguelike.md",
-    "见闻资料/Tuning RPG Content.md",
-    "见闻资料/思维工具 — 知识工程与专家系统.md",
-    "思考整理/选择力学统一框架.md",
-    "思考整理/结构是认知引擎.md",
-    "见闻资料/mesothelioma-distribution.png",
-    "资料及书影音笔记/你好，我是费曼.new",
-    "资料及书影音笔记/你好，我是费曼.md.backup",
-    "见闻资料/The 13 Basic Principles of Gameplay Design.md.tmp.24872.ff5eeb66e534",
-    "思考整理/游戏设计原则体系.md.tmp.23368.79de5364f693",
-    "思考整理/游戏设计原则体系.md.tmp.23368.1ad209e329a4",
-    "整理资料/经济学 MOC.md.tmp.30540.1778688970403",
-    "见闻资料/Design better games.md.tmp.28904.1778688489950",
-    "见闻资料/Design better games.md.tmp.28904.1778688156965",
-    "认知偏差 MOC.md.tmp.28600.1778687600673",
-    "见闻资料/agency 心理学.md.tmp.25040.1778685723331"
+    "思考整理/商业化才是玩法的护城河.md.tmp.29160.1778772410310",
+    "思考整理/商业化才是玩法的护城河.md.tmp.29160.1778771654874",
+    "快速思考/关于付费的一些反思.md",
+    "快速思考/价值网络于游戏的应用.md",
+    "快速思考/同理心的几个阻碍.md",
+    "日常/Rework.md",
+    "思考整理/管理的第一性原理.md",
+    "快速思考/价值网络于游戏的应用.md.tmp.22996.1778771135523",
+    "思考整理/新时代的侠客精神.md",
+    "思考整理/人心的进展是缓慢的.md",
+    "思考整理/不拘一格.md",
+    "思考整理/模仿和投射.md",
+    "思考整理/AI对结构并不敏感.md",
+    "思考整理/PVE和PVP战斗的设计区别.md",
+    "见闻资料/Luck and the Entrepreneur The four kinds of luck.md",
+    "快速思考/价值网络于游戏的应用.md.tmp.22996.1778769686003",
+    "快速思考/价值网络于游戏的应用.md.tmp.22996.1778769674352",
+    "快速思考/价值网络于游戏的应用.md.tmp.22996.1778769659882",
+    "快速思考/价值网络于游戏的应用.md.tmp.22996.1778769646400",
+    "快速思考/价值网络于游戏的应用.md.tmp.22996.1778769456025",
+    "快速思考/短视未尝不是一种保护.md",
+    "思考整理/如何设计柱石理念.md",
+    "见闻资料/2019年我学到的最好的东西.md",
+    "快速思考/古老和可信的冲突.md",
+    "快速思考/天道，人道，塔勒布.md",
+    "快速思考/复述别人的观点会让同样知道该观点的人变得讨厌，要利用别人的观点来创造自己的观点.md",
+    "见闻资料/The Best Things I Learned In 2019.md",
+    "见闻资料/LoL Design Values In-depth with Clarity.md",
+    "快速思考/斗蛐蛐之所以快乐，是因为提供了一种穿越阶级的办法.md",
+    "快速思考/要理解一个问题，不是每个人都和你在同一个状态.md",
+    "见闻资料/mesothelioma-distribution.png"
   ]
 }

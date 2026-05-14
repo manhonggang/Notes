@@ -1,0 +1,20 @@
+{
+  "id": "conv-1777132962876-1dcnah2ue",
+  "title": "Analyze document for hidden insights",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777132962876,
+  "updatedAt": 1777134169753,
+  "lastResponseAt": 1777134000899,
+  "sessionId": "e85eea20-8c16-44a0-bae7-4a168ecffecb",
+  "sdkSessionId": "e85eea20-8c16-44a0-bae7-4a168ecffecb",
+  "currentNote": "思考整理/游戏的节奏.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 276,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 59648,
+    "contextWindow": 200000,
+    "contextTokens": 59924,
+    "percentage": 30
+  }
+}

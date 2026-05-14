@@ -1,0 +1,19 @@
+{
+  "id": "conv-1777037662200-a35iwrn0j",
+  "title": "Identify my notes with related viewpoints to a ...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777037662200,
+  "updatedAt": 1777045478501,
+  "lastResponseAt": 1777039674252,
+  "sessionId": "0e73ff44-fb9d-4c45-bec6-f3e3049457c4",
+  "sdkSessionId": "0e73ff44-fb9d-4c45-bec6-f3e3049457c4",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 56265,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 56265,
+    "percentage": 28
+  }
+}

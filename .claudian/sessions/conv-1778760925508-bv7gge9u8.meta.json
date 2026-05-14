@@ -1,15 +1,16 @@
 {
   "id": "conv-1778760925508-bv7gge9u8",
   "providerId": "claude",
-  "title": "挖掘笔记中Jensen不等式相关内容并解析生活意义",
+  "title": "Process translation slash command",
   "titleGenerationStatus": "success",
   "createdAt": 1778760925509,
-  "updatedAt": 1778763026856,
-  "lastResponseAt": 1778763026856,
+  "updatedAt": 1778764770637,
+  "lastResponseAt": 1778764758830,
   "sessionId": "77ae5ce4-5103-45ea-abc2-4853e2588194",
   "providerState": {
     "providerSessionId": "77ae5ce4-5103-45ea-abc2-4853e2588194"
   },
+  "currentNote": "见闻资料/Why Left 4 Dead Works.md",
   "usage": {
     "model": "haiku",
     "inputTokens": 988,

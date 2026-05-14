@@ -1,0 +1,19 @@
+{
+  "id": "conv-1777189618402-82o3bg1eh",
+  "title": "逐字翻译文档并添加双链",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777189618402,
+  "updatedAt": 1777190101705,
+  "lastResponseAt": 1777189762281,
+  "sessionId": "40d3b024-df96-4ce8-86ad-a9eed9ee5a34",
+  "sdkSessionId": "40d3b024-df96-4ce8-86ad-a9eed9ee5a34",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 237,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 35456,
+    "contextWindow": 200000,
+    "contextTokens": 35693,
+    "percentage": 18
+  }
+}

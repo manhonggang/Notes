@@ -1,0 +1,20 @@
+{
+  "id": "conv-1777190238298-4blgj44vm",
+  "title": "Compile Wang Huiwen book recommendations with r...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777190238298,
+  "updatedAt": 1777194125764,
+  "lastResponseAt": 1777191211890,
+  "sessionId": "41fbc018-250b-4418-a291-87e33aa0eaf7",
+  "sdkSessionId": "41fbc018-250b-4418-a291-87e33aa0eaf7",
+  "currentNote": "见闻资料/王慧文的产品管理课.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 256,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 87936,
+    "contextWindow": 200000,
+    "contextTokens": 88192,
+    "percentage": 44
+  }
+}

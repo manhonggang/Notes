@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778769159283-gx6oryd2s",
+  "providerId": "claude",
+  "title": "研究部分游戏在TapTap存活而另一些依赖买量网络的原因",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778769159284,
+  "updatedAt": 1778771325239,
+  "lastResponseAt": 1778771177346,
+  "sessionId": "e171c1e6-b2ae-4382-86e3-89ec8691ae91",
+  "providerState": {
+    "providerSessionId": "e171c1e6-b2ae-4382-86e3-89ec8691ae91"
+  },
+  "currentNote": "快速思考/价值网络于游戏的应用.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 187,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 72832,
+    "contextWindow": 200000,
+    "contextTokens": 73019,
+    "percentage": 37,
+    "contextWindowIsAuthoritative": true
+  }
+}

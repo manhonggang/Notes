@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778765471572-zy1kzwgoj",
+  "providerId": "claude",
+  "title": "Compress empty lines in text",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778765471573,
+  "updatedAt": 1778765974680,
+  "lastResponseAt": 1778765528298,
+  "sessionId": "bcf50476-091c-4993-86ff-1ee403e03f4b",
+  "providerState": {
+    "providerSessionId": "bcf50476-091c-4993-86ff-1ee403e03f4b"
+  },
+  "currentNote": "资料及书影音笔记/巨人的方法.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 3117,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 22464,
+    "contextWindow": 200000,
+    "contextTokens": 25581,
+    "percentage": 13,
+    "contextWindowIsAuthoritative": true
+  }
+}

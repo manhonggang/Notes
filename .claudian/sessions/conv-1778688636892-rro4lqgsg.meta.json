@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778688636892-rro4lqgsg",
+  "providerId": "claude",
+  "title": "Organize economics notes into MOC",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778688636892,
+  "updatedAt": 1778688993482,
+  "lastResponseAt": 1778688993482,
+  "sessionId": "aa55b2d8-b437-4433-8278-452aac89b3d9",
+  "providerState": {
+    "providerSessionId": "aa55b2d8-b437-4433-8278-452aac89b3d9"
+  },
+  "currentNote": "整理资料/认知偏差 MOC.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 44,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 93184,
+    "contextWindow": 200000,
+    "contextTokens": 93228,
+    "percentage": 47,
+    "contextWindowIsAuthoritative": true
+  }
+}

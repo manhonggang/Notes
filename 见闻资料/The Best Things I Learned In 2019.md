@@ -7,6 +7,8 @@ author: Neil Kakkar
 
 # The Best Things I Learned In 2019 | Neil Kakkar
 
+> 译文：[[2019年我学到的最好的东西]]
+
 > ## Excerpt
 > Year of 2019 in review, with the biggest ideas discovered, top lessons learned, and statistics about the blog.
 

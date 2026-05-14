@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778677363466-5sxxfhjy1",
+  "providerId": "claude",
+  "title": "你好",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1778677363466,
+  "updatedAt": 1778684836256,
+  "lastResponseAt": 1778684709508,
+  "sessionId": "2d1fc2ab-23bd-4364-a52e-62d31b8bf099",
+  "providerState": {
+    "providerSessionId": "2d1fc2ab-23bd-4364-a52e-62d31b8bf099"
+  },
+  "currentNote": "思考整理/游戏设计原则体系.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 202,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 153856,
+    "contextWindow": 200000,
+    "contextTokens": 154058,
+    "percentage": 77,
+    "contextWindowIsAuthoritative": true
+  }
+}

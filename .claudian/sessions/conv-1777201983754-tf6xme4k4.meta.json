@@ -1,0 +1,20 @@
+{
+  "id": "conv-1777201983754-tf6xme4k4",
+  "title": "Explain why great works can be simple but not s...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777201983754,
+  "updatedAt": 1777202312120,
+  "lastResponseAt": 1777202312120,
+  "sessionId": "cdfef412-9ea2-40a7-aa10-2f3c622e85b1",
+  "sdkSessionId": "cdfef412-9ea2-40a7-aa10-2f3c622e85b1",
+  "currentNote": "资料及书影音笔记/伟大作品的隐秘结构.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 28032,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 4416,
+    "contextWindow": 200000,
+    "contextTokens": 32448,
+    "percentage": 16
+  }
+}

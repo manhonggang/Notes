@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778687119573-m5sc72cuk",
+  "providerId": "claude",
+  "title": "Find related notes to content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778687119573,
+  "updatedAt": 1778687806270,
+  "lastResponseAt": 1778687648547,
+  "sessionId": "cc064bb1-8a4d-4063-8c63-e685b99eb1db",
+  "providerState": {
+    "providerSessionId": "cc064bb1-8a4d-4063-8c63-e685b99eb1db"
+  },
+  "currentNote": "见闻资料/内群体偏袒效应和外群体同质化认知偏差.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 263,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 105984,
+    "contextWindow": 200000,
+    "contextTokens": 106247,
+    "percentage": 53,
+    "contextWindowIsAuthoritative": true
+  }
+}

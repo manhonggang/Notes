@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778768503522-ezoggk39r",
+  "providerId": "claude",
+  "title": "Initiate translation process",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778768503522,
+  "updatedAt": 1778769103042,
+  "lastResponseAt": 1778768949404,
+  "sessionId": "5b464cb5-31f2-4dab-87c7-7af0e88e3624",
+  "providerState": {
+    "providerSessionId": "5b464cb5-31f2-4dab-87c7-7af0e88e3624"
+  },
+  "currentNote": "见闻资料/The Best Things I Learned In 2019.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 190,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 51776,
+    "contextWindow": 200000,
+    "contextTokens": 51966,
+    "percentage": 26,
+    "contextWindowIsAuthoritative": true
+  }
+}

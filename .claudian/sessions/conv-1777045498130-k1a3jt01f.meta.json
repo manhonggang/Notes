@@ -1,0 +1,19 @@
+{
+  "id": "conv-1777045498130-k1a3jt01f",
+  "title": "Explain game developer wow moment definition, s...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777045498131,
+  "updatedAt": 1777076967156,
+  "lastResponseAt": 1777074201071,
+  "sessionId": "4b0aa583-1ad2-4e1e-8638-2997b1e3918c",
+  "sdkSessionId": "4b0aa583-1ad2-4e1e-8638-2997b1e3918c",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 32308,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 32308,
+    "percentage": 16
+  }
+}

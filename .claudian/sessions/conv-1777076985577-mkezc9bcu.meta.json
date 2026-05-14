@@ -1,0 +1,19 @@
+{
+  "id": "conv-1777076985577-mkezc9bcu",
+  "title": "Translate article into Chinese",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777076985577,
+  "updatedAt": 1777089688400,
+  "lastResponseAt": 1777087641746,
+  "sessionId": "9445087f-f5e2-496f-9707-b06ca7149418",
+  "sdkSessionId": "9445087f-f5e2-496f-9707-b06ca7149418",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 109454,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 109454,
+    "percentage": 55
+  }
+}

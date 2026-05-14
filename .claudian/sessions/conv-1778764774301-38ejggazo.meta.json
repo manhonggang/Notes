@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778764774301-38ejggazo",
+  "providerId": "claude",
+  "title": "Initiate casual greeting conversation",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778764774301,
+  "updatedAt": 1778765464209,
+  "lastResponseAt": 1778765107431,
+  "sessionId": "5f8b35b6-80bf-4970-8ecd-5d0a0c25e48c",
+  "providerState": {
+    "providerSessionId": "5f8b35b6-80bf-4970-8ecd-5d0a0c25e48c"
+  },
+  "currentNote": "见闻资料/Why Left 4 Dead Works.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 566,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 35840,
+    "contextWindow": 200000,
+    "contextTokens": 36406,
+    "percentage": 18,
+    "contextWindowIsAuthoritative": true
+  }
+}

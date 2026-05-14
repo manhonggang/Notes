@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778684854292-n6x75h6ms",
+  "providerId": "claude",
+  "title": "Find related notes to this note",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778684854292,
+  "updatedAt": 1778687090249,
+  "lastResponseAt": 1778685735011,
+  "sessionId": "52ee18b3-7acb-40c3-8b99-d79324ee9c9a",
+  "providerState": {
+    "providerSessionId": "52ee18b3-7acb-40c3-8b99-d79324ee9c9a"
+  },
+  "currentNote": "见闻资料/agency 心理学.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 2183,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 58496,
+    "contextWindow": 200000,
+    "contextTokens": 60679,
+    "percentage": 30,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "conv-1777125153690-elpbdezhe",
+  "title": "Analyze document to uncover previously unnotice...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777125153691,
+  "updatedAt": 1777132954458,
+  "lastResponseAt": 1777130839899,
+  "sessionId": "d131ac2e-f4d3-4a55-9699-2a58596b253f",
+  "sdkSessionId": "d131ac2e-f4d3-4a55-9699-2a58596b253f",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 326,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 106240,
+    "contextWindow": 200000,
+    "contextTokens": 106566,
+    "percentage": 53
+  }
+}

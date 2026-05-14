@@ -1,0 +1,20 @@
+{
+  "id": "conv-1777121974805-6hsgk48d4",
+  "title": "Expand current and linked documents",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777121974805,
+  "updatedAt": 1777125038695,
+  "lastResponseAt": 1777122259488,
+  "sessionId": "29ae075f-1e5d-4e60-951c-c52eb06d92dc",
+  "sdkSessionId": "29ae075f-1e5d-4e60-951c-c52eb06d92dc",
+  "currentNote": "思考整理/横向和纵向.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 33498,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 33498,
+    "percentage": 17
+  }
+}
