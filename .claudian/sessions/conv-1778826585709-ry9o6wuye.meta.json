@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778826585709-ry9o6wuye",
+  "providerId": "claude",
+  "title": "Find Feynman's vs von Neumann thinking differen...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778826585709,
+  "updatedAt": 1778839277813,
+  "lastResponseAt": 1778839277813,
+  "sessionId": "85e2d95d-fa7f-4b8b-9ff1-a743b0059bf5",
+  "providerState": {
+    "providerSessionId": "85e2d95d-fa7f-4b8b-9ff1-a743b0059bf5"
+  },
+  "currentNote": "资料及书影音笔记/你好，我是费曼.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 42037,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 256,
+    "contextWindow": 200000,
+    "contextTokens": 42293,
+    "percentage": 21,
+    "contextWindowIsAuthoritative": true
+  }
+}

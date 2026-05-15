@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d99844658510b6b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "快速思考/斗蛐蛐之所以快乐，是因为提供了一种穿越阶级的办法.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "斗蛐蛐之所以快乐，是因为提供了一种穿越阶级的办法"
-            }
-          },
-          {
             "id": "971949db0e17a213",
             "type": "leaf",
             "state": {
@@ -56,12 +32,12 @@
             }
           },
           {
-            "id": "5170e554b6d27be4",
+            "id": "8be68ab9a2cce7fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "快速思考/短视未尝不是一种保护.md",
+                "file": "快速思考/思考的几种编码方式.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "短视未尝不是一种保护"
+              "title": "思考的几种编码方式"
             }
           },
           {
-            "id": "5bed43848c0e8e1b",
+            "id": "052901bb56752e09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "快速思考/关于付费的一些反思.md",
+                "file": "见闻资料/彼得德鲁克关于知识的论述.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "关于付费的一些反思"
+              "title": "彼得德鲁克关于知识的论述"
             }
           },
           {
-            "id": "090d935bd1b8caa6",
+            "id": "4e52cf7fd12ec976",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "见闻资料/AI领域下一个最大的护城河.md",
+                "file": "资料及书影音笔记/管理自己.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,35 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AI领域下一个最大的护城河"
-            }
-          },
-          {
-            "id": "325ac50f2ace1fa6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "思考整理/付费颗粒度与体验闭环.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "付费颗粒度与体验闭环"
+              "title": "管理自己"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 417.5
+    "width": 282.5
   },
   "right": {
     "id": "f291d45eebc45c00",
@@ -326,41 +278,41 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "090d935bd1b8caa6",
+  "active": "8be68ab9a2cce7fa",
   "lastOpenFiles": [
-    "见闻资料/游戏任务设计.md",
+    "快速思考/价值网络于游戏的应用.md",
+    "快速思考/思考的几种编码方式.md",
+    "资料及书影音笔记/你好，我是费曼.md",
+    "快速思考/设计师必须艰苦的思考.md",
+    "快速思考/数学作为一种思考心智.md",
+    "资料及书影音笔记/科学迷宫里的顽童与大师：赫伯特·西蒙自传.md",
+    "见闻资料/The best posts of the last five years.md",
+    "资料及书影音笔记/逆转.md",
+    "快速思考/空间折叠关卡设计法.md",
+    "快速思考/商业产品的思考角度.md",
+    "快速思考/游戏中信息的暴露.md",
+    "快速思考/当我们在思考时，脑子里是图还是字？.md",
+    "快速思考/斗蛐蛐之所以快乐，是因为提供了一种穿越阶级的办法.md",
+    "快速思考/南海十三郎就是典型的对话思考者.md",
+    "资料及书影音笔记/俗世奇人全本：全三册.md",
+    "资料及书影音笔记/学习之道：美国公认经典学习书.md",
+    "快速思考/思想不仅可以在书本中读到.md",
+    "见闻资料/彼得德鲁克关于知识的论述.md",
+    "见闻资料/作为游戏系统策划新人，除了分析游戏以外，日常还有哪些可以提升自己的方法？ - 知乎.md",
+    "见闻资料/六个半的设计哲学 from Alex.md",
+    "快速思考/递进式设计.md",
+    "快速思考/整理笔记随想.md",
+    "资料及书影音笔记/金线.md",
+    "见闻资料/人是台神奇的模式匹配机器.md",
+    "见闻资料/Luck and the Entrepreneur The four kinds of luck.md",
+    "快速思考/关于付费的一些反思.md",
     "见闻资料/The next biggest moat in AI - by David Thielen.md.tmp.4136.1778819670983",
-    "见闻资料/中位数不是全部信息.md",
-    "见闻资料/The Median Isn't the Message.md",
-    "见闻资料/可证伪性 - 简书.md",
-    "见闻资料/AI领域下一个最大的护城河.md",
     "见闻资料/AI领域下一个最大的护城河.md.tmp.4136.1778819650726",
-    "见闻资料/Giant Sparrow Ian Dallas (艾迪芬奇的记忆) 官方 AMA！  rPS4.md",
-    "见闻资料/The next biggest moat in AI - by David Thielen.md",
-    "见闻资料/The Best Things I Learned In 2019.md",
-    "见闻资料/Among Friends - An Uncharted 2 Among Thieves Post-Mortem（通顺整理版）.md",
     "见闻资料/The next biggest moat in AI - by David Thielen.md.crdownload",
-    "见闻资料/好玩的基础——核心机制.md",
-    "见闻资料/王川 论情绪记忆 (一）.md",
-    "快速思考/售卖东西是否存在理由效应？.md",
-    "思考整理/付费颗粒度与体验闭环.md",
-    "资料及书影音笔记/李诞脱口秀工作手册.md",
-    "资料及书影音笔记/好战略，坏战略（畅销版）.md",
-    "资料及书影音笔记/奥马哈之雾.md",
-    "资料及书影音笔记/论中国.md",
-    "资料及书影音笔记/塔勒布智慧箴言录.md",
-    "思考整理/下重注.md",
-    "思考整理/玩法靠什么防守.md",
     "思考整理/付费颗粒度与体验闭环.md.tmp.29160.1778772684366",
     "思考整理/The Bazaar（大巴扎）分析.md.tmp.29160.1778772681443",
-    "资料及书影音笔记/你好，我是费曼.md",
-    "思考整理/商业化才是玩法的护城河.md",
     "思考整理/商业化才是玩法的护城河.md.tmp.29160.1778772410310",
     "思考整理/商业化才是玩法的护城河.md.tmp.29160.1778771654874",
-    "快速思考/关于付费的一些反思.md",
-    "快速思考/价值网络于游戏的应用.md",
-    "快速思考/同理心的几个阻碍.md",
-    "日常/Rework.md",
     "快速思考/价值网络于游戏的应用.md.tmp.22996.1778771135523",
     "快速思考/价值网络于游戏的应用.md.tmp.22996.1778769686003",
     "快速思考/价值网络于游戏的应用.md.tmp.22996.1778769674352",

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778825998408-7zfmktmqi",
+  "providerId": "claude",
+  "title": "Analyze the provided article",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778825998409,
+  "updatedAt": 1778826454082,
+  "lastResponseAt": 1778826046587,
+  "sessionId": "61a7fe64-fc01-4af4-97cb-c3eaafcd32a7",
+  "providerState": {
+    "providerSessionId": "61a7fe64-fc01-4af4-97cb-c3eaafcd32a7"
+  },
+  "currentNote": "见闻资料/AI领域下一个最大的护城河.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 3088,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 19840,
+    "contextWindow": 200000,
+    "contextTokens": 22928,
+    "percentage": 11,
+    "contextWindowIsAuthoritative": true
+  }
+}
