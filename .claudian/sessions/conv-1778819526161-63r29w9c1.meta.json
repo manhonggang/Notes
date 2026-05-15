@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778819526161-63r29w9c1",
+  "providerId": "claude",
+  "title": "Process translation slash command",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778819526161,
+  "updatedAt": 1778819705242,
+  "lastResponseAt": 1778819705242,
+  "sessionId": "99c29dc7-cbdf-42d0-9af9-7075d572e15b",
+  "providerState": {
+    "providerSessionId": "99c29dc7-cbdf-42d0-9af9-7075d572e15b"
+  },
+  "currentNote": "见闻资料/The next biggest moat in AI - by David Thielen.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 271,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 33024,
+    "contextWindow": 200000,
+    "contextTokens": 33295,
+    "percentage": 17,
+    "contextWindowIsAuthoritative": true
+  }
+}
