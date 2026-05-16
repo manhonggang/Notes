@@ -1,6 +1,8 @@
+> 译文：[[钢铁、蒸汽与无限心智]]
+
 Every era is shaped by its miracle material. Steel forged the Gilded Age. Semiconductors switched on the Digital Age. Now AI has arrived as infinite minds. If history teaches us anything, those who master the material define the era.
 
-![Left: teenage Andrew Carnegie and his younger brother. Right: Pittsburgh steel factories during the Glided Age.](https://www.notion.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fspoqsaf9291f%2F3FB59yYIDw05SoCRrtGoB%2Ffd7b0e1aa1abfca7fb9803e5214a21c5%2F1.jpeg&w=3840&q=75)
+![[attachments/1_carnegie_steel.jpeg|Left: teenage Andrew Carnegie and his younger brother. Right: Pittsburgh steel factories during the Glided Age.]]
 
 Left: teenage Andrew Carnegie and his younger brother. Right: Pittsburgh steel factories during the Glided Age.
 
@@ -8,13 +10,13 @@ In the 1850s, Andrew Carnegie ran through muddy Pittsburgh streets as a telegrap
 
 Since then, work shifted from factories to offices. Today I run a software company in San Francisco, building tools for millions of knowledge workers. In this industry town, everyone is talking about AGI, but most of the two billion desk workers have yet to feel it. What will knowledge work look like soon? What happens when the org chart absorbs minds that never sleep?
 
-![Early movies often looked like stage plays, with one camera focused on the stage.](https://www.notion.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fspoqsaf9291f%2F6y5RarrZ7Ug6vh1MONNboK%2F2ecbcf6f7c7a087e912f11277a457dfa%2F2.jpeg&w=3840&q=75)
+![[attachments/2_early_movie.jpeg|Early movies often looked like stage plays, with one camera focused on the stage.]]
 
 Early movies often looked like stage plays, with one camera focused on the stage.
 
 This future is often difficult to predict because it always disguises itself as the past. Early phone calls were concise like telegrams. Early movies looked like filmed plays. (**This is what Marshall McLuhan called "driving to the future via the rearview window."**)
 
-![The most popular form of AI today look like Google search of the past. To quote Marshall McLuhan: "we are always driving into the future via the rearview window."](https://www.notion.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fspoqsaf9291f%2F6ku2cSeU22PJk1evKqJ0Q7%2F06ff1f3233a39fcbbcd0e31d396fdf21%2F3.jpeg&w=3840&q=75)
+![[attachments/3_ai_search.jpeg|The most popular form of AI today look like Google search of the past. To quote Marshall McLuhan: "we are always driving into the future via the rearview window."]]
 
 The most popular form of AI today look like Google search of the past. To quote Marshall McLuhan: "we are always driving into the future via the rearview window."
 
@@ -28,7 +30,7 @@ The first glimpses can be found with the high priests of knowledge work: program
 
 My co-founder Simon was what we call a 10× programmer, but he rarely writes code these days. Walk by his desk and you'll see him orchestrating three or four AI coding agents at once, and they don't just type faster, they think, which together makes him a 30-40× engineer. He queues tasks before lunch or bed, letting them work while he's away. He's become a manager of infinite minds.
 
-![A 1970s Scientific American study on locomotion efficiency inspired Steve Jobs's famous 'bicycle for the mind' metaphor. Except we've been pedaling on the Information Superhighway for decades since.](https://www.notion.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fspoqsaf9291f%2F3Ya1e8uSgjmSOW8aiL7My%2Fad040477b6dd51554c70be8bce487ced%2F4.jpeg&w=3840&q=75)
+![[attachments/4_bicycle_mind.jpeg|A 1970s Scientific American study on locomotion efficiency inspired Steve Jobs's famous 'bicycle for the mind' metaphor. Except we've been pedaling on the Information Superhighway for decades since.]]
 
 A 1970s Scientific American study on locomotion efficiency inspired Steve Jobs's famous 'bicycle for the mind' metaphor. Except we've been pedaling on the Information Superhighway for decades since.
 
@@ -38,7 +40,7 @@ With AI agents, someone like Simon has graduated from riding a bicycle to drivin
 
 When will other types of knowledge workers get cars? Two problems must be solved.
 
-![Comparing with coding agent, why is it more difficult for AI to help with knowledge work? Because knowledge work is more fragmented and less verifiable.](https://www.notion.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fspoqsaf9291f%2F2wwfbMBAfLRdKKpuwxCWXz%2Fc46c610e340aa8bd0ffc1dcb5c1045c5%2F5.jpeg&w=3840&q=75)
+![[attachments/5_knowledge_work.jpeg|Comparing with coding agent, why is it more difficult for AI to help with knowledge work? Because knowledge work is more fragmented and less verifiable.]]
 
 Comparing with coding agent, why is it more difficult for AI to help with knowledge work? Because knowledge work is more fragmented and less verifiable.
 
@@ -46,7 +48,7 @@ Comparing with coding agent, why is it more difficult for AI to help with knowle
 
 **The second missing ingredient is verifiability.** Code has a magical property: you can verify it with tests and errors. Model makers use this to train AI to get better at coding (e.g. reinforcement learning). But how do you verify if a project is managed well, or if a strategy memo is any good? We haven't yet found ways to improve models for general knowledge work. So humans still need to be in the loop to supervise, guide, and show what good looks like.
 
-![The Red Flag Act of 1865 required a flag bearer to walk ahead of the vehicle while it drove down the street (repealed in 1896). An example of undesirable "human in the loop."](https://www.notion.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fspoqsaf9291f%2F18xCDcBD0z2hvK3OQx97WV%2F1b6ee9b897f90cf6b347b3a716e483d8%2F6.jpeg&w=3840&q=75)
+![[attachments/6_red_flag_act.jpeg|The Red Flag Act of 1865 required a flag bearer to walk ahead of the vehicle while it drove down the street (repealed in 1896). An example of undesirable "human in the loop."]]
 
 The Red Flag Act of 1865 required a flag bearer to walk ahead of the vehicle while it drove down the street (repealed in 1896). An example of undesirable "human in the loop."
 
@@ -56,7 +58,7 @@ Programming agents this year taught us that having a "human-in-the-loop" isn't a
 
 Companies are a recent invention. They degrade as they scale and reach their limit.
 
-![Organizational chart for the New York and Erie Railroad, 1855. The modern corporation and org chart evolved with the railroad companies, which were the first enterprises that needed to coordinate thousands of people across great distances.](https://www.notion.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fspoqsaf9291f%2F1JALgTmAzBRrHdsQWmMJKN%2F547131091227323b6fed7b57bf7258fc%2F7.jpeg&w=3840&q=75)
+![[attachments/7_erie_railroad.jpeg|Organizational chart for the New York and Erie Railroad, 1855. The modern corporation and org chart evolved with the railroad companies, which were the first enterprises that needed to coordinate thousands of people across great distances.]]
 
 Organizational chart for the New York and Erie Railroad, 1855. The modern corporation and org chart evolved with the railroad companies, which were the first enterprises that needed to coordinate thousands of people across great distances.
 
@@ -64,7 +66,7 @@ A few hundred years ago, most companies were workshops of a dozen people. Now we
 
 Two historical metaphors show how future organizations can look differently with new miracle materials.
 
-![A wonder of steel: the Woolworth building was the tallest building in the world upon completion in NYC, 1913.](https://www.notion.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fspoqsaf9291f%2F4En9naLCOGEKHqYof0QWkg%2F22c62c6dd0a8b60af90911fefda25925%2F8.jpeg&w=3840&q=75)
+![[attachments/8_woolworth.jpeg|A wonder of steel: the Woolworth building was the tallest building in the world upon completion in NYC, 1913.]]
 
 A wonder of steel: the Woolworth building was the tallest building in the world upon completion in NYC, 1913.
 
@@ -72,7 +74,7 @@ The first is steel. Before steel, buildings in the 19th century had a limit of s
 
 **AI is steel for organizations.** It has the potential to maintain context across workflows and surface decisions when needed without the noise. Human communication no longer has to be the load-bearing wall. The weekly two-hour alignment meeting becomes a five-minute async review. The executive decision that required three levels of approval might soon happen in minutes. Companies can scale, truly scale, without the degradation we've accepted as inevitable.
 
-![A mill with a water wheel to power its operations. Water was powerful but unreliable and restricted mills to a few locations and seasonality.](https://www.notion.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fspoqsaf9291f%2F2g5ZwvC8sLLwala5JOLkId%2F471726e1e9685b015afac83ec1357521%2F9.jpeg&w=3840&q=75)
+![[attachments/9_waterwheel.jpeg|A mill with a water wheel to power its operations. Water was powerful but unreliable and restricted mills to a few locations and seasonality.]]
 
 A mill with a water wheel to power its operations. Water was powerful but unreliable and restricted mills to a few locations and seasonality.
 
@@ -80,7 +82,7 @@ The second story is about the steam engine. At the beginning of the Industrial R
 
 The real breakthrough came when factory owners realized they could decouple from water entirely. They built larger mills closer to workers, ports, and raw materials. And they redesigned their factories around steam engines (Later, when electricity came online, owners further decentralized away from a central power shaft and placed smaller engines around the factory for different machines.) Productivity exploded, and the Second Industrial Revolution really took off.
 
-![This 1835 engraving by Thomas Allom depicts a textile factory in Lancashire, UK. It was powered by steam engines.](https://www.notion.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fspoqsaf9291f%2F6oR10odBHiCyXr4hmlB2X3%2Fa0b69b88faa03b987c221f3ea907a2bd%2F10.jpeg&w=3840&q=75)
+![[attachments/10_steam_factory.jpeg|This 1835 engraving by Thomas Allom depicts a textile factory in Lancashire, UK. It was powered by steam engines.]]
 
 This 1835 engraving by Thomas Allom depicts a textile factory in Lancashire, UK. It was powered by steam engines.
 
@@ -92,7 +94,7 @@ At my company Notion, we have been experimenting. Alongside our 1,000 employees,
 
 Steel and steam didn't just change buildings and factories. They changed cities.
 
-![Florence and Tokyo](https://www.notion.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fspoqsaf9291f%2F5wVBGHGSeKeUnSUpjT554E%2F3e611a739be2e91a3d83d91097b720b7%2F11.jpeg&w=3840&q=75)
+![[attachments/11_florence_tokyo.jpeg|Florence and Tokyo]]
 
 Until a few hundred years ago, cities were human-scaled. You could walk across Florence in forty minutes. The rhythm of life was set by how far a person could walk, how loud a voice could carry.
 

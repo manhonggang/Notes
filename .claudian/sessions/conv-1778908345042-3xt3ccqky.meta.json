@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778908345042-3xt3ccqky",
+  "providerId": "claude",
+  "title": "Analyze the role of human moats in value creati...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778908345042,
+  "updatedAt": 1778908975838,
+  "lastResponseAt": 1778908562232,
+  "sessionId": "282f8976-2226-4d46-a832-8860c05d7b8a",
+  "providerState": {
+    "providerSessionId": "282f8976-2226-4d46-a832-8860c05d7b8a"
+  },
+  "currentNote": "见闻资料/AI领域下一个最大的护城河.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 5683,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 18560,
+    "contextWindow": 200000,
+    "contextTokens": 24243,
+    "percentage": 12,
+    "contextWindowIsAuthoritative": true
+  }
+}

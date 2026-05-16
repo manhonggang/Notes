@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778908980932-p94gt27z7",
+  "providerId": "claude",
+  "title": "Initiate multilingual text translation service",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778908980932,
+  "updatedAt": 1778909291107,
+  "lastResponseAt": 1778909235111,
+  "sessionId": "2ce656bf-d6c5-4ab1-8886-e8f111e5d300",
+  "providerState": {
+    "providerSessionId": "2ce656bf-d6c5-4ab1-8886-e8f111e5d300"
+  },
+  "currentNote": "见闻资料/Incremental_games - Linear, Polynomial, Exponential (and more) growth explained.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 34823,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 34823,
+    "percentage": 17,
+    "contextWindowIsAuthoritative": true
+  }
+}

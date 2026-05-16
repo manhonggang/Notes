@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778908099251-mu1toz5vg",
+  "providerId": "claude",
+  "title": "Compress empty lines in input text",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778908099251,
+  "updatedAt": 1778908226454,
+  "lastResponseAt": 1778908182299,
+  "sessionId": "31ac021e-9e15-4d80-833d-4af7029ac88a",
+  "providerState": {
+    "providerSessionId": "31ac021e-9e15-4d80-833d-4af7029ac88a"
+  },
+  "currentNote": "资料及书影音笔记/俗世奇人全本：全三册.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 23556,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 23556,
+    "percentage": 12,
+    "contextWindowIsAuthoritative": true
+  }
+}
