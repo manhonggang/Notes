@@ -4,8 +4,8 @@
   "title": "Identify related books and views to this one",
   "titleGenerationStatus": "success",
   "createdAt": 1778750871165,
-  "updatedAt": 1778751266935,
-  "lastResponseAt": 1778751218949,
+  "updatedAt": 1778980981156,
+  "lastResponseAt": 1778980931467,
   "sessionId": "4fcb6736-4c32-47e0-84b2-470255794d35",
   "providerState": {
     "providerSessionId": "4fcb6736-4c32-47e0-84b2-470255794d35",
@@ -711,7 +711,6 @@
       }
     }
   },
-  "currentNote": "资料及书影音笔记/钓愚：操纵与欺骗的经济学.md",
   "usage": {
     "model": "haiku",
     "inputTokens": 3923,

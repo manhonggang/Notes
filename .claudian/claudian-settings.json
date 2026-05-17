@@ -1,6 +1,6 @@
 {
   "userName": "",
-  "permissionMode": "yolo",
+  "permissionMode": "plan",
   "model": "haiku",
   "thinkingBudget": "off",
   "effortLevel": "high",
@@ -48,7 +48,8 @@
       "environmentHash": "",
       "installationMethodsByHost": {
         "manhonggang": "native-windows",
-        "DESKTOP-NTRMANG": "native-windows"
+        "DESKTOP-NTRMANG": "native-windows",
+        "MHG2023": "native-windows"
       },
       "wslDistroOverridesByHost": {}
     }
@@ -65,7 +66,7 @@
     "claude": "off"
   },
   "savedProviderPermissionMode": {
-    "claude": "yolo"
+    "claude": "plan"
   },
   "lastCustomModel": "",
   "maxTabs": 3,
