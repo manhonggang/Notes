@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779097865823-zbkcy0yzj",
+  "providerId": "claude",
+  "title": "Retranslate English parts and relink wiki",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779097865823,
+  "updatedAt": 1779101935213,
+  "lastResponseAt": 1779098514037,
+  "sessionId": "86484276-6b32-48cd-ad6c-3e83e53e8e45",
+  "providerState": {
+    "providerSessionId": "86484276-6b32-48cd-ad6c-3e83e53e8e45"
+  },
+  "currentNote": "见闻资料/Nintendo’s Little-Known Product Philosophy Lateral Thinking with Withered (“Weathered”) Technology 枯萎技术的水平思考.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 147,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 53632,
+    "contextWindow": 200000,
+    "contextTokens": 53779,
+    "percentage": 27,
+    "contextWindowIsAuthoritative": true
+  }
+}

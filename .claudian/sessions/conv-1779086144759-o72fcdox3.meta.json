@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779086144759-o72fcdox3",
+  "providerId": "claude",
+  "title": "Run insight-dig command",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779086144759,
+  "updatedAt": 1779092219042,
+  "lastResponseAt": 1779091379629,
+  "sessionId": "70d09aa8-d42b-4663-8976-61c1ede2125b",
+  "providerState": {
+    "providerSessionId": "70d09aa8-d42b-4663-8976-61c1ede2125b"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 101552,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 4352,
+    "contextWindow": 200000,
+    "contextTokens": 105904,
+    "percentage": 53,
+    "contextWindowIsAuthoritative": true
+  }
+}

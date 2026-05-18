@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "971949db0e17a213",
+            "id": "e7ff3665d791caa6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "思考整理/结构是认知引擎.md",
+                "file": "见闻资料/耦合与内聚 - 软件工程.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "结构是认知引擎"
+              "title": "耦合与内聚 - 软件工程"
             }
           },
           {
-            "id": "27225bf113ebb03a",
+            "id": "b735904a5ae31e24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "思考整理/为什么反对思维导图.md",
+                "file": "资料及书影音笔记/俗世奇人全本：全三册.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "为什么反对思维导图"
+              "title": "俗世奇人全本：全三册"
             }
           },
           {
-            "id": "754bfca871c9afa9",
+            "id": "32417dacd7ce732a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "见闻资料/艾伦·凯（Alan Kay）的深刻见解.md",
+                "file": "快速思考/价值网络于游戏的应用.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "艾伦·凯（Alan Kay）的深刻见解"
+              "title": "价值网络于游戏的应用"
             }
           },
           {
-            "id": "30c9b1855f32e886",
+            "id": "23f7e51099ee1ed7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "快速思考/游戏中设计循环的本质是强化.md",
+                "file": "见闻资料/任天堂鲜为人知的产品哲学：枯萎（风化）技术的水平思考.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,16 +100,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "游戏中设计循环的本质是强化"
+              "title": "任天堂鲜为人知的产品哲学：枯萎（风化）技术的水平思考"
             }
           },
           {
-            "id": "4e52cf7fd12ec976",
+            "id": "41b09d5327ac3a45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "思考整理/收集到的一些原则.md",
+                "file": "快速思考/游戏的本质是互动.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,16 +124,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "收集到的一些原则"
+              "title": "游戏的本质是互动"
             }
           },
           {
-            "id": "f5dbb5f0941a5c0a",
+            "id": "5c4f6e4ddad0bebb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "见闻资料/思维工具 — 知识工程与专家系统.md",
+                "file": "快速思考/塔勒布的选择模式其实也是横井军平的选择模式.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,11 +148,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "思维工具 — 知识工程与专家系统"
+              "title": "塔勒布的选择模式其实也是横井军平的选择模式"
+            }
+          },
+          {
+            "id": "9472c361b37f64aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "快速思考/独特的艺术表现形式.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "独特的艺术表现形式"
+            }
+          },
+          {
+            "id": "1da7230d2763f377",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "思考整理/逆向稀缺：当智能充裕，人类还有什么价值？.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "逆向稀缺：当智能充裕，人类还有什么价值？"
+            }
+          },
+          {
+            "id": "9c3df2fac73ce1e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "见闻资料/Coupling and Cohesion - Software Engineering.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Coupling and Cohesion - Software Engineering"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -311,7 +383,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 722.5
+    "width": 831.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -326,34 +398,44 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "4e52cf7fd12ec976",
+  "active": "1da7230d2763f377",
   "lastOpenFiles": [
-    "整理资料/钢铁、蒸汽与无限心智.md",
-    "思考整理/The Bazaar（大巴扎）分析.md",
-    "见闻资料/思维工具 — 知识工程与专家系统.md",
-    "整理资料/Steam, Steel, and Infinite Minds.md",
+    "快速思考/独特的艺术表现形式.md",
+    "快速思考/新产品的认知.md",
+    "思考整理/逆向稀缺：当智能充裕，人类还有什么价值？.md",
+    "思考整理/当智能不再稀缺——三篇文章的跨时空对话.md",
+    "见闻资料/Dario Amodei — 慈爱机器.md",
+    "思考整理/管理的第一性原理.md",
+    "思考整理/自我决定理论.md",
+    "思考整理/女性游戏是Agency建构层的工程.md",
+    "思考整理/把外部系统当成一种玩法.md",
+    "日常/知行合一.md",
+    "日常/非对称风险.md",
+    "日常/【自己】带有行动力的观点.md",
+    "日常/敏捷日报回复.md",
+    "日常/如何规划日常.md",
     "日常/Death Loop.md",
     "日常/Rework.md",
-    "决策记录/给予别人东西的时候，要稍微超出一点预期.md",
+    "思考整理/游戏设计原则体系.md",
     "快速思考/构建系统的一个好处是什么东西都自动来了.md",
-    "见闻资料/王川： 投资与做人 – 李嘉诚的故事.md",
+    "见闻资料/任天堂鲜为人知的产品哲学：枯萎（风化）技术的水平思考.md",
+    "快速思考/塔勒布的选择模式其实也是横井军平的选择模式.md",
+    "快速思考/游戏的本质是互动.md",
+    "见闻资料/Nintendo’s Little-Known Product Philosophy Lateral Thinking with Withered (“Weathered”) Technology 枯萎技术的水平思考.md",
+    "见闻资料/sedSI0h5f",
+    "见闻资料/战斗圈AI：让你的玩家感觉他们正在与大量敌人作战.md",
+    "见闻资料/Nintendo’s Little-Known Product Philosophy Lateral Thinking with Withered (“Weathered”) Technology 枯萎技术的水平思考.md.tmp",
+    "见闻资料/The next biggest moat in AI - by David Thielen.md",
+    "见闻资料/How Notion pulled itself back from the brink of failure.md",
+    "见闻资料/思维工具 — 知识工程与专家系统.md",
+    "见闻资料/mesothelioma-distribution.png",
+    "日常洞察",
     "见闻资料/王川： 投资与做人 – 李嘉诚的故事.md.crdownload",
-    "见闻资料/王川：做一个大规模并联者.md",
     "见闻资料/王川：做一个大规模并联者.md.crdownload",
-    "见闻资料/王川 成功的关键 = 网络网络再网络.md",
     "见闻资料/王川 成功的关键 = 网络网络再网络.md.crdownload",
-    "见闻资料/王川 出钱最多者的视角，才是上帝视角.md",
     "见闻资料/王川 出钱最多者的视角，才是上帝视角.md.crdownload",
     "整理资料/attachments/11_florence_tokyo.jpeg",
-    "思考整理/思考的几种编码方式.md",
-    "快速思考/数学作为一种思考心智.md",
-    "快速思考/游戏中设计循环的本质是强化.md",
-    "见闻资料/王川 论情绪记忆 (一）.md",
-    "见闻资料/王川： 幸福来自效率的全面复合增长.md",
     "见闻资料/王川： 幸福来自效率的全面复合增长.md.crdownload",
-    "见闻资料/未命名.md",
-    "见闻资料/王川 论信息与整合.md",
-    "见闻资料/王川语录.md",
     "整理资料/attachments/10_steam_factory.jpeg",
     "整理资料/attachments/9_waterwheel.jpeg",
     "整理资料/attachments/8_woolworth.jpeg",
@@ -362,17 +444,7 @@
     "整理资料/attachments/5_knowledge_work.jpeg",
     "整理资料/attachments/4_bicycle_mind.jpeg",
     "整理资料/attachments/3_ai_search.jpeg",
-    "整理资料/attachments/2_early_movie.jpeg",
-    "见闻资料/乔布斯谈品味.md",
-    "见闻资料/马克安德森博客导读.md",
     "整理资料/attachments",
-    "见闻资料/Pmarchive · The only thing that matters 中文.md",
-    "见闻资料/When the VCs say “no”.md",
-    "见闻资料/Luck and the Entrepreneur The four kinds of luck.zh.md",
-    "见闻资料/The 13 Basic Principles of Gameplay Design.md",
-    "资料及书影音笔记/俗世奇人全本：全三册.new",
-    "资料及书影音笔记/俗世奇人全本：全三册.md.backup",
-    "见闻资料/The next biggest moat in AI - by David Thielen.md.tmp.4136.1778819670983",
-    "见闻资料/AI领域下一个最大的护城河.md.tmp.4136.1778819650726"
+    "资料及书影音笔记/俗世奇人全本：全三册.new"
   ]
 }

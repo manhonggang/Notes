@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779084761824-iyjkrkp4s",
+  "providerId": "claude",
+  "title": "Process translation request",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779084761825,
+  "updatedAt": 1779086134470,
+  "lastResponseAt": 1779084975216,
+  "sessionId": "58f77587-194d-4100-90e3-3e9167cee7c9",
+  "providerState": {
+    "providerSessionId": "58f77587-194d-4100-90e3-3e9167cee7c9"
+  },
+  "currentNote": "Clippings/Coupling and Cohesion - Software Engineering.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 334,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 28800,
+    "contextWindow": 200000,
+    "contextTokens": 29134,
+    "percentage": 15,
+    "contextWindowIsAuthoritative": true
+  }
+}

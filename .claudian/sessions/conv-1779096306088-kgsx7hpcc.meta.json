@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779096306088-kgsx7hpcc",
+  "providerId": "claude",
+  "title": "Translate user content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779096306088,
+  "updatedAt": 1779097702583,
+  "lastResponseAt": 1779097027586,
+  "sessionId": "64d200b1-74fc-49fc-8226-32a5bbc4d31a",
+  "providerState": {
+    "providerSessionId": "64d200b1-74fc-49fc-8226-32a5bbc4d31a"
+  },
+  "currentNote": "Clippings/The Goddess of Everything Else.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 594,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 50688,
+    "contextWindow": 200000,
+    "contextTokens": 51282,
+    "percentage": 26,
+    "contextWindowIsAuthoritative": true
+  }
+}

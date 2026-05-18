@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779075488653-wfei072ye",
+  "providerId": "claude",
+  "title": "Trigger a translation operation",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779075488654,
+  "updatedAt": 1779076939734,
+  "lastResponseAt": 1779076155212,
+  "sessionId": "ea1e7aa6-0b63-4d60-8422-bd294f39f873",
+  "providerState": {
+    "providerSessionId": "ea1e7aa6-0b63-4d60-8422-bd294f39f873"
+  },
+  "currentNote": "见闻资料/Dario Amodei — Machines of Loving Grace.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 43652,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 18688,
+    "contextWindow": 200000,
+    "contextTokens": 62340,
+    "percentage": 31,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779092226092-fbaejwqc5",
+  "providerId": "claude",
+  "title": "Process translation request",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779092226092,
+  "updatedAt": 1779092722708,
+  "lastResponseAt": 1779092688111,
+  "sessionId": "920ae16b-89c1-49fd-9397-e0f4e3b01f89",
+  "providerState": {
+    "providerSessionId": "920ae16b-89c1-49fd-9397-e0f4e3b01f89"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 2081,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 32256,
+    "contextWindow": 200000,
+    "contextTokens": 34337,
+    "percentage": 17,
+    "contextWindowIsAuthoritative": true
+  }
+}

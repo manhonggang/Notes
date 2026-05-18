@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779075502391-ha9mfrz3g",
+  "providerId": "claude",
+  "title": "Trigger translation command",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779075502391,
+  "updatedAt": 1779076937903,
+  "lastResponseAt": 1779075904578,
+  "sessionId": "5fe5a1e0-4417-4c0d-bb19-f76e15d3d93d",
+  "providerState": {
+    "providerSessionId": "5fe5a1e0-4417-4c0d-bb19-f76e15d3d93d"
+  },
+  "currentNote": "Clippings/Why AI Will Save The World.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 350,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 43520,
+    "contextWindow": 200000,
+    "contextTokens": 43870,
+    "percentage": 22,
+    "contextWindowIsAuthoritative": true
+  }
+}

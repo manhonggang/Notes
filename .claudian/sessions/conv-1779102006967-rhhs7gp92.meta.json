@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779102006967-rhhs7gp92",
+  "providerId": "claude",
+  "title": "Analyze Amodei's intelligence abundance thesis",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779102006968,
+  "updatedAt": 1779102983411,
+  "lastResponseAt": 1779102983411,
+  "sessionId": "c37fe620-57d7-4d35-bafd-c9db9c405903",
+  "providerState": {
+    "providerSessionId": "c37fe620-57d7-4d35-bafd-c9db9c405903"
+  },
+  "currentNote": "思考整理/当智能不再稀缺——三篇文章的跨时空对话.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 241,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 67584,
+    "contextWindow": 200000,
+    "contextTokens": 67825,
+    "percentage": 34,
+    "contextWindowIsAuthoritative": true
+  }
+}
