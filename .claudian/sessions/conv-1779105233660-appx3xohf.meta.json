@@ -1,16 +1,16 @@
 {
   "id": "conv-1779105233660-appx3xohf",
   "providerId": "claude",
-  "title": "Analyze the user's personal viewpoint note",
+  "title": "挖掘游戏玩家动机含题材玩法社交及自我决定理论",
   "titleGenerationStatus": "success",
   "createdAt": 1779105233661,
-  "updatedAt": 1779106045503,
-  "lastResponseAt": 1779106045503,
+  "updatedAt": 1779117139068,
+  "lastResponseAt": 1779117063293,
   "sessionId": "da46b876-c2de-43cf-98c9-c36d08c20fc0",
   "providerState": {
     "providerSessionId": "da46b876-c2de-43cf-98c9-c36d08c20fc0"
   },
-  "currentNote": "快速思考/独特的艺术表现形式.md",
+  "currentNote": "思考整理/女性游戏是Agency建构层的工程.md",
   "usage": {
     "model": "haiku",
     "inputTokens": 18320,
