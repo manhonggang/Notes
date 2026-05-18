@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "见闻资料/Luck and the Entrepreneur The four kinds of luck.md",
+                "file": "思考整理/结构是认知引擎.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Luck and the Entrepreneur The four kinds of luck"
+              "title": "结构是认知引擎"
             }
           },
           {
-            "id": "8be68ab9a2cce7fa",
+            "id": "27225bf113ebb03a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "见闻资料/钢铁、蒸汽与无限心智.md",
+                "file": "思考整理/为什么反对思维导图.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "钢铁、蒸汽与无限心智"
+              "title": "为什么反对思维导图"
             }
           },
           {
-            "id": "f8225fcebc745bf9",
+            "id": "754bfca871c9afa9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "见闻资料/钢铁、蒸汽与无限心智.md",
+                "file": "见闻资料/艾伦·凯（Alan Kay）的深刻见解.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "钢铁、蒸汽与无限心智"
+              "title": "艾伦·凯（Alan Kay）的深刻见解"
             }
           },
           {
-            "id": "8f068ed98e058522",
+            "id": "30c9b1855f32e886",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "快速思考/游戏中设计循环的本质是强化.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "游戏中设计循环的本质是强化"
+            }
+          },
+          {
+            "id": "4e52cf7fd12ec976",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "思考整理/收集到的一些原则.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "收集到的一些原则"
+            }
+          },
+          {
+            "id": "f5dbb5f0941a5c0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -101,78 +149,6 @@
               },
               "icon": "lucide-file",
               "title": "思维工具 — 知识工程与专家系统"
-            }
-          },
-          {
-            "id": "513cf95a348da317",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "整理资料/AI MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "AI MOC"
-            }
-          },
-          {
-            "id": "052901bb56752e09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "见闻资料/彼得德鲁克关于知识的论述.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "彼得德鲁克关于知识的论述"
-            }
-          },
-          {
-            "id": "4e52cf7fd12ec976",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "资料及书影音笔记/管理自己.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "管理自己"
             }
           }
         ],
@@ -233,7 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 352.5
   },
   "right": {
     "id": "f291d45eebc45c00",
@@ -350,53 +326,53 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "513cf95a348da317",
+  "active": "4e52cf7fd12ec976",
   "lastOpenFiles": [
-    "整理资料/经济学 MOC.md",
-    "见闻资料/「访谈-Ivan Zhao」Notion 的历程、理念与未来 - 知乎.md",
-    "整理资料/AI MOC.md",
-    "资料及书影音笔记/未来简史.md",
-    "整理资料/AI MOC.md.tmp.9444.1778988127362",
-    "整理资料/AI MOC.md.tmp.9444.1778988110190",
-    "整理资料/AI MOC.md.tmp.9444.1778988093858",
+    "整理资料/钢铁、蒸汽与无限心智.md",
+    "思考整理/The Bazaar（大巴扎）分析.md",
     "见闻资料/思维工具 — 知识工程与专家系统.md",
-    "整理资料/AI MOC.md.tmp.9444.1778983011773",
-    "见闻资料/钢铁、蒸汽与无限心智.md",
-    "见闻资料/Steam, Steel, and Infinite Minds.md",
-    "见闻资料/2028年全球智能危机.md",
-    "见闻资料/THE 2028 GLOBAL INTELLIGENCE CRISIS.md",
-    "整理资料/大龙凤.md",
-    "思考整理/结构是认知引擎.md",
-    "见闻资料/王川：做一个大规模并联者.md",
+    "整理资料/Steam, Steel, and Infinite Minds.md",
+    "日常/Death Loop.md",
+    "日常/Rework.md",
+    "决策记录/给予别人东西的时候，要稍微超出一点预期.md",
+    "快速思考/构建系统的一个好处是什么东西都自动来了.md",
     "见闻资料/王川： 投资与做人 – 李嘉诚的故事.md",
-    "见闻资料/王川： 幸福来自效率的全面复合增长.md",
+    "见闻资料/王川： 投资与做人 – 李嘉诚的故事.md.crdownload",
+    "见闻资料/王川：做一个大规模并联者.md",
+    "见闻资料/王川：做一个大规模并联者.md.crdownload",
     "见闻资料/王川 成功的关键 = 网络网络再网络.md",
+    "见闻资料/王川 成功的关键 = 网络网络再网络.md.crdownload",
     "见闻资料/王川 出钱最多者的视角，才是上帝视角.md",
-    "见闻资料/增量游戏——线性、多项式、指数（以及更多）增长方式详解.md",
-    "整理资料/attachments/2_early_movie.jpeg",
-    "整理资料/attachments/3_ai_search.jpeg",
-    "整理资料/attachments/5_knowledge_work.jpeg",
+    "见闻资料/王川 出钱最多者的视角，才是上帝视角.md.crdownload",
+    "整理资料/attachments/11_florence_tokyo.jpeg",
+    "思考整理/思考的几种编码方式.md",
+    "快速思考/数学作为一种思考心智.md",
+    "快速思考/游戏中设计循环的本质是强化.md",
+    "见闻资料/王川 论情绪记忆 (一）.md",
+    "见闻资料/王川： 幸福来自效率的全面复合增长.md",
+    "见闻资料/王川： 幸福来自效率的全面复合增长.md.crdownload",
+    "见闻资料/未命名.md",
+    "见闻资料/王川 论信息与整合.md",
+    "见闻资料/王川语录.md",
+    "整理资料/attachments/10_steam_factory.jpeg",
     "整理资料/attachments/9_waterwheel.jpeg",
     "整理资料/attachments/8_woolworth.jpeg",
     "整理资料/attachments/7_erie_railroad.jpeg",
     "整理资料/attachments/6_red_flag_act.jpeg",
+    "整理资料/attachments/5_knowledge_work.jpeg",
     "整理资料/attachments/4_bicycle_mind.jpeg",
-    "整理资料/attachments/10_steam_factory.jpeg",
-    "整理资料/attachments/1_carnegie_steel.jpeg",
+    "整理资料/attachments/3_ai_search.jpeg",
+    "整理资料/attachments/2_early_movie.jpeg",
+    "见闻资料/乔布斯谈品味.md",
+    "见闻资料/马克安德森博客导读.md",
     "整理资料/attachments",
-    "思考整理/思考的几种编码方式.md",
-    "快速思考/构建系统的一个好处是什么东西都自动来了.md",
-    "决策记录/给予别人东西的时候，要稍微超出一点预期.md",
-    "见闻资料/THE 2028 GLOBAL INTELLIGENCE CRISIS.md.tmp.15056.1778981481340",
-    "见闻资料/2028年全球智能危机.md.tmp.15056.1778981451148",
-    "思考整理/管理的第一性原理.md",
-    "思考整理/The Bazaar（大巴扎）分析.md",
-    "见闻资料/Jensen 不等式的生活意义.md",
-    "见闻资料/作为游戏系统策划新人，除了分析游戏以外，日常还有哪些可以提升自己的方法？ - 知乎.md",
-    "快速思考/思考的几种编码方式.md",
-    "快速思考/价值网络于游戏的应用.md",
+    "见闻资料/Pmarchive · The only thing that matters 中文.md",
+    "见闻资料/When the VCs say “no”.md",
+    "见闻资料/Luck and the Entrepreneur The four kinds of luck.zh.md",
+    "见闻资料/The 13 Basic Principles of Gameplay Design.md",
+    "资料及书影音笔记/俗世奇人全本：全三册.new",
+    "资料及书影音笔记/俗世奇人全本：全三册.md.backup",
     "见闻资料/The next biggest moat in AI - by David Thielen.md.tmp.4136.1778819670983",
-    "见闻资料/AI领域下一个最大的护城河.md.tmp.4136.1778819650726",
-    "见闻资料/The next biggest moat in AI - by David Thielen.md.crdownload"
+    "见闻资料/AI领域下一个最大的护城河.md.tmp.4136.1778819650726"
   ]
 }
