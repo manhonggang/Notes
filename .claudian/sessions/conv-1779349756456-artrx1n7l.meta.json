@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779349756456-artrx1n7l",
+  "providerId": "claude",
+  "title": "Dig insights from data",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779349756457,
+  "updatedAt": 1779351220194,
+  "lastResponseAt": 1779351220194,
+  "sessionId": "bfe1272e-6395-43b7-ba0b-2b06d5706807",
+  "providerState": {
+    "providerSessionId": "bfe1272e-6395-43b7-ba0b-2b06d5706807"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 165,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 115968,
+    "contextWindow": 200000,
+    "contextTokens": 116133,
+    "percentage": 58,
+    "contextWindowIsAuthoritative": true
+  }
+}

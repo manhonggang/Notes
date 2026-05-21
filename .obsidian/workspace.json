@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "见闻资料/耦合与内聚 - 软件工程.md",
+                "file": "日常洞察/洞察-2026-05-21-2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "耦合与内聚 - 软件工程"
-            }
-          },
-          {
-            "id": "1da7230d2763f377",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "思考整理/逆向稀缺：当智能充裕，人类还有什么价值？.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "逆向稀缺：当智能充裕，人类还有什么价值？"
+              "title": "洞察-2026-05-21-2"
             }
           },
           {
@@ -79,8 +55,7 @@
               "title": "逆向稀缺：当智能充裕，人类还有什么价值？"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,7 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 683.5
+    "width": 733.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,18 +229,20 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "2067c758e3d60743",
+  "active": "e7ff3665d791caa6",
   "lastOpenFiles": [
+    "日常洞察/洞察-2026-05-21-1.md",
+    "见闻资料/耦合与内聚 - 软件工程.md",
+    "日常洞察/洞察-2026-05-21-2.md",
+    "思考整理/逆向稀缺：当智能充裕，人类还有什么价值？.md",
     "见闻资料/分散知识的价格奇迹.md",
     "见闻资料/【推荐】GDC2005任天堂岩田聪演讲全文：玩者之心  雷军的博客.md",
     "见闻资料/知识在社会中的运用.md",
     "见闻资料/The Use of Knowledge in Society.md",
     "日常洞察/洞察-2026-05-18-2.md",
     "日常洞察/洞察-2026-05-18-3.md",
-    "思考整理/逆向稀缺：当智能充裕，人类还有什么价值？.md",
     "快速思考/独特的艺术表现形式.md",
     "快速思考/游戏的本质是互动.md",
-    "见闻资料/耦合与内聚 - 软件工程.md",
     "Clippings/社会中知识的运用.md",
     "整理资料/Steam, Steel, and Infinite Minds.md",
     "整理资料/钢铁、蒸汽与无限心智.md",
@@ -280,8 +257,6 @@
     "快速思考/塔勒布的选择模式其实也是横井军平的选择模式.md",
     "见闻资料/任天堂鲜为人知的产品哲学：枯萎（风化）技术的水平思考.md",
     "快速思考/价值网络于游戏的应用.md",
-    "快速思考/新产品的认知.md",
-    "思考整理/当智能不再稀缺——三篇文章的跨时空对话.md",
     "见闻资料/sedSI0h5f",
     "见闻资料/Nintendo’s Little-Known Product Philosophy Lateral Thinking with Withered (“Weathered”) Technology 枯萎技术的水平思考.md.tmp",
     "见闻资料/mesothelioma-distribution.png",
