@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日常洞察/洞察-2026-05-21-2.md",
+                "file": "见闻资料/Dario Amodei — 慈爱机器.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "洞察-2026-05-21-2"
+              "title": "Dario Amodei — 慈爱机器"
             }
           },
           {
@@ -55,7 +55,8 @@
               "title": "逆向稀缺：当智能充裕，人类还有什么价值？"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "功利主义",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +109,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -229,34 +231,34 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "e7ff3665d791caa6",
+  "active": "2067c758e3d60743",
   "lastOpenFiles": [
-    "日常洞察/洞察-2026-05-21-1.md",
-    "见闻资料/耦合与内聚 - 软件工程.md",
-    "日常洞察/洞察-2026-05-21-2.md",
+    "见闻资料/Dario Amodei — 慈爱机器.md",
+    "Clippings/万物之女神.md",
+    "Clippings/The Goddess of Everything Else.md",
+    "Clippings/Dario Amodei - CEO of Anthropic  Podcast  In Good Company  Norges Bank Investment Management.md",
+    "Clippings/Dario Amodei —— Anthropic CEO 播客  In Good Company  挪威央行投资管理公司.md",
+    "见闻资料/Herbert A.Simon的“学习”与“解决问题”思想.md",
+    "见闻资料/任天堂鲜为人知的产品哲学：枯萎（风化）技术的水平思考.md",
+    "AI流程处理技巧/视频字幕整理优化Skill.md",
+    "思考整理/自我决定理论.md",
     "思考整理/逆向稀缺：当智能充裕，人类还有什么价值？.md",
+    "思考整理/当智能不再稀缺——三篇文章的跨时空对话.md",
+    "思考整理/玩家动机分层框架.md",
+    "见闻资料/增量游戏——线性、多项式、指数（以及更多）增长方式详解.md",
+    "见闻资料/游戏策划、心得、与告别.md",
+    "见闻资料/Dario Amodei — Machines of Loving Grace.md",
     "见闻资料/分散知识的价格奇迹.md",
+    "日常洞察/洞察-2026-05-21-1.md",
+    "快速思考/过程哲学，王德峰螃蟹性寒.md",
+    "日常洞察/洞察-2026-05-21-2.md",
+    "见闻资料/耦合与内聚 - 软件工程.md",
     "见闻资料/【推荐】GDC2005任天堂岩田聪演讲全文：玩者之心  雷军的博客.md",
     "见闻资料/知识在社会中的运用.md",
     "见闻资料/The Use of Knowledge in Society.md",
     "日常洞察/洞察-2026-05-18-2.md",
     "日常洞察/洞察-2026-05-18-3.md",
     "快速思考/独特的艺术表现形式.md",
-    "快速思考/游戏的本质是互动.md",
-    "Clippings/社会中知识的运用.md",
-    "整理资料/Steam, Steel, and Infinite Minds.md",
-    "整理资料/钢铁、蒸汽与无限心智.md",
-    "整理资料/经济学 MOC.md",
-    "资料及书影音笔记/科学迷宫里的顽童与大师：赫伯特·西蒙自传.md",
-    "资料及书影音笔记/俗世奇人全本：全三册.md",
-    "Clippings/万物之女神.md",
-    "Clippings/The Goddess of Everything Else.md",
-    "见闻资料/Dario Amodei — 慈爱机器.md",
-    "日常洞察/洞察索引.md",
-    "见闻资料/Coupling and Cohesion - Software Engineering.md",
-    "快速思考/塔勒布的选择模式其实也是横井军平的选择模式.md",
-    "见闻资料/任天堂鲜为人知的产品哲学：枯萎（风化）技术的水平思考.md",
-    "快速思考/价值网络于游戏的应用.md",
     "见闻资料/sedSI0h5f",
     "见闻资料/Nintendo’s Little-Known Product Philosophy Lateral Thinking with Withered (“Weathered”) Technology 枯萎技术的水平思考.md.tmp",
     "见闻资料/mesothelioma-distribution.png",

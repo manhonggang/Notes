@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779422063364-hk8ojc0uc",
+  "providerId": "claude",
+  "title": "Translate text",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779422063364,
+  "updatedAt": 1779430263409,
+  "lastResponseAt": 1779430263409,
+  "sessionId": "3612e3eb-2be1-4028-81f3-7b742a720ffb",
+  "providerState": {
+    "providerSessionId": "3612e3eb-2be1-4028-81f3-7b742a720ffb"
+  },
+  "currentNote": "Clippings/Dario Amodei - CEO of Anthropic  Podcast  In Good Company  Norges Bank Investment Management.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 59,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 138496,
+    "contextWindow": 200000,
+    "contextTokens": 138555,
+    "percentage": 69,
+    "contextWindowIsAuthoritative": true
+  }
+}
