@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779514193890-k8zx6n5y3",
+  "providerId": "claude",
+  "title": "Execute insight dig",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779514193891,
+  "updatedAt": 1779517407068,
+  "lastResponseAt": 1779517407068,
+  "sessionId": "428279c6-1c1c-419d-bc5b-6bd6fa9f09f5",
+  "providerState": {
+    "providerSessionId": "428279c6-1c1c-419d-bc5b-6bd6fa9f09f5"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 3302,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 128640,
+    "contextWindow": 1000000,
+    "contextTokens": 131942,
+    "percentage": 13,
+    "contextWindowIsAuthoritative": true
+  }
+}
