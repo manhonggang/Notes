@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780020467992-lxy6a9j79",
+  "providerId": "claude",
+  "title": "Process translation request",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780020467992,
+  "updatedAt": 1780023354322,
+  "lastResponseAt": 1780023344315,
+  "sessionId": "b46032df-f69a-45f1-9cea-47a25ebb3f86",
+  "providerState": {
+    "providerSessionId": "b46032df-f69a-45f1-9cea-47a25ebb3f86"
+  },
+  "currentNote": "见闻资料/Nick-Land-黑暗启蒙.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 67332,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 67332,
+    "percentage": 34
+  }
+}

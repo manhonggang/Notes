@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780019548030-bdd2i14aw",
+  "providerId": "claude",
+  "title": "Explain Peter Thiel and dark enlightenment",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780019548030,
+  "updatedAt": 1780023356382,
+  "lastResponseAt": 1780020571644,
+  "sessionId": "93513eae-3b2d-4801-ac80-c4a82cdf093b",
+  "providerState": {
+    "providerSessionId": "93513eae-3b2d-4801-ac80-c4a82cdf093b"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 126246,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 124928,
+    "contextWindow": 1000000,
+    "contextTokens": 251174,
+    "percentage": 25,
+    "contextWindowIsAuthoritative": true
+  }
+}

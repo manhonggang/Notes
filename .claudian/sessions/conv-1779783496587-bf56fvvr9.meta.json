@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779783496587-bf56fvvr9",
+  "providerId": "claude",
+  "title": "Analyze the given Chinese article",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779783496588,
+  "updatedAt": 1780019532285,
+  "lastResponseAt": 1779786137902,
+  "sessionId": "281622ac-464d-4f33-8927-d3411d833e96",
+  "providerState": {
+    "providerSessionId": "281622ac-464d-4f33-8927-d3411d833e96"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 45294,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 45294,
+    "percentage": 5,
+    "contextWindowIsAuthoritative": true
+  }
+}
