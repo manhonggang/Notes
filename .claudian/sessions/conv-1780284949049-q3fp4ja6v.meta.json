@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780284949049-q3fp4ja6v",
+  "providerId": "claude",
+  "title": "Provide perspective on the user's submitted sta...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780284949049,
+  "updatedAt": 1780296372952,
+  "lastResponseAt": 1780284988074,
+  "sessionId": "49e2cf71-1238-4da3-b54d-647fef370ed0",
+  "providerState": {
+    "providerSessionId": "49e2cf71-1238-4da3-b54d-647fef370ed0"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 20663,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 20480,
+    "contextWindow": 1000000,
+    "contextTokens": 41143,
+    "percentage": 4,
+    "contextWindowIsAuthoritative": true
+  }
+}
