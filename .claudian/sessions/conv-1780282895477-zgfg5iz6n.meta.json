@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780282895477-zgfg5iz6n",
+  "providerId": "claude",
+  "title": "Explain 目的性颤抖",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780282895477,
+  "updatedAt": 1780283176413,
+  "lastResponseAt": 1780283176413,
+  "sessionId": "abe5aef1-706b-4d92-9837-b07b80b1fe53",
+  "providerState": {
+    "providerSessionId": "abe5aef1-706b-4d92-9837-b07b80b1fe53"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 27298,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 24576,
+    "contextWindow": 1000000,
+    "contextTokens": 51874,
+    "percentage": 5,
+    "contextWindowIsAuthoritative": true
+  }
+}

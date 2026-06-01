@@ -4,8 +4,8 @@
   "title": "Process translate command",
   "titleGenerationStatus": "success",
   "createdAt": 1780023370152,
-  "updatedAt": 1780026869553,
-  "lastResponseAt": 1780026869553,
+  "updatedAt": 1780036784112,
+  "lastResponseAt": 1780036327547,
   "sessionId": "3dad8923-0d28-4cae-8e7e-7e086e93893f",
   "providerState": {
     "providerSessionId": "3dad8923-0d28-4cae-8e7e-7e086e93893f"
@@ -13,12 +13,12 @@
   "currentNote": "见闻资料/Nick-Land-黑暗启蒙.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 89,
+    "inputTokens": 113,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 134656,
+    "cacheReadInputTokens": 223232,
     "contextWindow": 1000000,
-    "contextTokens": 134745,
-    "percentage": 13,
+    "contextTokens": 223345,
+    "percentage": 22,
     "contextWindowIsAuthoritative": true
   }
 }
