@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780390809825-ahzj8bgjy",
+  "providerId": "claude",
+  "title": "List games with zen-inspired meditative vibes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780390809826,
+  "updatedAt": 1780393336618,
+  "lastResponseAt": 1780390841045,
+  "sessionId": "ff608611-0de4-44c4-89d9-9934c00fa520",
+  "providerState": {
+    "providerSessionId": "ff608611-0de4-44c4-89d9-9934c00fa520"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 20471,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 20471,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1780393579366-p0bjww1dt",
+  "providerId": "claude",
+  "title": "Compare it factor belief to Asimov's Last Question",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780393579366,
+  "updatedAt": 1780399554847,
+  "lastResponseAt": 1780398839132,
+  "sessionId": "06bb0e94-ff17-4108-b552-9cca1c11e6f0",
+  "providerState": {
+    "providerSessionId": "06bb0e94-ff17-4108-b552-9cca1c11e6f0"
+  },
+  "currentNote": "见闻资料/The it factor.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 37056,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 24576,
+    "contextWindow": 1000000,
+    "contextTokens": 61632,
+    "percentage": 6,
+    "contextWindowIsAuthoritative": true
+  }
+}

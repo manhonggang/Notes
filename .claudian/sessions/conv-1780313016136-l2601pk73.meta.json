@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780313016136-l2601pk73",
+  "providerId": "claude",
+  "title": "Calculate total word count of user's note library",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780313016136,
+  "updatedAt": 1780390800728,
+  "lastResponseAt": 1780313077026,
+  "sessionId": "73b5fa90-742e-49a7-a784-d98d4c667992",
+  "providerState": {
+    "providerSessionId": "73b5fa90-742e-49a7-a784-d98d4c667992"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 21687,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 21248,
+    "contextWindow": 1000000,
+    "contextTokens": 42935,
+    "percentage": 4,
+    "contextWindowIsAuthoritative": true
+  }
+}

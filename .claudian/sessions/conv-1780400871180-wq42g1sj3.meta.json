@@ -1,0 +1,24 @@
+{
+  "id": "conv-1780400871180-wq42g1sj3",
+  "providerId": "claude",
+  "title": "Analyze story quality and uniqueness",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780400871181,
+  "updatedAt": 1780402398655,
+  "lastResponseAt": 1780402398655,
+  "sessionId": "d5c027e3-7b62-4653-93de-7f223132d904",
+  "providerState": {
+    "providerSessionId": "d5c027e3-7b62-4653-93de-7f223132d904"
+  },
+  "currentNote": "快速思考/【故事原型】关系不能被替代.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 25248,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 20480,
+    "contextWindow": 1000000,
+    "contextTokens": 45728,
+    "percentage": 5,
+    "contextWindowIsAuthoritative": true
+  }
+}

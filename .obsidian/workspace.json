@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "快速思考/我怎么看待巴菲特.md",
+                "file": "快速思考/先验和循环.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "我怎么看待巴菲特"
+              "title": "先验和循环"
+            }
+          },
+          {
+            "id": "85e552c17ba7a777",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "好问题/赛博朋克时代，还有什么是值得敬畏的？.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "赛博朋克时代，还有什么是值得敬畏的？"
+            }
+          },
+          {
+            "id": "a466d6d4b4e2615f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "快速思考/【故事原型】关系不能被替代.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "【故事原型】关系不能被替代"
+            }
+          },
+          {
+            "id": "fe2538f5701f4312",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "快速思考/过程哲学，王德峰螃蟹性寒.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "过程哲学，王德峰螃蟹性寒"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,11 +278,19 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "a2e4ec75b13100f3",
+  "active": "a466d6d4b4e2615f",
   "lastOpenFiles": [
-    "快速思考/大愿景和问题.md",
+    "快速思考/先验和循环.md",
+    "快速思考/【故事原型】关系不能被替代.md",
+    "快速思考/过程哲学，王德峰螃蟹性寒.md",
+    "好问题/赛博朋克时代，还有什么是值得敬畏的？.md",
+    "Clippings/阿西莫夫的《最后的问题》全文 - 阅微堂.md",
+    "好问题/Giant Sparrow 的敬畏哲学.md",
+    "见闻资料/The it factor.md",
+    "见闻资料/IT Factor 与《最后的问题》.md",
     "日常洞察/洞察-2026-06-01-1.md",
     "快速思考/我怎么看待巴菲特.md",
+    "快速思考/大愿景和问题.md",
     "见闻资料/Nick-Land-黑暗启蒙.md",
     "快速思考/新产品的认知.md",
     "快速思考/玩游戏的动机有哪些？.md",
@@ -225,14 +306,6 @@
     "思考整理/逆向稀缺：当智能充裕，人类还有什么价值？.md",
     "Clippings/The Goddess of Everything Else.md",
     "Clippings/Dario Amodei - CEO of Anthropic  Podcast  In Good Company  Norges Bank Investment Management.md",
-    "Clippings/Dario Amodei —— Anthropic CEO 播客  In Good Company  挪威央行投资管理公司.md",
-    "思考整理/赛博朋克武侠——三套玩法设计.md",
-    "思考整理/脏与空——赛博朋克与胡金铨美学的冲突.md",
-    "思考整理/六西格玛与AI及人文学科.md",
-    "思考整理/竹中客——赛博朋克武侠故事构思.md",
-    "思考整理/悬楼——赛博朋克武侠故事构思（第三稿）.md",
-    "思考整理/心契——赛博朋克武侠故事构思（第二稿）.md",
-    "思考整理/什么是好想法——想法质量分层框架.md",
     "_translate_last.py",
     "_translate_p3p4.py",
     "_translate_p2.py",

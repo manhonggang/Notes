@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780399568769-f1ek6y967",
+  "providerId": "claude",
+  "title": "Explore what is worth revering in cyberpunk era",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780399568769,
+  "updatedAt": 1780400777241,
+  "lastResponseAt": 1780400324384,
+  "sessionId": "f21e20f7-8d99-4b98-81d7-701a49ed9141",
+  "providerState": {
+    "providerSessionId": "f21e20f7-8d99-4b98-81d7-701a49ed9141"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 26743,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 24576,
+    "contextWindow": 1000000,
+    "contextTokens": 51319,
+    "percentage": 5,
+    "contextWindowIsAuthoritative": true
+  }
+}
