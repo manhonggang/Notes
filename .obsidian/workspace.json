@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "快速思考/【故事原型】关系不能被替代.md",
+                "file": "快速思考/【故事原型】为虎作伥.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,31 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "【故事原型】关系不能被替代"
-            }
-          },
-          {
-            "id": "fe2538f5701f4312",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "快速思考/过程哲学，王德峰螃蟹性寒.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "过程哲学，王德峰螃蟹性寒"
+              "title": "【故事原型】为虎作伥"
             }
           }
         ],
@@ -280,10 +256,12 @@
   },
   "active": "a466d6d4b4e2615f",
   "lastOpenFiles": [
-    "快速思考/先验和循环.md",
     "快速思考/【故事原型】关系不能被替代.md",
-    "快速思考/过程哲学，王德峰螃蟹性寒.md",
+    "快速思考/【故事原型】为虎作伥.md",
+    "快速思考/对抗重力.md",
     "好问题/赛博朋克时代，还有什么是值得敬畏的？.md",
+    "快速思考/过程哲学，王德峰螃蟹性寒.md",
+    "快速思考/先验和循环.md",
     "Clippings/阿西莫夫的《最后的问题》全文 - 阅微堂.md",
     "好问题/Giant Sparrow 的敬畏哲学.md",
     "见闻资料/The it factor.md",
@@ -304,8 +282,6 @@
     "日常洞察/洞察索引.md",
     "日常洞察/洞察-2026-05-23-1.md",
     "思考整理/逆向稀缺：当智能充裕，人类还有什么价值？.md",
-    "Clippings/The Goddess of Everything Else.md",
-    "Clippings/Dario Amodei - CEO of Anthropic  Podcast  In Good Company  Norges Bank Investment Management.md",
     "_translate_last.py",
     "_translate_p3p4.py",
     "_translate_p2.py",

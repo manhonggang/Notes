@@ -1,0 +1,24 @@
+{
+  "id": "conv-1780469525183-jyhicxlbp",
+  "providerId": "claude",
+  "title": "Analyze given story's quality and uniqueness",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780469525225,
+  "updatedAt": 1780475867694,
+  "lastResponseAt": 1780475867694,
+  "sessionId": "39a1d2e5-7826-4e8b-9f1e-c934ab6326b6",
+  "providerState": {
+    "providerSessionId": "39a1d2e5-7826-4e8b-9f1e-c934ab6326b6"
+  },
+  "currentNote": "快速思考/【故事原型】为虎作伥.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 25077,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 24576,
+    "contextWindow": 1000000,
+    "contextTokens": 49653,
+    "percentage": 5,
+    "contextWindowIsAuthoritative": true
+  }
+}
