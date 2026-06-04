@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "好问题/赛博朋克时代，还有什么是值得敬畏的？.md",
+                "file": "快速思考/【玩法原型】妙妙酒店.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,35 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "赛博朋克时代，还有什么是值得敬畏的？"
-            }
-          },
-          {
-            "id": "a466d6d4b4e2615f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "快速思考/【故事原型】为虎作伥.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "【故事原型】为虎作伥"
+              "title": "【玩法原型】妙妙酒店"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,16 +230,17 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "a466d6d4b4e2615f",
+  "active": "85e552c17ba7a777",
   "lastOpenFiles": [
-    "快速思考/【故事原型】关系不能被替代.md",
     "快速思考/【故事原型】为虎作伥.md",
-    "快速思考/对抗重力.md",
+    "快速思考/【玩法原型】妙妙酒店.md",
+    "好问题/Giant Sparrow 的敬畏哲学.md",
     "好问题/赛博朋克时代，还有什么是值得敬畏的？.md",
+    "快速思考/对抗重力.md",
+    "快速思考/【故事原型】关系不能被替代.md",
     "快速思考/过程哲学，王德峰螃蟹性寒.md",
     "快速思考/先验和循环.md",
     "Clippings/阿西莫夫的《最后的问题》全文 - 阅微堂.md",
-    "好问题/Giant Sparrow 的敬畏哲学.md",
     "见闻资料/The it factor.md",
     "见闻资料/IT Factor 与《最后的问题》.md",
     "日常洞察/洞察-2026-06-01-1.md",
@@ -281,7 +258,6 @@
     "整理资料/目的性颤抖.md",
     "日常洞察/洞察索引.md",
     "日常洞察/洞察-2026-05-23-1.md",
-    "思考整理/逆向稀缺：当智能充裕，人类还有什么价值？.md",
     "_translate_last.py",
     "_translate_p3p4.py",
     "_translate_p2.py",
