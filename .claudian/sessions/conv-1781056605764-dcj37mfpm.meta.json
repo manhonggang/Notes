@@ -1,0 +1,23 @@
+{
+  "id": "conv-1781056605764-dcj37mfpm",
+  "providerId": "claude",
+  "title": "Explain the working mechanism of quantum computers",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781056605764,
+  "updatedAt": 1781061659244,
+  "lastResponseAt": 1781061659244,
+  "sessionId": "78844242-3ef9-4484-9cc3-5523db4b2789",
+  "providerState": {
+    "providerSessionId": "78844242-3ef9-4484-9cc3-5523db4b2789"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 30612,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 28672,
+    "contextWindow": 1000000,
+    "contextTokens": 59284,
+    "percentage": 6,
+    "contextWindowIsAuthoritative": true
+  }
+}

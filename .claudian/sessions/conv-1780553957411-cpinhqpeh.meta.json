@@ -4,13 +4,12 @@
   "title": "Evaluate the given idea without taking notes first",
   "titleGenerationStatus": "success",
   "createdAt": 1780553957411,
-  "updatedAt": 1780561394017,
+  "updatedAt": 1781056582634,
   "lastResponseAt": 1780561394017,
   "sessionId": "c0d812d7-1efc-4c4e-9c90-d5ab2d3d0cb0",
   "providerState": {
     "providerSessionId": "c0d812d7-1efc-4c4e-9c90-d5ab2d3d0cb0"
   },
-  "currentNote": "快速思考/【玩法原型】妙妙酒店.md",
   "usage": {
     "model": "haiku",
     "inputTokens": 62885,
