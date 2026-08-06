@@ -7,7 +7,7 @@ tags:
   - dark-enlightenment
 translation_of: "[[Nick-Land-黑暗启蒙]]"
 lang: zh
-modified: 2026-05-29T14:39:44+08:00
+modified: 2026-08-06T21:17:02+08:00
 ---
 
 # 黑暗启蒙

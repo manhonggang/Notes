@@ -8,31 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a2e4ec75b13100f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "快速思考/先验和循环.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "先验和循环"
-            }
-          },
-          {
-            "id": "85e552c17ba7a777",
+            "id": "e7ff3665d791caa6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,9 +30,32 @@
               "icon": "lucide-file",
               "title": "Dario Amodei —— Anthropic CEO 播客  In Good Company  挪威央行投资管理公司"
             }
+          },
+          {
+            "id": "74fa5af5ce3eaea8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日常洞察/洞察索引.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "洞察索引"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 453.5
   },
   "right": {
     "id": "f291d45eebc45c00",
@@ -215,7 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1033.5
+    "width": 598.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,52 +229,52 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "85e552c17ba7a777",
+  "active": "e7ff3665d791caa6",
   "lastOpenFiles": [
+    "Clippings/Dario Amodei - CEO of Anthropic  Podcast  In Good Company  Norges Bank Investment Management.md",
+    "Clippings/Dario Amodei —— Anthropic CEO 播客  In Good Company  挪威央行投资管理公司.md",
+    "Clippings/叙事乐高 - Ken Levine GDC 2014 演讲整理.md",
+    "Clippings/Narrative Legos with Ken Levine - GDC 2014.md",
+    "Clippings/Narrative Legos with Ken Levine - GDC 2014.md.tmp.22320.1786023548409",
+    "Clippings/叙事乐高 - Ken Levine GDC 2014 演讲整理.md.tmp.22320.1786023539956",
+    "见闻资料/公民凯恩与游戏的成年礼.md",
+    "见闻资料/公民凯恩与游戏的成年礼.md.tmp.22568.1786023264325",
+    "见闻资料/漫长的回答，从 Ludonarrative 到 Narrative Legos.md",
+    "见闻资料/Ludonarrative Dissonance in Bioshock - Click Nothing.md",
+    "见闻资料/《生化奇兵》中的叙事与玩法失调.md",
+    "见闻资料/Ludonarrative Dissonance in Bioshock - Click Nothing.md.tmp.22568.1786022863119",
+    "整理资料/attachments/5_knowledge_work.jpeg",
+    "见闻资料/《生化奇兵》中的叙事与玩法失调.md.tmp.22568.1786022810025",
+    "见闻资料/《生化奇兵》中的叙事与玩法失调.md.tmp.22568.1786022770365",
+    "见闻资料/《生化奇兵》中的叙事与玩法失调.md.tmp.22568.1786022750637",
+    "见闻资料/《生化奇兵》中的叙事与玩法失调.md.tmp.22568.1786022733099",
+    "见闻资料/《生化奇兵》中的叙事与玩法失调.md.tmp.22568.1786022715663",
+    "见闻资料/《生化奇兵》中的叙事与玩法失调.md.tmp.22568.1786022698578",
+    "整理资料/attachments/6_red_flag_act.jpeg",
+    "整理资料/attachments/8_woolworth.jpeg",
+    "整理资料/attachments/9_waterwheel.jpeg",
+    "日常洞察/洞察索引.md",
+    "见闻资料/Nick-Land-黑暗启蒙（中文版）.md",
     "见闻资料/阿西莫夫的《最后的问题》全文 - 阅微堂.md",
     "见闻资料/美国为什么不原封不动照抄50年前载人登月方法？ - niconiconi 的回答.md",
-    "见闻资料/《伊迪丝芬奇的记忆》和站在它背后的那个人.md",
-    "见闻资料/策划必看！如何把握游戏关卡的设计节奏？.md",
     "快速思考/【故事原型】量子设计引擎.md",
-    "快速思考/【故事原型】关系不能被替代.md",
+    "见闻资料/AI已经这么厉害了，人类还有学习的必要吗？ - 北冥有鱼 的回答.md",
+    "见闻资料/彼得蒂尔-一个自由主义者的教育.md",
+    "见闻资料/耦合与内聚 - 软件工程.md",
     "快速思考/【故事原型】为虎作伥.md",
+    "快速思考/【故事原型】关系不能被替代.md",
     "快速思考/【玩法原型】妙妙酒店.md",
-    "思考整理/脏与空——赛博朋克与胡金铨美学的冲突.md",
-    "思考整理/赛博朋克武侠——三套玩法设计.md",
-    "思考整理/赛博朋克武侠——胡金铨的遗产与设计框架.md",
-    "思考整理/什么是好想法——想法质量分层框架.md",
-    "思考整理/竹中客——赛博朋克武侠故事构思.md",
-    "思考整理/心契——赛博朋克武侠故事构思（第二稿）.md",
-    "思考整理/悬楼——赛博朋克武侠故事构思（第三稿）.md",
-    "AI流程处理技巧/视频字幕整理优化Skill.md",
-    "AI流程处理技巧/Claudian Skill 触发方式备忘.md",
     "好问题/Giant Sparrow 的敬畏哲学.md",
     "好问题/赛博朋克时代，还有什么是值得敬畏的？.md",
-    "快速思考/对抗重力.md",
-    "快速思考/过程哲学，王德峰螃蟹性寒.md",
-    "快速思考/先验和循环.md",
-    "见闻资料/The it factor.md",
+    "Clippings/阿西莫夫的《最后的问题》全文 - 阅微堂.md",
+    "见闻资料/Nick-Land-黑暗启蒙.md",
     "见闻资料/IT Factor 与《最后的问题》.md",
     "日常洞察/洞察-2026-06-01-1.md",
-    "快速思考/我怎么看待巴菲特.md",
-    "_translate_last.py",
-    "_translate_p3p4.py",
-    "_translate_p2.py",
-    "_translate_temp.py",
-    "见闻资料/Nick-Land-黑暗启蒙-原文.txt",
-    "见闻资料/sedSI0h5f",
-    "见闻资料/Nintendo’s Little-Known Product Philosophy Lateral Thinking with Withered (“Weathered”) Technology 枯萎技术的水平思考.md.tmp",
+    "整理资料/目的性颤抖.md",
     "见闻资料/mesothelioma-distribution.png",
-    "日常洞察",
-    "见闻资料/王川： 投资与做人 – 李嘉诚的故事.md.crdownload",
-    "见闻资料/王川：做一个大规模并联者.md.crdownload",
     "整理资料/attachments/11_florence_tokyo.jpeg",
     "整理资料/attachments/10_steam_factory.jpeg",
-    "整理资料/attachments/9_waterwheel.jpeg",
-    "整理资料/attachments/8_woolworth.jpeg",
     "整理资料/attachments/7_erie_railroad.jpeg",
-    "整理资料/attachments/6_red_flag_act.jpeg",
-    "整理资料/attachments/5_knowledge_work.jpeg",
     "整理资料/attachments/4_bicycle_mind.jpeg",
     "整理资料/attachments/3_ai_search.jpeg"
   ]
