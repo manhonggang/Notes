@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "c585e0f6468b9fdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "思考整理/涌现叙事的八条共性.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "涌现叙事的八条共性"
+            }
+          },
+          {
             "id": "74fa5af5ce3eaea8",
             "type": "leaf",
             "state": {
@@ -55,7 +79,8 @@
               "title": "洞察索引"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +100,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -229,27 +256,36 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "e7ff3665d791caa6",
+  "active": "c585e0f6468b9fdf",
   "lastOpenFiles": [
+    "思考整理/涌现叙事.md",
+    "思考整理/涌现叙事.md.tmp.22420.1786111156315",
+    "思考整理/涌现叙事的八条共性.md",
+    "思考整理/涌现叙事的八条共性.md.tmp.22420.1786111137557",
+    "Clippings/模拟人生 涌现式叙事技巧.md",
+    "思考整理/涌现叙事-延伸资源.md",
+    "Clippings/密教模拟器 实验性游戏的商业化设计.md",
+    "思考整理/涌现叙事.md.tmp.22420.1786109976249",
+    "思考整理/涌现叙事-延伸资源.md.tmp.22420.1786109970795",
+    "Clippings/Emergent Storytelling Techniques in The Sims.md",
+    "Clippings/Emergent Storytelling Techniques in The Sims.md.tmp.23412.1786108986262",
+    "Clippings/模拟人生 涌现式叙事技巧.md.tmp.23412.1786108952799",
+    "Clippings/Cultist Simulator Designing an Experimental Game for Commercial Success.md.tmp.23412.1786108495944",
+    "Clippings/密教模拟器 实验性游戏的商业化设计.md.tmp.23412.1786108478224",
+    "Clippings/RimWorld 反直觉荒谬与不可能的游戏设计方法.md",
+    "Clippings/Cultist Simulator Designing an Experimental Game for Commercial Success.md",
+    "Clippings/RimWorld Contrarian, Ridiculous, and Impossible Game Design Methods.md",
+    "Clippings/RimWorld Contrarian, Ridiculous, and Impossible Game Design Methods.md.tmp.23412.1786107914210",
+    "Clippings/RimWorld 反直觉荒谬与不可能的游戏设计方法.md.tmp.23412.1786107908270",
+    "整理资料/叙事乐高 - Ken Levine GDC 2014 演讲整理.md",
+    "Clippings/Narrative Legos with Ken Levine - GDC 2014.md",
     "Clippings/Dario Amodei - CEO of Anthropic  Podcast  In Good Company  Norges Bank Investment Management.md",
     "Clippings/Dario Amodei —— Anthropic CEO 播客  In Good Company  挪威央行投资管理公司.md",
-    "Clippings/叙事乐高 - Ken Levine GDC 2014 演讲整理.md",
-    "Clippings/Narrative Legos with Ken Levine - GDC 2014.md",
-    "Clippings/Narrative Legos with Ken Levine - GDC 2014.md.tmp.22320.1786023548409",
-    "Clippings/叙事乐高 - Ken Levine GDC 2014 演讲整理.md.tmp.22320.1786023539956",
     "见闻资料/公民凯恩与游戏的成年礼.md",
-    "见闻资料/公民凯恩与游戏的成年礼.md.tmp.22568.1786023264325",
     "见闻资料/漫长的回答，从 Ludonarrative 到 Narrative Legos.md",
     "见闻资料/Ludonarrative Dissonance in Bioshock - Click Nothing.md",
     "见闻资料/《生化奇兵》中的叙事与玩法失调.md",
-    "见闻资料/Ludonarrative Dissonance in Bioshock - Click Nothing.md.tmp.22568.1786022863119",
     "整理资料/attachments/5_knowledge_work.jpeg",
-    "见闻资料/《生化奇兵》中的叙事与玩法失调.md.tmp.22568.1786022810025",
-    "见闻资料/《生化奇兵》中的叙事与玩法失调.md.tmp.22568.1786022770365",
-    "见闻资料/《生化奇兵》中的叙事与玩法失调.md.tmp.22568.1786022750637",
-    "见闻资料/《生化奇兵》中的叙事与玩法失调.md.tmp.22568.1786022733099",
-    "见闻资料/《生化奇兵》中的叙事与玩法失调.md.tmp.22568.1786022715663",
-    "见闻资料/《生化奇兵》中的叙事与玩法失调.md.tmp.22568.1786022698578",
     "整理资料/attachments/6_red_flag_act.jpeg",
     "整理资料/attachments/8_woolworth.jpeg",
     "整理资料/attachments/9_waterwheel.jpeg",
@@ -261,16 +297,6 @@
     "见闻资料/AI已经这么厉害了，人类还有学习的必要吗？ - 北冥有鱼 的回答.md",
     "见闻资料/彼得蒂尔-一个自由主义者的教育.md",
     "见闻资料/耦合与内聚 - 软件工程.md",
-    "快速思考/【故事原型】为虎作伥.md",
-    "快速思考/【故事原型】关系不能被替代.md",
-    "快速思考/【玩法原型】妙妙酒店.md",
-    "好问题/Giant Sparrow 的敬畏哲学.md",
-    "好问题/赛博朋克时代，还有什么是值得敬畏的？.md",
-    "Clippings/阿西莫夫的《最后的问题》全文 - 阅微堂.md",
-    "见闻资料/Nick-Land-黑暗启蒙.md",
-    "见闻资料/IT Factor 与《最后的问题》.md",
-    "日常洞察/洞察-2026-06-01-1.md",
-    "整理资料/目的性颤抖.md",
     "见闻资料/mesothelioma-distribution.png",
     "整理资料/attachments/11_florence_tokyo.jpeg",
     "整理资料/attachments/10_steam_factory.jpeg",

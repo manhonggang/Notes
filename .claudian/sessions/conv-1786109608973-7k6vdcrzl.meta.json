@@ -1,0 +1,24 @@
+{
+  "id": "conv-1786109608973-7k6vdcrzl",
+  "providerId": "claude",
+  "title": "Find valuable talks on emergent narrative",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786109608973,
+  "updatedAt": 1786111177230,
+  "lastResponseAt": 1786111177230,
+  "sessionId": "7b1a4780-9dd2-437d-8cbc-de201051680c",
+  "providerState": {
+    "providerSessionId": "7b1a4780-9dd2-437d-8cbc-de201051680c"
+  },
+  "currentNote": "思考整理/涌现叙事.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 327,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 84736,
+    "contextWindow": 200000,
+    "contextTokens": 85063,
+    "percentage": 43,
+    "contextWindowIsAuthoritative": true
+  }
+}

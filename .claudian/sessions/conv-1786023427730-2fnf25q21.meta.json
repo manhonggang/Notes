@@ -4,21 +4,20 @@
   "title": "整理翻译演讲稿为流畅中文文章",
   "titleGenerationStatus": "success",
   "createdAt": 1786023427731,
-  "updatedAt": 1786023555029,
-  "lastResponseAt": 1786023555029,
+  "updatedAt": 1786109561959,
+  "lastResponseAt": 1786109044842,
   "sessionId": "686d9b61-d02c-4264-af02-31bada9bd3bf",
   "providerState": {
     "providerSessionId": "686d9b61-d02c-4264-af02-31bada9bd3bf"
   },
-  "currentNote": "Clippings/Narrative Legos with Ken Levine - GDC 2014.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 397,
+    "inputTokens": 392,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 45568,
+    "cacheReadInputTokens": 119296,
     "contextWindow": 200000,
-    "contextTokens": 45965,
-    "percentage": 23,
+    "contextTokens": 119688,
+    "percentage": 60,
     "contextWindowIsAuthoritative": true
   }
 }
