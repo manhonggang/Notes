@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fabde88a12502c13",
+        "id": "4695ec91d760a5d2",
         "type": "tabs",
         "children": [
           {
-            "id": "e7ff3665d791caa6",
+            "id": "32f63bab6c4b0315",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Dario Amodei —— Anthropic CEO 播客  In Good Company  挪威央行投资管理公司.md",
+                "file": "整理资料/火焰纹章历代记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dario Amodei —— Anthropic CEO 播客  In Good Company  挪威央行投资管理公司"
-            }
-          },
-          {
-            "id": "c585e0f6468b9fdf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "思考整理/涌现叙事的八条共性.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "涌现叙事的八条共性"
-            }
-          },
-          {
-            "id": "74fa5af5ce3eaea8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日常洞察/洞察索引.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "洞察索引"
+              "title": "火焰纹章历代记"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 352.5
   },
   "right": {
     "id": "f291d45eebc45c00",
@@ -241,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 598.5
+    "width": 1033.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,51 +207,52 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "c585e0f6468b9fdf",
+  "active": "32f63bab6c4b0315",
   "lastOpenFiles": [
-    "思考整理/涌现叙事.md",
-    "思考整理/涌现叙事.md.tmp.22420.1786111156315",
-    "思考整理/涌现叙事的八条共性.md",
-    "思考整理/涌现叙事的八条共性.md.tmp.22420.1786111137557",
-    "Clippings/模拟人生 涌现式叙事技巧.md",
-    "思考整理/涌现叙事-延伸资源.md",
-    "Clippings/密教模拟器 实验性游戏的商业化设计.md",
-    "思考整理/涌现叙事.md.tmp.22420.1786109976249",
-    "思考整理/涌现叙事-延伸资源.md.tmp.22420.1786109970795",
-    "Clippings/Emergent Storytelling Techniques in The Sims.md",
-    "Clippings/Emergent Storytelling Techniques in The Sims.md.tmp.23412.1786108986262",
-    "Clippings/模拟人生 涌现式叙事技巧.md.tmp.23412.1786108952799",
-    "Clippings/Cultist Simulator Designing an Experimental Game for Commercial Success.md.tmp.23412.1786108495944",
-    "Clippings/密教模拟器 实验性游戏的商业化设计.md.tmp.23412.1786108478224",
-    "Clippings/RimWorld 反直觉荒谬与不可能的游戏设计方法.md",
-    "Clippings/Cultist Simulator Designing an Experimental Game for Commercial Success.md",
-    "Clippings/RimWorld Contrarian, Ridiculous, and Impossible Game Design Methods.md",
-    "Clippings/RimWorld Contrarian, Ridiculous, and Impossible Game Design Methods.md.tmp.23412.1786107914210",
-    "Clippings/RimWorld 反直觉荒谬与不可能的游戏设计方法.md.tmp.23412.1786107908270",
-    "整理资料/叙事乐高 - Ken Levine GDC 2014 演讲整理.md",
-    "Clippings/Narrative Legos with Ken Levine - GDC 2014.md",
-    "Clippings/Dario Amodei - CEO of Anthropic  Podcast  In Good Company  Norges Bank Investment Management.md",
-    "Clippings/Dario Amodei —— Anthropic CEO 播客  In Good Company  挪威央行投资管理公司.md",
+    "见闻资料/白金工作室制作人稻叶敦志：如何制作畅销全球的动作游戏？.md",
+    "整理资料/火焰纹章历代记.md",
+    "资料及书影音笔记/伟大作品的隐秘结构.md",
     "见闻资料/公民凯恩与游戏的成年礼.md",
-    "见闻资料/漫长的回答，从 Ludonarrative 到 Narrative Legos.md",
-    "见闻资料/Ludonarrative Dissonance in Bioshock - Click Nothing.md",
     "见闻资料/《生化奇兵》中的叙事与玩法失调.md",
-    "整理资料/attachments/5_knowledge_work.jpeg",
-    "整理资料/attachments/6_red_flag_act.jpeg",
-    "整理资料/attachments/8_woolworth.jpeg",
-    "整理资料/attachments/9_waterwheel.jpeg",
-    "日常洞察/洞察索引.md",
-    "见闻资料/Nick-Land-黑暗启蒙（中文版）.md",
+    "整理资料/叙事乐高 - Ken Levine GDC 2014 演讲整理.md",
+    "思考整理/涌现叙事的八条共性.md",
+    "思考整理/涌现叙事.md",
+    "思考整理/涌现叙事-延伸资源.md",
+    "Clippings/模拟人生 涌现式叙事技巧.md",
+    "Clippings/密教模拟器 实验性游戏的商业化设计.md",
+    "Clippings/RimWorld 反直觉荒谬与不可能的游戏设计方法.md",
+    "Clippings/RimWorld Contrarian, Ridiculous, and Impossible Game Design Methods.md",
+    "Clippings/Narrative Legos with Ken Levine - GDC 2014.md",
+    "Clippings/Emergent Storytelling Techniques in The Sims.md",
+    "Clippings/Cultist Simulator Designing an Experimental Game for Commercial Success.md",
+    "Clippings/Dario Amodei —— Anthropic CEO 播客  In Good Company  挪威央行投资管理公司.md",
+    "快速思考/先验和循环.md",
     "见闻资料/阿西莫夫的《最后的问题》全文 - 阅微堂.md",
     "见闻资料/美国为什么不原封不动照抄50年前载人登月方法？ - niconiconi 的回答.md",
+    "见闻资料/《伊迪丝芬奇的记忆》和站在它背后的那个人.md",
+    "见闻资料/策划必看！如何把握游戏关卡的设计节奏？.md",
     "快速思考/【故事原型】量子设计引擎.md",
-    "见闻资料/AI已经这么厉害了，人类还有学习的必要吗？ - 北冥有鱼 的回答.md",
-    "见闻资料/彼得蒂尔-一个自由主义者的教育.md",
-    "见闻资料/耦合与内聚 - 软件工程.md",
+    "快速思考/【故事原型】关系不能被替代.md",
+    "快速思考/【故事原型】为虎作伥.md",
+    "快速思考/【玩法原型】妙妙酒店.md",
+    "_translate_last.py",
+    "_translate_p3p4.py",
+    "_translate_p2.py",
+    "_translate_temp.py",
+    "见闻资料/Nick-Land-黑暗启蒙-原文.txt",
+    "见闻资料/sedSI0h5f",
+    "见闻资料/Nintendo’s Little-Known Product Philosophy Lateral Thinking with Withered (“Weathered”) Technology 枯萎技术的水平思考.md.tmp",
     "见闻资料/mesothelioma-distribution.png",
+    "日常洞察",
+    "见闻资料/王川： 投资与做人 – 李嘉诚的故事.md.crdownload",
+    "见闻资料/王川：做一个大规模并联者.md.crdownload",
     "整理资料/attachments/11_florence_tokyo.jpeg",
     "整理资料/attachments/10_steam_factory.jpeg",
+    "整理资料/attachments/9_waterwheel.jpeg",
+    "整理资料/attachments/8_woolworth.jpeg",
     "整理资料/attachments/7_erie_railroad.jpeg",
+    "整理资料/attachments/6_red_flag_act.jpeg",
+    "整理资料/attachments/5_knowledge_work.jpeg",
     "整理资料/attachments/4_bicycle_mind.jpeg",
     "整理资料/attachments/3_ai_search.jpeg"
   ]
