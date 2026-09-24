@@ -1,16 +1,16 @@
 {
   "id": "conv-1786109608973-7k6vdcrzl",
   "providerId": "claude",
-  "title": "Find valuable talks on emergent narrative",
-  "titleGenerationStatus": "success",
+  "title": "好像雷军说过连续两次成功才算成功，这句话在哪？",
+  "titleGenerationStatus": "failed",
   "createdAt": 1786109608973,
-  "updatedAt": 1786111177230,
-  "lastResponseAt": 1786111177230,
+  "updatedAt": 1789614707369,
+  "lastResponseAt": 1789614625963,
   "sessionId": "7b1a4780-9dd2-437d-8cbc-de201051680c",
   "providerState": {
     "providerSessionId": "7b1a4780-9dd2-437d-8cbc-de201051680c"
   },
-  "currentNote": "思考整理/涌现叙事.md",
+  "currentNote": "资料及书影音笔记/小米创业思考.md",
   "usage": {
     "model": "haiku",
     "inputTokens": 327,

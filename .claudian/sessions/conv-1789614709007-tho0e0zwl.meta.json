@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789614709007-tho0e0zwl",
+  "providerId": "claude",
+  "title": "好像雷军说过连续两次成功才算成功，这句话在哪？",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789614709007,
+  "updatedAt": 1789644526583,
+  "lastResponseAt": 1789615658943,
+  "sessionId": "e5dfff56-4d90-43c5-9be7-28e4c5120566",
+  "providerState": {
+    "providerSessionId": "e5dfff56-4d90-43c5-9be7-28e4c5120566"
+  },
+  "currentNote": "资料及书影音笔记/小米创业思考.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 19720,
+    "cacheCreationInputTokens": 2496,
+    "cacheReadInputTokens": 30610,
+    "contextWindow": 200000,
+    "contextTokens": 52826,
+    "percentage": 26,
+    "contextWindowIsAuthoritative": true
+  }
+}
